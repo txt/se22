@@ -20,7 +20,7 @@
 ## Essay (ethics)
 
 
-Work solo.
+Work solo. **IMPORTANT**: read [the lecture on ethics](/docs/ethics.md) before you start.
 
 
 ## Word limit
