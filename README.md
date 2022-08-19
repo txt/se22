@@ -66,6 +66,7 @@ password=softeng22!
 <td valign=top>
 Aug 26, <a href="/docs/hw1.md">hw 1</a><br>
 Sept 2, <a href="/docs/hw2.md">hw 2</a><br>
+Sept 5, holiday<br>
 Sept 9, <a href="/docs/hw3.md">hw 3</a><br>
 Sept 16, <a href="/docs/hw4.md">hw 4</a><br>
 Sept 16, <a href="/docs/hw5.md">hw 5</a><br>
@@ -73,8 +74,11 @@ Sept 16, <a href="/docs/hw6.md">hw 6</a><br>
 Sept 30, <a href="/docs/proj1.md">Project 1</a><br>
     Oct 4,  Proj1 grading week (no lecture Oct7)<br>
     Oct 5,  Voting4proj2 (5pm)<br>
+Oct 10, holiday<br>
 Oct 12, Mid-term<br>
-Nov 4, <a href="/docs/proj2.md">Project 2</a><br>
+Dec 5, <a href="/docs/proj2.md">Project 2</a><br>
+Dec 5, <a href="/docs/essay.md">Essay</a><br>
+Nov 23, holiday<br>
 Dec 3, Exam
 </td>
 </tr>
