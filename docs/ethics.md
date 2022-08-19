@@ -7,9 +7,9 @@
   <a href="https://moodle-courses2223.wolfware.ncsu.edu/course/view.php?id=1771">moodle</a> ::
   <a href="https://ncsu.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22389b8ebf-2f29-4c15-8231-aee9000e3f05%22">video</a> ::
   <a href="/docs/review.md">review</a> ::
-  <a href="/LICENSE.md#top">&copy; 2022</a>
+  <a href="/LICENSE.md#top">&copy; 2022</a></p>
   <hr>
-  <a href="/README.md#top"><img  width=700 src="/etc/img/banner.png"></a></p>
+  <p align=center><a href="/README.md#top"><img  width=700 src="/etc/img/banner.png"></a></p>
   
 
 
