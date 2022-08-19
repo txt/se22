@@ -84,7 +84,7 @@ Dec 5, no lecture<br>
 Dec 5, <a href="/docs/essay.md">Essay</a><br>
 Dec 3, Exam<br>
 
-Note: homeworks due Tuesday mornings, 9am.
+<p>Note: homeworks due Tuesday mornings, 9am.
 </td>
 </tr>
 
