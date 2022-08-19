@@ -9,8 +9,7 @@
   <a href="/docs/review.md">review</a> ::
   <a href="/LICENSE.md#top">&copy; 2022</a>
   <hr>
-  <br>
-  <a href="/README.md#top"><img align=center  width=700 src="/etc/img/banner.png"></a>
+  <a href="/README.md#top"><img  width=700 src="/etc/img/banner.png"></a></p>
   
 
 
