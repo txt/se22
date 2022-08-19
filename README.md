@@ -39,20 +39,20 @@
     Introduction:
   </dt>
   <dd>
-    <a href="/docs/hello.md">Hello!</a>, <br>
+    <a href="/docs/hello.md">Hello!</a> <br>
     <a href="/docs/syllabus.md">Syllabus</a>
   </dd>
   <dt>
     More:
   </dt>
   <dd>
-     <a href="/docs/goodrepo.md">Version control</a>,<br>
-        <a href="/docs/doc.md">Documentation</a>, <br> 
+     <a href="/docs/goodrepo.md">Versioning</a>,<br>
+        <a href="/docs/doc.md">Doco</a>, <br> 
       <a href="/docs/people1.md">People</a><br>
        <a href="/docs/patterns.md">Patterns</a> , <br>
     <a href="/docs/testing.md">Testing</a>, <br>     
       <a href="/docs/ethics.md">Ethics</a></br>
-      <a href="/docs/abstract.md">Abstraction</a><br>
+      <a href="/docs/abstract.md">Abstractonn</a><br>
       AI<br>
     <a href="/docs/analytics.md">Analytics</a></br>
   </dd><hr>
