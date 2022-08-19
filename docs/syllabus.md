@@ -2,7 +2,6 @@
   <p align=center>
   &nbsp;<a href="/README.md#top">home</a> &nbsp; | &nbsp;
   <a href="/docs/syllabus.md#top">syllabus</a> &nbsp; | &nbsp;
-  <a href="/docs/syllabus.md#timetable">timetable</a> &nbsp; | &nbsp;
   <a href="https://docs.google.com/spreadsheets/d/1KuW-SH46KmFW0grEX2wT01jicUSew_5sr1QdGuSrweU/edit#gid=0">groups</a> &nbsp; | &nbsp;
   <a href="https://moodle-courses2223.wolfware.ncsu.edu/course/view.php?id=1771">moodle</a> &nbsp; | &nbsp;
   <a href="https://ncsu.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22389b8ebf-2f29-4c15-8231-aee9000e3f05%22">video</a> &nbsp; | &nbsp;
