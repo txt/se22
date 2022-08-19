@@ -31,9 +31,9 @@
 3 questions:
 
 <ol>
-<li>Can you write software that anyone  else would want to  use and maintain?</li>
-<li>Do you know the state-of-the-art in SE?</li>
-<li>What is an ethical approach  to  SE?</li>
+<li>Can you write code that anyone  else  wants to  use and maintain?</li>
+<li>What's the state-of-the-art in SE?</li>
+<li>What does "ethical SE" mean?</li>
 </ol>
 <p>Let's find out, together!.
 
