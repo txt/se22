@@ -74,13 +74,13 @@ Sept 27, <a href="/docs/hw6.md">hw 6</a><br>
 Oct 6, <a href="/docs/proj1.md">Project 1</a><br>
 Oct 10, holiday<br>
 Oct 12, Mid-term<br>
-Oct 17, Showcase1 (groups 1-25)<br>
-Oct 19, Showcase2 (groups26+)<br>
-Oct 21,  Voting (noon)<br>
+Oct 17, Showcase(g1-25)<br>
+Oct 19, Showcase2(g26+)<br>
+Oct 21,  Voting(noon)<br>
 Nov 23, holiday<br>
 Nov 30, no lecture<br>
 Nov 30, <a href="/docs/proj2.md">Project 2</a><br>
-Dec 5, no lecture
+Dec 5, no lecture<br>
 Dec 5, <a href="/docs/essay.md">Essay</a><br>
 Dec 3, Exam<br>
 
