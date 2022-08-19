@@ -8,9 +8,81 @@
 <a href="https://docs.google.com/spreadsheets/d/1KKskduN7m1R3WYhQTLyWJgxkAvrp2UV-LEu5JWN26xo/edit#gid=0">groups</a> ::
 <a href="https://moodle-courses2223.wolfware.ncsu.edu/course/view.php?id=1771">moodle</a> ::
 <a href="https://ncsu.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22389b8ebf-2f29-4c15-8231-aee9000e3f05%22">video</a> ::
+<a href="/docs/review.md">review</a> ::
 <a href="/LICENSE.md#top">&copy; 2022</a>
 <br>
 <hr>
 
 
+<table width="100%" border=0 align=center>
+<tr>
+<td width=300></td>
+<td align=center xwidth=150><img src="/etc/img/lectures.gif"></td>
+<td align=center width=200><img width=64 src="/etc/img/time.png"></td>
+</tr>
+<tr>
+<td></td>
+<td align=center><b>Lectures</b></td>
+<td align=center><b>Timetable</b> </td>
+</tr>
+<tr>
+<td>
 
+3 questions:
+
+<ol>
+<li>Can you write software that anyone  else would want to  use and maintain?</li>
+<li>Do you know the state-of-the-art in SE?</li>
+<li>What is an ethical approach  to  SE?</li>
+</ol>
+<p>Let's find out, together!.
+
+
+</td>
+<td valign=top  xwidth="100px">
+password=softeng22!<br>
+<!-- -------------------------------- -->
+<dl>
+ <dt>
+    Introduction:
+  </dt>
+  <dd>
+    <a href="/docs/hello.md">Hello</a>, <br>
+    <a href="/docs/syllabus.md">Syllabus</a>
+  </dd>
+  <dt>
+    More:
+  </dt>
+  <dd>
+     <a href="/docs/goodrepo.md">Version control</a>,<br>
+        <a href="/docs/doc.md">Documentation</a>, <br> 
+      <a href="/docs/people1.md">People</a><br>
+       <a href="/docs/patterns.md">Patterns</a> , <br>
+    <a href="/docs/testing.md">Testing</a>, <br>     
+      <a href="/docs/ethics.md">Ethics</a></br>
+      <a href="/docs/abstract.md">Abstraction</a><br>
+      AI<br>
+    <a href="/docs/analytics.md">Analytics</a></br>
+  </dd>
+
+</dl>
+
+<!-- -------------------------------- -->
+
+<td valign=top>
+Aug 26, <a href="/docs/hw1.md">Homework 1</a><br>
+Sept 2, <a href="/docs/hw2.md">Homework 2</a><br>
+Sept 9, <a href="/docs/hw3.md">Homework 3</a><br>
+Sept 16, <a href="/docs/hw4.md">Homework 4</a><br>
+Sept 16, <a href="/docs/hw5.md">Homework 5</a><br>
+Sept 16, <a href="/docs/hw6.md">Homework 6</a><br>
+<strike>Sept 30, <a href="/docs/proj1.md">Project 1</a><br>
+    Oct 4,  Proj1 grading week (no lecture Oct7)<br>
+    Oct 5,  Voting4proj2 (5pm)<br>
+Oct 12, Mid-term<br>
+Nov 4, <a href="/docs/proj2.md">Project 2</a><br>
+Dec 3, Exam
+</td>
+</tr>
+
+</table>
