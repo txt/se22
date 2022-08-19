@@ -65,20 +65,24 @@ video password=<a href="https://ncsu.hosted.panopto.com/Panopto/Pages/Sessions/L
 <td valign=top>
 Aug 23, <a href="/docs/hw1.md">hw 1</a><br>
 Aug30, <a href="/docs/hw2.md">hw 2</a><br>
+<hr>
 Sept 5, holiday<br>
 Sept 6, <a href="/docs/hw3.md">hw 3</a><br>
 Sept 13, <a href="/docs/hw4.md">hw 4</a><br>
 Sept 20, <a href="/docs/hw5.md">hw 5</a><br>
 Sept 27, <a href="/docs/hw6.md">hw 6</a><br>
+<hr>
 Oct 6, <a href="/docs/proj1.md">Project 1</a><br>
 Oct 10, holiday<br>
 Oct 12, Mid-term<br>
 Oct 17, Pitch(g1-25)<br>
 Oct 19, Pitch(g26+)<br>
 Oct 21,  Voting(noon)<br>
+<hr>
 Nov 23, holiday<br>
 Nov 30, no lecture<br>
 Nov 30, <a href="/docs/proj2.md">Project 2</a><br>
+<hr>
 Dec 5, no lecture<br>
 Dec 5, <a href="/docs/essay.md">Essay</a><br>
 Dec 3, Exam<br><hr>

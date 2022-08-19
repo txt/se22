@@ -16,10 +16,7 @@
 
 
 
-## Hello!
-
-
-# SE: the times they are a changin'
+## SE: the times they are a changin'
 
 
 _Some notes on the past and future of SE_
@@ -185,13 +182,43 @@ Cloud
 ## 2020: AI
 
 
-AI 
+### AI 
 
 
 Autonomous vehicles.
 
 
-?? Blockchain
+AI-driven Development Is Here: 
+[Should you worry?](/etc/pdf/AI-Driven_Development_Is_Here_Should_You_Worry.pdf)
+e.g. you type:
+
+
+```
+# import a file named“observations.csv”
+# and print the number of rows and columns
+# then use the data to create
+# a plot of the observations
+```
+and Github's copilot tool reponds woth
+
+
+```python
+data = []
+withopen(‘observations.csv’) as csvfile:
+ reader = csv.reader(csvfile)
+ for row in reader:
+ data.append(float(row[0]))
+print(“Number of rows: ,” len(data))
+print(“Number of columns: ,” len(data[0]))
+plt.plot(data)
+plt.show()
+```
+
+
+Warning: this code is learned from 159 Gb   of code from Github. So this is very much **average code** with the average number of bad ideas and secutiry holes. 
+
+
+### ?? Blockchain
 
 
 - Aug 12, 2021: Ezra Klein, NY Times:
