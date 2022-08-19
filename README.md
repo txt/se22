@@ -1,6 +1,4 @@
-<a name=top><br>
-<a href="/README.md#top"><img  width=700 src="/etc/img/banner.png"></a>
-<hr>
+<a name=top><br><hr>
 <p>
 &nbsp;<a href="/README.md#top">home</a> ::
 <a href="/docs/syllabus.md#top">syllabus</a> ::
@@ -11,7 +9,7 @@
 <a href="/docs/review.md">review</a> ::
 <a href="/LICENSE.md#top">&copy; 2022</a>
 <br>
-<hr>
+<a href="/README.md#top"><img  width=700 src="/etc/img/banner.png"></a>
 
 
 <table width="100%" border=0 align=center>
