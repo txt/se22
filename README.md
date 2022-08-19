@@ -56,7 +56,7 @@
       AI<br>
     <a href="/docs/analytics.md">Analytics</a></br>
   </dd><hr>
-<a href="https://ncsu.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22389b8ebf-2f29-4c15-8231-aee9000e3f05%22">password=softeng22!</a>
+video password=<a href="https://ncsu.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22389b8ebf-2f29-4c15-8231-aee9000e3f05%22">softeng22!</a>
 
 </dl>
 
