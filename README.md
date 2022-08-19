@@ -12,7 +12,7 @@
 <p align=center><a href="/README.md#top"><img  width=700 src="/etc/img/banner.png"></a></p>
 
 
-<table width="100%" border=0 align=center>
+<a name=timetable><table width="100%" border=0 align=center>
 <tr>
 <td width=300></td>
 <td align=center xwidth=150><img src="/etc/img/lectures.gif"></td>
