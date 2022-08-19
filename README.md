@@ -70,13 +70,13 @@ password=softeng22!<br>
 <!-- -------------------------------- -->
 
 <td valign=top>
-Aug 26, <a href="/docs/hw1.md">Homework 1</a><br>
-Sept 2, <a href="/docs/hw2.md">Homework 2</a><br>
-Sept 9, <a href="/docs/hw3.md">Homework 3</a><br>
-Sept 16, <a href="/docs/hw4.md">Homework 4</a><br>
-Sept 16, <a href="/docs/hw5.md">Homework 5</a><br>
-Sept 16, <a href="/docs/hw6.md">Homework 6</a><br>
-<strike>Sept 30, <a href="/docs/proj1.md">Project 1</a><br>
+Aug 26, <a href="/docs/hw1.md">hw 1</a><br>
+Sept 2, <a href="/docs/hw2.md">hw 2</a><br>
+Sept 9, <a href="/docs/hw3.md">hw 3</a><br>
+Sept 16, <a href="/docs/hw4.md">hw 4</a><br>
+Sept 16, <a href="/docs/hw5.md">hw 5</a><br>
+Sept 16, <a href="/docs/hw6.md">hw 6</a><br>
+Sept 30, <a href="/docs/proj1.md">Project 1</a><br>
     Oct 4,  Proj1 grading week (no lecture Oct7)<br>
     Oct 5,  Voting4proj2 (5pm)<br>
 Oct 12, Mid-term<br>
