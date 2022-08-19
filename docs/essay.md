@@ -30,7 +30,7 @@ Work solo.
 
 ## What to write
 - Using these <a href="/etc/img/12steps.png">7 steps</a> as an outline
-- Address one of the [case studies](https://onlineethics.org/resources?combine=software&field_keywords_target_id=&field_resource_type_target_id=13236_
+- Address one of the [case studies](https://onlineethics.org/resources?combine=software&field_keywords_target_id=&field_resource_type_target_id=13236)
 
 
 YOur answer must cover, at the very least:
