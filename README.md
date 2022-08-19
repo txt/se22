@@ -26,26 +26,21 @@
 <tr>
 <td>
 
-3 questions:
-
-<ol>
-<li>Can you write code that anyone  else  wants to  use and maintain?</li>
-<li>What's  SE's state-of-the-artSE?</li>
-<li>What does "ethical SE" mean?</li>
-</ol>
-<p>Let's find out, together!.
+<p>Can you write code that anyone  else  wants to  use and maintain?
+<p>What's  SE's state-of-the-art?
+<p>What does "ethical SE" mean?
+<p>Let's find out! Together!
 
 
 </td>
 <td valign=top  xwidth="100px">
-password=softeng22!<br>
 <!-- -------------------------------- -->
 <dl>
  <dt>
     Introduction:
   </dt>
   <dd>
-    <a href="/docs/hello.md">Hello</a>, <br>
+    <a href="/docs/hello.md">Hello!</a>, <br>
     <a href="/docs/syllabus.md">Syllabus</a>
   </dd>
   <dt>
@@ -61,7 +56,8 @@ password=softeng22!<br>
       <a href="/docs/abstract.md">Abstraction</a><br>
       AI<br>
     <a href="/docs/analytics.md">Analytics</a></br>
-  </dd>
+  </dd><br>
+password=softeng22!
 
 </dl>
 
