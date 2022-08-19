@@ -3,7 +3,7 @@
 &nbsp;<a href="/README.md#top">home</a> &nbsp; | &nbsp;
 <a href="/docs/syllabus.md#top">syllabus</a> &nbsp; | &nbsp;
 <a href="/docs/syllabus.md#timetable">timetable</a> &nbsp; | &nbsp;
-<a href="https://docs.google.com/spreadsheets/d/1KKskduN7m1R3WYhQTLyWJgxkAvrp2UV-LEu5JWN26xo/edit#gid=0">groups</a> &nbsp; | &nbsp;
+<a href="https://docs.google.com/spreadsheets/d/1KuW-SH46KmFW0grEX2wT01jicUSew_5sr1QdGuSrweU/edit#gid=0">groups</a> &nbsp; | &nbsp;
 <a href="https://moodle-courses2223.wolfware.ncsu.edu/course/view.php?id=1771">moodle</a> &nbsp; | &nbsp;
 <a href="https://ncsu.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22389b8ebf-2f29-4c15-8231-aee9000e3f05%22">video</a> &nbsp; | &nbsp;
 <a href="/docs/review.md">review</a> &nbsp; | &nbsp;
@@ -64,22 +64,27 @@ password=softeng22!
 <!-- -------------------------------- -->
 
 <td valign=top>
-Aug 26, <a href="/docs/hw1.md">hw 1</a><br>
-Sept 2, <a href="/docs/hw2.md">hw 2</a><br>
+Aug 23, <a href="/docs/hw1.md">hw 1</a><br>
+Aug30, <a href="/docs/hw2.md">hw 2</a><br>
 Sept 5, holiday<br>
-Sept 9, <a href="/docs/hw3.md">hw 3</a><br>
-Sept 16, <a href="/docs/hw4.md">hw 4</a><br>
-Sept 16, <a href="/docs/hw5.md">hw 5</a><br>
-Sept 16, <a href="/docs/hw6.md">hw 6</a><br>
-Sept 30, <a href="/docs/proj1.md">Project 1</a><br>
-    Oct 4,  Proj1 grading week (no lecture Oct7)<br>
-    Oct 5,  Voting4proj2 (5pm)<br>
+Sept 6, <a href="/docs/hw3.md">hw 3</a><br>
+Sept 13, <a href="/docs/hw4.md">hw 4</a><br>
+Sept 20, <a href="/docs/hw5.md">hw 5</a><br>
+Sept 27, <a href="/docs/hw6.md">hw 6</a><br>
+Oct 6, <a href="/docs/proj1.md">Project 1</a><br>
 Oct 10, holiday<br>
 Oct 12, Mid-term<br>
-Dec 5, <a href="/docs/proj2.md">Project 2</a><br>
-Dec 5, <a href="/docs/essay.md">Essay</a><br>
+Oct 17, Showcase1 (groups 1-25)<br>
+Oct 19, Showcase2 (groups26+)<br>
+Oct 21,  Voting (noon)<br>
 Nov 23, holiday<br>
-Dec 3, Exam
+Nov 30, no lecture<br>
+Nov 30, <a href="/docs/proj2.md">Project 2</a><br>
+Dec 5, no lecture
+Dec 5, <a href="/docs/essay.md">Essay</a><br>
+Dec 3, Exam<br>
+
+Note: homeworks due Tuesday mornings, 9am.
 </td>
 </tr>
 

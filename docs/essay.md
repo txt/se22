@@ -3,7 +3,7 @@
   &nbsp;<a href="/README.md#top">home</a> &nbsp; | &nbsp;
   <a href="/docs/syllabus.md#top">syllabus</a> &nbsp; | &nbsp;
   <a href="/docs/syllabus.md#timetable">timetable</a> &nbsp; | &nbsp;
-  <a href="https://docs.google.com/spreadsheets/d/1KKskduN7m1R3WYhQTLyWJgxkAvrp2UV-LEu5JWN26xo/edit#gid=0">groups</a> &nbsp; | &nbsp;
+  <a href="https://docs.google.com/spreadsheets/d/1KuW-SH46KmFW0grEX2wT01jicUSew_5sr1QdGuSrweU/edit#gid=0">groups</a> &nbsp; | &nbsp;
   <a href="https://moodle-courses2223.wolfware.ncsu.edu/course/view.php?id=1771">moodle</a> &nbsp; | &nbsp;
   <a href="https://ncsu.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22389b8ebf-2f29-4c15-8231-aee9000e3f05%22">video</a> &nbsp; | &nbsp;
   <a href="/docs/review.md">review</a> &nbsp; | &nbsp;
@@ -24,8 +24,11 @@ Work solo. **IMPORTANT**: read [the lecture on ethics](/docs/ethics.md) before y
 
 
 ## Word limit
-- Three pages (in the format shown below, excluding references);
-- HARD LIMIT: we will not grade after three pages.
+- No less that three pages (in the format shown below, excluding references);
+  - no more than four
+- HARD LIMITS: 
+  - we will not grade after four pages.
+  - we will not read if less than three.
 
 
 ## What to write
@@ -35,10 +38,10 @@ Work solo. **IMPORTANT**: read [the lecture on ethics](/docs/ethics.md) before y
 
 YOur answer must cover, at the very least:
 - who is _hurt_ by the current design;
-- how we might fix that?
+- how we might _fix_ that?
   - Important: ensure that your  text justifies why  the new design addresses the  problems you document.
-- How will your fix empower traditionally disempowered social groups?
-  - ie. don't just fix this particular problem, address   deeper issues that might cause problems in the future.
+- and how will your fix _empower traditionally disempowered social groups_?
+  - ie. don't just fix this particular problem; rather, address   deeper issues that might cause problems in the future).
 
 
 <br clear=all>
@@ -62,7 +65,7 @@ Create an overleaf.com account
          \linenumbers
 
 
-- Write at a three page paper.
+- Write at a three to four page paper.
 - Hit the "recompile" button
 - Look to the right of "recompile: for the download icon
 - Submit to Moodle
