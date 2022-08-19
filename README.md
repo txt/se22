@@ -32,7 +32,7 @@
 
 <ol>
 <li>Can you write code that anyone  else  wants to  use and maintain?</li>
-<li>What's the state-of-the-art in SE?</li>
+<li>What's  SE's state-of-the-artSE?</li>
 <li>What does "ethical SE" mean?</li>
 </ol>
 <p>Let's find out, together!.
