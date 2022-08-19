@@ -1,5 +1,5 @@
 <a name=top><br><hr>
-<p>
+<p align=center>
 &nbsp;<a href="/README.md#top">home</a> ::
 <a href="/docs/syllabus.md#top">syllabus</a> ::
 <a href="/docs/syllabus.md#timetable">timetable</a> ::
@@ -8,6 +8,7 @@
 <a href="https://ncsu.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22389b8ebf-2f29-4c15-8231-aee9000e3f05%22">video</a> ::
 <a href="/docs/review.md">review</a> ::
 <a href="/LICENSE.md#top">&copy; 2022</a>
+<hr>
 <br>
 <a href="/README.md#top"><img  width=700 src="/etc/img/banner.png"></a>
 
