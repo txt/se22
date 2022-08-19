@@ -56,7 +56,7 @@
       <a href="/docs/abstract.md">Abstraction</a><br>
       AI<br>
     <a href="/docs/analytics.md">Analytics</a></br>
-  </dd><br>
+  </dd><hr>
 password=softeng22!
 
 </dl>
@@ -82,9 +82,8 @@ Nov 30, no lecture<br>
 Nov 30, <a href="/docs/proj2.md">Project 2</a><br>
 Dec 5, no lecture<br>
 Dec 5, <a href="/docs/essay.md">Essay</a><br>
-Dec 3, Exam<br>
-
-<p>Note: homeworks due Tuesday mornings, 9am.
+Dec 3, Exam<br><hr>
+Homeworks due Tuesday mornings, 9am.
 </td>
 </tr>
 
