@@ -74,8 +74,8 @@ Sept 27, <a href="/docs/hw6.md">hw 6</a><br>
 Oct 6, <a href="/docs/proj1.md">Project 1</a><br>
 Oct 10, holiday<br>
 Oct 12, Mid-term<br>
-Oct 17, Showcase(g1-25)<br>
-Oct 19, Showcase2(g26+)<br>
+Oct 17, Pitch(g1-25)<br>
+Oct 19, Pitch(g26+)<br>
 Oct 21,  Voting(noon)<br>
 Nov 23, holiday<br>
 Nov 30, no lecture<br>
