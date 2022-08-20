@@ -22,14 +22,6 @@
 Work solo. **IMPORTANT**: read [the lecture on ethics](/docs/ethics.md) before you start.
 
 
-## Word limit
-- No less that three pages (in the format shown below, excluding references);
-  - no more than four
-- HARD LIMITS: 
-  - we will not grade after four pages.
-  - we will not read if less than three.
-
-
 ## What to write
 - Using these <a href="/etc/img/12steps.png">7 steps</a> as an outline
 - Address one of the [case studies](https://onlineethics.org/resources?combine=software&field_keywords_target_id=&field_resource_type_target_id=13236)
@@ -42,8 +34,14 @@ YOur answer must cover, at the very least:
 - and how will your fix _empower traditionally disempowered social groups_?
   - ie. don't just fix this particular problem; rather, address   deeper issues that might cause problems in the future).
 
+## Word limit
+- No less that three pages (in the format shown below, excluding references);
+  - no more than four
+- HARD LIMITS: 
+  - we will not grade after four pages.
+  - we will not read if less than three.
+  - we will not read if it is the wrong format (see below)
 
-<br clear=all>
 
 
 ## How to write
@@ -80,5 +78,5 @@ Create an overleaf.com account
 |3 | SOFTWARE DESIGN | +2 of some of those options need to includes a redesign for a better version of the software where the better software mitigates some of the issues discussed by the original software. And +1 more if it does it well; e.g. clever design|
 |4 | TESTING | 2 if it tests options using criteria like  harm, publicity, defensibility, reversibility, virtue, colleague, professional, organizational test ( see guidance on that at https://github.com/txt/se20/blob/master/etc/img/12steps.png) And 2 more if it does it well; e.g. writes extensively insightful notes on three or more of the tests |
 |2 | CHOICE | +1 if tentative choice and +1  if final Choice |
-|-2,+1 | other MARKS | -2  if the essay is mostly “I think X, I think Y”  without any citations or comment on the amazing things other people have thunk in this matter.  +1 more if it  beyond the specifics of your answer, the real test will be ""does the student understand general principles that can be applied in other contexts”; i.e.  if the essay defined clear steps to making ethical decisions (beyond the 12 steps of https://github.com/txt/se20/blob/master/etc/img/12steps.png) for future applications.| 
+|-2,+1 | OTHER | -2  if the essay is mostly “I think X, I think Y”  without any citations or comment on the amazing things other people have thunk in this matter.  +1 more if it  beyond the specifics of your answer, the real test will be ""does the student understand general principles that can be applied in other contexts”; i.e.  if the essay defined clear steps to making ethical decisions (beyond the 12 steps of https://github.com/txt/se20/blob/master/etc/img/12steps.png) for future applications.| 
 |20| TOTAL      | plus, maybe, +1 bonus| 
