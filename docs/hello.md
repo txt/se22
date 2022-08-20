@@ -220,6 +220,7 @@ Warning: this code is learned from 159 Gb   of code from Github. So this is very
 
 ### ?? Blockchain
 
+er... what can we say about blockchain? well...
 
 - Aug 12, 2021: Ezra Klein, NY Times:
   - If the original internet let you easily copy information, 
@@ -230,7 +231,7 @@ Warning: this code is learned from 159 Gb   of code from Github. So this is very
   - Together, they unlock the potential for a true economy for digital goods, 
     where creators actually get rewarded for what they make. I will admit to some skepticism that this is how it’ll play out, 
     as many of the financiers funding crypto also founded and sit on the boards of the companies that set the terms of today’s internet, but we’ll see.
- - Jun 29, 2021:
+ - Jun 29, 2022:
     - [Crypto crisis: how digital currencies went from boom to collapse](https://www.theguardian.com/technology/2022/jun/29/crypto-crisis-digital-currencies-boom-collapse-bitcoin-terra)
 
 

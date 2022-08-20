@@ -13,9 +13,9 @@
 
 <a name=timetable><table width="100%" border=0 align=center>
 <tr>
-<td width=300></td>
-<td align=center xwidth=150><img src="/etc/img/lectures.gif"></td>
-<td align=center width=200><img width=64 src="/etc/img/time.png"></td>
+<td width=300 valign=top><img src="/etc/img/review.gig"></td>
+<td align=center xwidth=250><img src="/etc/img/lectures.gif"></td>
+<td align=center width=250><img width=64 src="/etc/img/time.png"></td>
 </tr>
 <tr>
 <td></td>
@@ -63,8 +63,8 @@ video password=<a href="https://ncsu.hosted.panopto.com/Panopto/Pages/Sessions/L
 <!-- -------------------------------- -->
 
 <td valign=top>
-- [ ] Aug 23, <a href="/docs/hw1.md">hw 1</a><br>
-- [ ]Aug30, <a href="/docs/hw2.md">hw 2</a><br>
+Aug 23, <a href="/docs/hw1.md">hw 1</a><br>
+Aug30, <a href="/docs/hw2.md">hw 2</a><br>
 <hr>
 Sept 5, holiday<br>
 Sept 6, <a href="/docs/hw3.md">hw 3</a><br>
