@@ -67,7 +67,7 @@ Grades come from
 - 1 final exam
 - 1 essay (due Dec4, but details already posted).  Feel free to submit early.
 - Participating in trials of other people's software.
-- Bonus marks (maybe +1 from essay; maybe +4 from project1; maybe +4 from project2).
+- Bonus marks (from essay; from project2).
 
 Exams and essays are done individually. Everything else is done in  
 <a href="https://docs.google.com/spreadsheets/d/1KKskduN7m1R3WYhQTLyWJgxkAvrp2UV-LEu5JWN26xo/edit#gid=0">groups of 5</a>.
@@ -78,7 +78,7 @@ Exams and essays are done individually. Everything else is done in
 - Projects comprise two  large tasks  (groups of 5 people, working in public Github repos-- not NCSU GH):
   - Starting with 50 tasks in project1, we'll focus in on the best half, for
     project2 
-    - **Four bonus marks** if other people jump to your task.i for their task.i+1 work
+    - Bonus marks if other people jump to your task.i for their task.i+1 work
   - Project1: you'll start some task
   - Project2: you'll significantly extend someone else's task (thereby learning the important of documentation, 
     design purity, regression tests, etc).
@@ -97,19 +97,19 @@ You will lose marks if that data collection violates the following three rights:
 
 ### Grades
 
-|group |mark   | notes                                   | 
-|------|-------|-----------------------------------------|
-|homework (group)     | 5 \* 2  | setting up your repo/software/team | 
-|essay (solo)         | 20 |     | 
-|              | 1 bonus      | for ethical brilliance |
-|exam (solo)         |  10 | mid-term       | sol
-|              |  16 | final          |
-|project (group)      | 15 \* 2 | project1,2     |
-|              | 4 | pitch meeting  |
-|              | 3 bonus      | if others pick your work for their project2 |
-|              | 3*2 bonus     | for demonstraining scalability to \*100 (+3), \*1000 (+3)|
-|participation (solo) | 10 | "lab rats" for other projects. |
-|total         | 100           | +10 (maybe) in bonus|
+|group |mark   | notes                                                      | 
+|------|-------|------------------------------------------------------------|
+|homework (group)     | 5 \* 2    | setting up your repo/software/team      | 
+|essay (solo)         | 20        |                                         | 
+|                     | 1 bonus   | for ethical brilliance                  |
+|exam (solo)          | 10        | mid-term                                | 
+|                     | 16        | final                                   |
+|project (group)      | 15 \* 2   | project1,2                              |
+|                     | 5         | pitch meeting                           |
+|                     | 3 bonus   | if others pick your work for their project2 |
+|                     | 4 bonus   | (project2 only) for demonstraining scalability to \*100 (+2), \*1000 (+2)|
+|participation (solo) | 10        | "lab rats" for other projects           |
+|total                | 100       | +9 (maybe) in bonus                     |
 
  
 With the final grades, the following grade scale will be used: 
