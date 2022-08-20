@@ -18,7 +18,7 @@
 <td align=center width=250><img width=64 src="/etc/img/time.png"></td>
 </tr>
 <tr>
-<td></td>
+<td align=center><b>About</b></td>
 <td align=center><b>Lectures</b></td>
 <td align=center><b>Timetable</b> </td>
 </tr>
