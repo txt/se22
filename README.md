@@ -13,7 +13,7 @@
 
 <a name=timetable><table width="100%" border=0 align=center>
 <tr>
-<td width=300 valign=top><img src="/etc/img/review.gig"></td>
+<td width=300><img src="/etc/img/review.gif"></td>
 <td align=center xwidth=250><img src="/etc/img/lectures.gif"></td>
 <td align=center width=250><img width=64 src="/etc/img/time.png"></td>
 </tr>
@@ -23,7 +23,7 @@
 <td align=center><b>Timetable</b> </td>
 </tr>
 <tr>
-<td>
+<td valign=top>
 
 <p>Can you write code that anyone  else  wants to  use and maintain?
 <p>What's  SE's state-of-the-art?
