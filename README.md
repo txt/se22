@@ -66,6 +66,8 @@ video password=<a href="https://ncsu.hosted.panopto.com/Panopto/Pages/Sessions/L
 Aug 23, <a href="/docs/hw1.md">hw 1</a><br>
 Aug30, <a href="/docs/hw2.md">hw 2</a><br>
 <hr>
+Homeworks due Tuesday mornings, 9am.
+<hr>
 Sept 5, holiday<br>
 Sept 6, <a href="/docs/hw3.md">hw 3</a><br>
 Sept 13, <a href="/docs/hw4.md">hw 4</a><br>
@@ -85,8 +87,7 @@ Nov 30, <a href="/docs/proj2.md">Project 2</a><br>
 <hr>
 Dec 5, no lecture<br>
 Dec 5, <a href="/docs/essay.md">Essay</a><br>
-Dec 3, Exam<br><hr>
-Homeworks due Tuesday mornings, 9am.
+Dec 3, Exam<br>
 </td>
 </tr>
 
