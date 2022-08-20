@@ -164,7 +164,7 @@ Andre Lustosa (Mr. Tuesday)
 
 + Github id:  andre-motta
 + Discord name: SargeHawk#1591
-+ Office Hours: Tuesday, 12:00-2:00
++ Office Hours: Tuesday, 2:00-4:00
 + E-mail:  <alustos@ncsu.edu>
 
 [![](https://academics.umw.edu/writing-fredericksburg/files/2013/08/schedule-appointment-button-orange-300x154.png)](https://calendly.com/alustos)
