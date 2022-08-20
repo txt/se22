@@ -413,66 +413,10 @@ see [http://www2.acs.ncsu.edu/insurance/](http://www2.acs.ncsu.edu/insurance/).
 
 ## COVID-Related Issues
 
-<img align=right width=500 src="https://i1.wp.com/scng-dash.digitalfirstmedia.com/wp-content/uploads/2020/04/covid-19-model.jpg">
-Due to the Coronavirus pandemic, public health measures have been implemented across
-campus. Students should stay current with these practices and expectations through the 
-Protect the Pack
-website (https://www.ncsu.edu/coronavirus/). The sections below provide expectations and conduct
-related to COVID-19 issues.
+This subject will follow the COVID guidelines of [NC State](https://www.ncsu.edu/coronavirus/fall-semester-covid-19-readiness).
 
+- Vaccines remain the best way to protect yourself and our community against COVID-19 and its most severe symptoms. If you haven’t yet done so, please consider making an appointment to get your vaccine on campus or, if you’re eligible, to get your booster shot.
+Personal Responsibility
+- Face coverings are not required on campus, but are encouraged.
 
-### Health and Participation in Class
-
-We are most concerned about your health and the health of your classmates and instructors/TAs.
-
-- If you test positive for COVID-19, or are told by a healthcare provider that you are presumed
-positive for the virus, please work with your instructor on health accommodations and follow
-other university guidelines, including [self-reporting](https://healthypack.dasa.ncsu.edu/coronavirus/). Self-reporting is not only to help
-provide support to you, but also to assist in contact tracing for containing the spread of the virus.
--  If you feel unwell, even if you have not been knowingly exposed to COVID-19, please do not
-come to class.
-- If you are in quarantine, have been notified that you may have been exposed to COVID-19, or
-have a personal or family situation related to COVID-19 that prevents you from attending this
-course in person (or synchronously), please connect with your instructor to discuss the situation
-and make alternative plans, as necessary.
-- If you need to make a request for an academic consideration related to COVID-19, such as a
-discussion about possible options for remote learning, please talk with your instructor for the
-appropriate process to make a COVID-19 request.
-
-### Health and Well-Being Resources
-
-These are difficult times, and academic and personal stress is a natural result. Everyone is encouraged to
-take care of themselves and their peers. If you need additional support, there are many resources on
-campus to help you:
-
-- Counseling Center (https://counseling.dasa.ncsu.edu/)
--  Health Center (https://healthypack.dasa.ncsu.edu/)
-- If the personal behavior of a classmate concerns or worries you, either for the classmate’s well-
-being or yours, we encourage you to report this behavior to the NC State CARES team:
-(https://advising.dasa.ncsu.edu/resources-for-advisors/advisors-toolkit/cares/)
-- If you or someone you know are experiencing food, housing or financial insecurity, please see
-the Pack Essentials Program (https://dasa.ncsu.edu/pack-essentials/).
-
-### Community Standards related to COVID-19
-
-We are all responsible for protecting ourselves and our community. Please see the community
-expectations and Rule 04.21.01 regarding Personal Safety Requirements Related to COVID-19 https://policies.ncsu.edu/rule/rul-04-21-01/
-
-### Course Expectations Related to COVID-19:
-
-- Personal Protective Equipment: As a member of the NC State academic community you are
-required to follow all university guidelines for personal safety with face coverings, physical
-distancing, and sanitation. Face coverings are required in this class and in all NC State
-buildings. Face coverings should be worn to cover the nose and mouth and be close fitting to the
-face with minimal gaps on the sides. In addition, students are responsible for keeping their
-course/work area clean.
-  - You are  expected to wear masks in  lectures.
-  - It is your choice  to decide if you  don't want to do that.
-  - If you do that, then my  choice will be to
-    - Stop the lecture and wait till you out  a mask on.
-    - Report you at the 
-      [COVID-19 Community Standards Reporting Form](https://cm.maxient.com/reportingform.php?NCStateUniv&layout_id=31)
-      "behavior they believe the University should take formal disciplinary action":
-
-![image](https://user-images.githubusercontent.com/29195/129649669-9db1d990-2cca-4fb8-b08c-61f4f19109f7.png)
 
