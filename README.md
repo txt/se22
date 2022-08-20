@@ -14,8 +14,8 @@
 <a name=timetable><table width="100%" border=0 align=center>
 <tr>
 <td align=center width=300><img src="/etc/img/review.gif"></td>
-<td align=center xwidth=250><img src="/etc/img/lectures.gif"></td>
-<td align=center width=250><img width=64 src="/etc/img/time.png"></td>
+<td align=center width=300><img src="/etc/img/lectures.gif"></td>
+<td align=center width=300><img width=64 src="/etc/img/time.png"></td>
 </tr>
 <tr>
 <td align=center><b>About</b></td>
@@ -33,7 +33,8 @@
 
 </td>
 <td valign=top  xwidth="100px">
-<!-- -------------------------------- -->
+(video password<a href="https://ncsu.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22389b8ebf-2f29-4c15-8231-aee9000e3f05%22">softeng22!</a>)
+<br><br>
 <dl>
  <dt>
     Introduction:
@@ -56,14 +57,13 @@
       AI<br>
     <a href="/docs/analytics.md">Analytics</a></br>
   </dd><hr>
-video password=<a href="https://ncsu.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22389b8ebf-2f29-4c15-8231-aee9000e3f05%22">softeng22!</a>
 
 </dl>
 
 <!-- -------------------------------- -->
 
 <td valign=top>
-"Late" after 9am.<br><br>
+("Late" after 9am.)<br><br>
 Aug 30, <a href="/docs/hw1.md">hw 1</a><br>
 <hr>
 Sept 5, holiday<br>
