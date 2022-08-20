@@ -135,7 +135,9 @@ preference).
 
 ### Lecturer
 
-Tim Menzies <img src="http://www.csc.ncsu.edu/enews/images/1770.jpg" align=right width=200>
+<img src="http://www.csc.ncsu.edu/enews/images/1770.jpg" align=right width=200>
+
+Tim Menzies  (Prof. Monday)
 
 + Github id: timm
 + Discord name: timm
@@ -150,11 +152,11 @@ Tim Menzies <img src="http://www.csc.ncsu.edu/enews/images/1770.jpg" align=right
 ### Tutors
 
 <img src="http://ai4se.net/img/AndreMotta.jpg" align=right width=200>
-Andre Lustosa
+Andre Lustosa (Mr. Tuesday)
 
 + Github id:  andre-motta
 + Discord name: SargeHawk#1591
-+ Office Hours: Monday, 12:00-2:00
++ Office Hours: Tuesday, 12:00-2:00
 + E-mail:  <alustos@ncsu.edu>
 
 [![](https://academics.umw.edu/writing-fredericksburg/files/2013/08/schedule-appointment-button-orange-300x154.png)](https://calendly.com/alustos)
@@ -165,7 +167,7 @@ Andre Lustosa
 
 <img width=200 align=right src="https://user-images.githubusercontent.com/29195/129790935-2f0f8ec8-c17a-453d-91db-7dcde42d616c.png"> 
   
-Weichen Shi
+Weichen Shi (Mr. Friday)
 
 + Github id:  shwch210d
 + Discord  name: Weichen#8407
@@ -179,11 +181,11 @@ Weichen Shi
 <p>&nbsp;</p>
 
 <img src="http://ai4se.net/img/KewenPeng.jpg" align=right width=200>
-Leonardo Villalobos-Arias 
+Leonardo Villalobos-Arias (Mr. Wedesday) 
 
 + Github id: XXX
 + Discord  name:  Leonardo Villalobos#5591
-+ Office Hours: Thursday, 12:00-2:00
++ Office Hours: Wednesday, 12:00-2:00
 + E-mail: Leonardo Villalobos-Arias <lvillal@ncsu.edu>
 
 [![](https://academics.umw.edu/writing-fredericksburg/files/2013/08/schedule-appointment-button-orange-300x154.png)](https://calendly.com/lvillal) 
@@ -193,11 +195,11 @@ Leonardo Villalobos-Arias
 <p>&nbsp;</p>
 
 <img src="https://user-images.githubusercontent.com/41660376/89558051-b99e6380-d7e1-11ea-81f3-d8b4fac8aa32.jpg" align=right width=200>
-Xiao Ling
+Xiao Ling (Mr. Thursday)
 
 + Github id:  XiaoLing941212
 + Discord  name: Xiao#8138
-+ Office Hours: Tuesday, 12:00-2:00 
++ Office Hours: Thursday, 12:00-2:00 
 + E-mail: xling4@ncsu.edu
 
 [![](https://academics.umw.edu/writing-fredericksburg/files/2013/08/schedule-appointment-button-orange-300x154.png)](https://calendly.com/xling4)
@@ -208,11 +210,11 @@ Xiao Ling
 
 <img width=200 align=right src="https://user-images.githubusercontent.com/29195/129790935-2f0f8ec8-c17a-453d-91db-7dcde42d616c.png"> 
   
-Rahul Yedida
+Rahul Yedida (Mr. Monday)
 
 + Github id:  XXX
 + Discord  name: Rahul Yedida#1323
-+ Office Hours: Friday, 12:00-2:00  
++ Office Hours: Monday, 12:00-2:00  
 + E-mail: yrahul3910@gmail.com
 
 [![](https://academics.umw.edu/writing-fredericksburg/files/2013/08/schedule-appointment-button-orange-300x154.png)](https://calendly.com/ryedida)
