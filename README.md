@@ -13,7 +13,7 @@
 
 <a name=timetable><table width="100%" border=0 align=center>
 <tr>
-<td width=300><img src="/etc/img/review.gif"></td>
+<td align=center width=300><img src="/etc/img/review.gif"></td>
 <td align=center xwidth=250><img src="/etc/img/lectures.gif"></td>
 <td align=center width=250><img width=64 src="/etc/img/time.png"></td>
 </tr>
