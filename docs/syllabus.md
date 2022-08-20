@@ -63,20 +63,20 @@ Grades come from
 - 5 homeworks
 - 2 projects, 
 - 1 mid-session exam 
-- Final exam  is a take home essay (on ethics). 
-  Details to be posted by end September.
+- 1 final exam
+- 1 essay (due Dec4, but details already posted).
   Feel free to submit early.
 
 Exams and essays are done individually. Everything else is done in  
-<a href="https://docs.google.com/spreadsheets/d/1KKskduN7m1R3WYhQTLyWJgxkAvrp2UV-LEu5JWN26xo/edit#gid=0">groups of 4+</a>.
+<a href="https://docs.google.com/spreadsheets/d/1KKskduN7m1R3WYhQTLyWJgxkAvrp2UV-LEu5JWN26xo/edit#gid=0">groups of 5</a>.
 
 - Homeworks are small tasks 
   - graded 0 (for no submission), 1 (for "please try again") and 2 for "good".
   - may be submitted multiple times
-- Projects comprise three  large tasks  (groups of 5 people, working in public Github repos-- not NCSU GH):
-  - Starting with 40 tasks in project1, we'll focus in on the best half, then the best quarter, for
-    project2 and project3
-    - **Two bonus marks** if other people jump to your task.i for their task.i+1 work
+- Projects comprise two  large tasks  (groups of 5 people, working in public Github repos-- not NCSU GH):
+  - Starting with 50 tasks in project1, we'll focus in on the best half, for
+    project2 
+    - **Four bonus marks** if other people jump to your task.i for their task.i+1 work
   - Project1: you'll start some task
   - Project2, Project2: you'll finish someone else's task (thereby learning the important of documentation, 
     design purity, regression tests, etc).

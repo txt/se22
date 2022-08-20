@@ -84,7 +84,8 @@ Nov 30, no lecture<br>
 Nov 30, <a href="/docs/proj2.md">Project 2</a><br>
 <hr>
 Dec 5, no lecture<br>
-Dec 12, <a href="/docs/essay.md">Take-home exam essay</a><br>
+Dec 5, <a href="/docs/essay.md">Essay</a><br>
+Dec 12, <a href="/docs/essay.md">Final</a><br>
 </td>
 </tr>
 
