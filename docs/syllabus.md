@@ -67,6 +67,7 @@ Grades come from
 - 1 final exam
 - 1 essay (due Dec4, but details already posted).  Feel free to submit early.
 - Participating in trials of other people's software.
+- Bonus marks (maybe +1 from essay; maybe +4 from project1; maybe +4 from project2).
 
 Exams and essays are done individually. Everything else is done in  
 <a href="https://docs.google.com/spreadsheets/d/1KKskduN7m1R3WYhQTLyWJgxkAvrp2UV-LEu5JWN26xo/edit#gid=0">groups of 5</a>.
@@ -98,12 +99,18 @@ You will lose marks if that data collection violates the following three rights:
 
 |group |mark   | notes                                   |
 |------|-------|-----------------------------------------|
-|homework      | 5 marks \* 2  | setting up your repo/software/team |
-|essay         |  20 marks     |                |
-|exam          |  20 marks     | mid-term       |
-|              |  20 marks     | final          |
-|project       | 16 marks \* 2 | project1,2     |
-|              | 4 marks       | pitch meeting  |
+|homework      | 5 \* 2  | setting up your repo/software/team |
+|essay         | 20 |     standard           |
+|              | 1 bonus      | for ethical brilliance |
+|exam          |  10 | mid-term       |
+|              |  16 | final          |
+|project       | 15 \* 2 | project1,2     |
+|              | 4 | pitch meeting  |
+|              | 3 bonus      | if others pick your work for their project2 |
+|              | 3*2 bonus     | for demonstraining scalability to \*100 (+2), \*1000 (+2)|
+|participation | 10 | "lab rats" for other projects. |
+|total         | 100           | +10 (maybe) in bonus|
+
  
 With the final grades, the following grade scale will be used: 
 
