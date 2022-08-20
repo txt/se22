@@ -1,4 +1,4 @@
-  <a name=top><br><hr>
+  <a name=top><p>&nbsp;<hr>
   <p align=center>
   &nbsp;<a href="/README.md#top">home</a> &nbsp; | &nbsp;
   <a href="/docs/syllabus.md#top">syllabus</a> &nbsp; | &nbsp;

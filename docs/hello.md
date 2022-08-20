@@ -1,4 +1,4 @@
-  <a name=top><br><hr>
+  <a name=top><p>&nbsp;<hr>
   <p align=center>
   &nbsp;<a href="/README.md#top">home</a> &nbsp; | &nbsp;
   <a href="/docs/syllabus.md#top">syllabus</a> &nbsp; | &nbsp;
@@ -220,7 +220,9 @@ Warning: this code is learned from 159 Gb   of code from Github. So this is very
 
 ### ?? Blockchain
 
+
 er... what can we say about blockchain? well...
+
 
 - Aug 12, 2021: Ezra Klein, NY Times:
   - If the original internet let you easily copy information, 
