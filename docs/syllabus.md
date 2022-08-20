@@ -16,9 +16,6 @@
 
 
 
-## Syllabus
-
-
 # Syllabus
 
 CSC 510-001 (1962)   
