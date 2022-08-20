@@ -33,7 +33,7 @@
 
 </td>
 <td valign=top  xwidth="100px">
-(video password<a href="https://ncsu.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22389b8ebf-2f29-4c15-8231-aee9000e3f05%22">softeng22!</a>)
+(video password=<a href="https://ncsu.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22389b8ebf-2f29-4c15-8231-aee9000e3f05%22">softeng22!</a>)
 <br><br>
 <dl>
  <dt>
