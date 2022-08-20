@@ -71,9 +71,9 @@ href="https://github.com/timm/keys/actions"><img src="https://github.com/timm/ke
 - [CODE_OF_CONDUCT.md]( https://docs.github.com/en/github/building-a-strong-community/adding-a-code-of-conduct-to-your-project)
 - [CONTRIBUTING.md](https://github.com/atom/atom/blob/master/CONTRIBUTING.md)
   - This contrib file is too verbose. Discuss with your group which 10-20 items you'd actually endorse from your project.
-- [requirements.txt](https://www.idkrtm.com/what-is-the-python-requirements-txt/)
-- [setup.py, __init__.py](https://github.com/bmcfee/spatialtree)
-  - Test your package (`python3 setup.py install`)
+- [requirements.txt](https://www.idkrtm.com/what-is-the-python-requirements-txt/) (or equivalent in your language)
+- [setup.py, __init__.py](https://github.com/bmcfee/spatialtree) (or equivalent in your language)
+  - Test your package (`python3 setup.py install`) (or eqivalent in your language)
 
 
 Regarding the last point, keep it real simple.
