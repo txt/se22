@@ -15,7 +15,7 @@
 
 
 
-# Howework: 2: Write a "good" Github Repo
+# Howework 1: Write a "good" Github Repo
 
 Your repo is your resume. But what is a  good looking repo?
 
