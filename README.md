@@ -51,7 +51,7 @@
         <!-- a href="/docs/doc.md">Doco</a --> Doco<br> 
       <!-- a href="/docs/people1.md">People</a --->People<br>
        <!-- a href="/docs/patterns.md">Patterns</a ---> Patterns <br>
-    <!-- a href="/docs/testing.md">Testing</a ---> Testing <br>     
+    <!-- a href="/docs/testing.md">Testing</a ---> Testing <br>   
       <href="/docs/ethics.md">Ethics</a></br>
       <!-- a href="/docs/abstract.md">Abstraction</a --->Abstraction<br>
       AI<br>
