@@ -74,7 +74,7 @@ Sept 27, <a href="/docs/hw5.md">hw 5</a><br>
 <hr>
 Oct 6, <a href="/docs/proj1.md">Project 1</a><br>
 Oct 10, holiday<br>
-Oct 12, Mid-term<br>
+Oct 12, Mid-term exam<br>
 Oct 17, Pitch(g1-25)<br>
 Oct 19, Pitch(g26+)<br>
 Oct 21,  Voting(noon)<br>
@@ -85,7 +85,7 @@ Nov 30, <a href="/docs/proj2.md">Project 2</a><br>
 <hr>
 Dec 5, no lecture<br>
 Dec 5, <a href="/docs/essay.md">Essay</a><br>
-Dec 12, <a href="/docs/essay.md">Final</a><br>
+Dec 12, Final exam<br>
 </td>
 </tr>
 

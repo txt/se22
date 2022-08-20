@@ -61,11 +61,12 @@ All class communication from staff to students will be via this Discord group.
 
 Grades come from 
 - 5 homeworks
-- 2 projects, 
+- 2 projects 
+- 1 pitch session (where you try to "sell" your project1 to other groups)
 - 1 mid-session exam 
 - 1 final exam
-- 1 essay (due Dec4, but details already posted).
-  Feel free to submit early.
+- 1 essay (due Dec4, but details already posted).  Feel free to submit early.
+- Participating in trials of other people's software.
 
 Exams and essays are done individually. Everything else is done in  
 <a href="https://docs.google.com/spreadsheets/d/1KKskduN7m1R3WYhQTLyWJgxkAvrp2UV-LEu5JWN26xo/edit#gid=0">groups of 5</a>.
@@ -78,15 +79,8 @@ Exams and essays are done individually. Everything else is done in
     project2 
     - **Four bonus marks** if other people jump to your task.i for their task.i+1 work
   - Project1: you'll start some task
-  - Project2, Project2: you'll finish someone else's task (thereby learning the important of documentation, 
+  - Project2: you'll significantly extend someone else's task (thereby learning the important of documentation, 
     design purity, regression tests, etc).
-  - In the above you can get, at max 6 bonus marks:
-    - Proj1 is graded via the week6 deliverable list 1
-      - And if your project survives into Proj2, you get 2 bonus marks
-    - Proj2 is graded via the week12 deliverable list 2
-      - And if your project from proj2 survives into Proj3, you get 2 bonus marks
-    - Proj3 is graded via a  report that your peers will review.
-      - And if the class votes your proj3 as  "best", they get two bonus marks.
 - To support the lab work
   - Students get 10 marks for participating (\*) in other project's labs
 
@@ -102,15 +96,14 @@ You will lose marks if that data collection violates the following three rights:
 
 ### Grades
 
-|group |mark   | notes                                   |     
+|group |mark   | notes                                   |
 |------|-------|-----------------------------------------|
-|homework      | 2 marks \* 3  | hw1,2,3  : finding the state of the art |
-|         | 2 marks      | hw4: topic tbd        |
-|        | 2 marks \* 2  | hw5,6  : user studies |
-|exam    |  20 marks     | mid-term       |
-|        |  20 marks     | final         |
-|project | 16 marks \* 3 | project1,2,3  |
-|        |2 marks \* 3  | bonus marks for project 1,2,3|
+|homework      | 5 marks \* 2  | setting up your repo/software/team |
+|essay         |  20 marks     |                |
+|exam          |  20 marks     | mid-term       |
+|              |  20 marks     | final          |
+|project       | 16 marks \* 2 | project1,2     |
+|              | 4 marks       | pitch meeting  |
  
 With the final grades, the following grade scale will be used: 
 
