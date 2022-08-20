@@ -157,7 +157,7 @@ Andre Lustosa
 + Office Hours: Monday, 12:00-2:00
 + E-mail:  <alustos@ncsu.edu>
 
-    [![](https://academics.umw.edu/writing-fredericksburg/files/2013/08/schedule-appointment-button-orange-300x154.png)](https://calendly.com/alustos)
+[![](https://academics.umw.edu/writing-fredericksburg/files/2013/08/schedule-appointment-button-orange-300x154.png)](https://calendly.com/alustos)
 
 <br clear=all>
 
@@ -172,7 +172,7 @@ Weichen Shi
 + Office Hours: Friday, 12:00-2:00  
 + E-mail: wshi6@ncsu.edu
 
-    [![](https://academics.umw.edu/writing-fredericksburg/files/2013/08/schedule-appointment-button-orange-300x154.png)](https://calendly.com/wshi6)
+[![](https://academics.umw.edu/writing-fredericksburg/files/2013/08/schedule-appointment-button-orange-300x154.png)](https://calendly.com/wshi6)
 
 <br clear=all>
 
@@ -186,7 +186,7 @@ Leonardo Villalobos-Arias
 + Office Hours: Thursday, 12:00-2:00
 + E-mail: Leonardo Villalobos-Arias <lvillal@ncsu.edu>
 
-    [![](https://academics.umw.edu/writing-fredericksburg/files/2013/08/schedule-appointment-button-orange-300x154.png)](https://calendly.com/lvillal) 
+[![](https://academics.umw.edu/writing-fredericksburg/files/2013/08/schedule-appointment-button-orange-300x154.png)](https://calendly.com/lvillal) 
 
 <br clear=all>
 
@@ -200,7 +200,7 @@ Xiao Ling
 + Office Hours: Tuesday, 12:00-2:00 
 + E-mail: xling4@ncsu.edu
 
-    [![](https://academics.umw.edu/writing-fredericksburg/files/2013/08/schedule-appointment-button-orange-300x154.png)](https://calendly.com/xling4)
+[![](https://academics.umw.edu/writing-fredericksburg/files/2013/08/schedule-appointment-button-orange-300x154.png)](https://calendly.com/xling4)
 
 <br clear=all>
 
@@ -215,7 +215,7 @@ Rahul Yedida
 + Office Hours: Friday, 12:00-2:00  
 + E-mail: yrahul3910@gmail.com
 
-    [![](https://academics.umw.edu/writing-fredericksburg/files/2013/08/schedule-appointment-button-orange-300x154.png)](https://calendly.com/ryedida)
+[![](https://academics.umw.edu/writing-fredericksburg/files/2013/08/schedule-appointment-button-orange-300x154.png)](https://calendly.com/ryedida)
 
 <br clear=all>
 
