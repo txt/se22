@@ -216,7 +216,7 @@ Xiao Ling (Mr. Thursday)
 
 <p>&nbsp;</p>
 
-<img width=200 align=right src="https://user-images.githubusercontent.com/29195/129790935-2f0f8ec8-c17a-453d-91db-7dcde42d616c.png"> 
+<img width=200 align=right src="https://i.imgur.com/Z98l5vE.jpeg"> 
   
 Rahul Yedida (Mr. Monday)
 
