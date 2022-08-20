@@ -77,7 +77,7 @@ href="https://github.com/timm/keys/actions"><img src="https://github.com/timm/ke
 
 
 Regarding the last point, keep it real simple.
-In Python, write the smallest example of [pytest](https://docs.pytest.org/en/stable/)
+.e.g In Python, write the smallest example of [pytest](https://docs.pytest.org/en/stable/)
  running a file containing some `test_` functions.
 
 ```python

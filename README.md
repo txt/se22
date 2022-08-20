@@ -47,15 +47,15 @@
     More:
   </dt>
   <dd>
-     <a href="/docs/goodrepo.md">Versioning</a>,<br>
-        <a href="/docs/doc.md">Doco</a>, <br> 
-      <a href="/docs/people1.md">People</a><br>
-       <a href="/docs/patterns.md">Patterns</a> , <br>
-    <a href="/docs/testing.md">Testing</a>, <br>     
-      <a href="/docs/ethics.md">Ethics</a></br>
-      <a href="/docs/abstract.md">Abstraction</a><br>
+     <!-- a href="/docs/goodrepo.md">Versioning</a ---> Versioning<br>
+        <!-- a href="/docs/doc.md">Doco</a --> Doco<br> 
+      <!-- a href="/docs/people1.md">People</a --->People<br>
+       <!-- a href="/docs/patterns.md">Patterns</a ---> Patterns <br>
+    <!-- a href="/docs/testing.md">Testing</a ---> Testing <br>     
+      <href="/docs/ethics.md">Ethics</a></br>
+      <!-- a href="/docs/abstract.md">Abstraction</a --->Abstraction<br>
       AI<br>
-    <a href="/docs/analytics.md">Analytics</a></br>
+    <!-- a href="/docs/analytics.md">Analytics</a ---></br>
   </dd><hr>
 
 </dl>
@@ -67,12 +67,12 @@
 Aug 30, <a href="/docs/hw1.md">hw 1</a><br>
 <hr>
 Sept 5, holiday<br>
-Sept 6,, <a href="/docs/hw2.md">hw 2</a><br>
-Sept 13, <a href="/docs/hw3.md">hw 3</a><br>
-Sept 20, <a href="/docs/hw4.md">hw 4</a><br>
-Sept 27, <a href="/docs/hw5.md">hw 5</a><br>
+Sept 6,, <!-- a href="/docs/hw2.md">hw 2</a-->hw2<br>
+Sept 13, <!-- a href="/docs/hw3.md">hw 3</a-->hw3<br>
+Sept 20, <!-- a href="/docs/hw4.md">hw 4</a-->hw4<br>
+Sept 27, <!-- a href="/docs/hw5.md">hw 5</a-->hw5<br>
 <hr>
-Oct 6, <a href="/docs/proj1.md">Project 1</a><br>
+Oct 6, <!-- a href="/docs/proj1.md">Project 1</a-->Project1<br>
 Oct 10, holiday<br>
 Oct 12, Mid-term exam<br>
 Oct 17, Pitch(g1-25)<br>
@@ -81,7 +81,7 @@ Oct 21,  Voting(noon)<br>
 <hr>
 Nov 23, holiday<br>
 Nov 30, no lecture<br>
-Nov 30, <a href="/docs/proj2.md">Project 2</a><br>
+Nov 30, <!-- a href="/docs/proj2.md">Project 2</a-->Project2<br>
 <hr>
 Dec 5, no lecture<br>
 Dec 5, <a href="/docs/essay.md">Essay</a><br>
