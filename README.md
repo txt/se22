@@ -55,7 +55,7 @@
       <a href="/docs/ethics.md">Ethics</a></br>
       <!-- a href="/docs/abstract.md">Abstraction</a --->Abstraction<br>
       AI<br>
-    <!-- a href="/docs/analytics.md">Analytics</a ---></br>
+    <!-- a href="/docs/analytics.md">Analytics</a --->Analytics</br>
   </dd><hr>
 
 </dl>
