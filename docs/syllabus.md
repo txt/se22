@@ -100,14 +100,14 @@ You will lose marks if that data collection violates the following three rights:
 |group |mark   | notes                                   |
 |------|-------|-----------------------------------------|
 |homework      | 5 \* 2  | setting up your repo/software/team |
-|essay         | 20 |     standard           |
+|essay         | 20 |     |
 |              | 1 bonus      | for ethical brilliance |
 |exam          |  10 | mid-term       |
 |              |  16 | final          |
 |project       | 15 \* 2 | project1,2     |
 |              | 4 | pitch meeting  |
 |              | 3 bonus      | if others pick your work for their project2 |
-|              | 3*2 bonus     | for demonstraining scalability to \*100 (+2), \*1000 (+2)|
+|              | 3*2 bonus     | for demonstraining scalability to \*100 (+3), \*1000 (+3)|
 |participation | 10 | "lab rats" for other projects. |
 |total         | 100           | +10 (maybe) in bonus|
 
@@ -120,11 +120,18 @@ With the final grades, the following grade scale will be used:
      D+ (67-69),   D (63-66),   D-(60-62)
      F (below 60).
 
-### Timetable
-
-See ["Timetable"](http://tiny.cc/se21) on  our home page.
-
 ## Staff
+
+Consultation times between lecturer and staff are available via calendy. Bookings must arrive the day before the consultation
+sesssion. If there are no bookings, consultation time will be cancelled.
+
+Consultation times are Mon,Tue,Wed,Thurs,Frid at 2pm to 4pm. 
+
+
+Consultations will be conducted via ZOOMs (why? cause we polled students prior to class starting and that was the majority
+preference).
+- please ensure all relevant materials are acessible and on-line prior to the consultation. DO NOT waste your time and ours during
+  consultation finding the relevant links or enabling passwork access.
 
 ### Lecturer
 
@@ -132,13 +139,11 @@ Tim Menzies <img src="http://www.csc.ncsu.edu/enews/images/1770.jpg" align=right
 
 + Github id: timm
 + Discord name: timm
-+ Office Hours: Monday, 12:00-2:00 and by request
-+ E-Mail: timm@ieee.org
-  + Only use this email for private matters. A
-     ll other class communication should be via the class news group,    listed below.
-+ Phone: 304-376-2859
-       + **Do not use** this number, except in the most dire of 
-          circumstances (best way to contact me is via email).
++ E-Mail: timm@ieee.org: Only use this email for private matters. All other class communication should be via the class news group,    listed below.
++ Phone: 304-376-2859: **Do not use** this number, except in the most dire of circumstances (best way to contact me is via email).
++ Office Hours: Monday, 12:00-2:00 and by request.
+
+[![](https://academics.umw.edu/writing-fredericksburg/files/2013/08/schedule-appointment-button-orange-300x154.png)](https://calendly.com/timmenzies/15min)
 
 <br clear=all>
 
