@@ -80,10 +80,10 @@ Oct 19, Pitch(g26+)<br>
 Oct 21,  Voting(noon)<br>
 <hr>
 Nov 23, holiday<br>
-Nov 30, no lecture<br>
+Nov 30, grading<br>
 Nov 30, <!-- a href="/docs/proj2.md">Project 2</a-->Project2<br>
 <hr>
-Dec 5, no lecture<br>
+Dec 5, grading<br>
 Dec 5, <a href="/docs/essay.md">Essay</a><br>
 Dec 12, Final exam<br>
 </td>
