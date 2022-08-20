@@ -18,8 +18,8 @@
 
 # Syllabus
 
-CSC 510-001 (1962)   
-TuTh 3:00PM - 4:15PM    
+CSC 510-001 (1947)  
+MonWed 10:15PM - 11:30PM    
 01103 James B Hunt Jr Centenniel   
 
 ## Overview
@@ -33,11 +33,11 @@ In this subject, students will be taught about etical SE the start of the art in
   - Working in teams, deliver a systems of acceptable quality within eh available resources;  
   - That  someone else would want to use;
   - That is demonstrable _good_ (compared to something else).
-- Learn the  state of thea rt in SE
+- Learn the  state of the art in SE
 
 ### Prerequisites
 
-+ CSC 316 and CSC 226
++ CSC 316 and CSC 226 (or equivalent)
 
 ### Textbook
 
@@ -47,24 +47,23 @@ by Roger Pressman
 
 ### Class Discord Group
 
-It is each student's responsibility to join the class Discord  group:
+It is each student's responsibility to join the class Discord  group "cs510, fall 2022". Till Friday week1, the link to join there is [here](https://discord.gg/SpsaeeUw).
+
+All class communication from staff to students will be via this Discord group.
 
 + Students are strongly encouraged to contribute their 
   questions and answers to that shared resource.
 + Note that, for communication of a more private nature, 
   contact the lecturer on the email shown below.
 
-All class communication from staff to students will be via this Discord group.
 
 ## Assessment
 
 Grades come from 
-- 6 homeworks
-  - Two of which are 2 "lab sessions" where students can
-    use other  students to test their software.
-- 3 projects, 
+- 5 homeworks
+- 2 projects, 
 - 1 mid-session exam 
-- Final "exam"  is a take home essay (on ethics). 
+- Final exam  is a take home essay (on ethics). 
   Details to be posted by end September.
   Feel free to submit early.
 
