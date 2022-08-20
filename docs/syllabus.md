@@ -154,34 +154,10 @@ Andre Lustosa
 
 + Github id:  andre-motta
 + Discord name: SargeHawk#1591
-+ Office Hours: Wednesday, 13:30-15:00
-+ E-mail: alustos@ncsu.edu
++ Office Hours: Monday, 12:00-2:00
++ E-mail:  <alustos@ncsu.edu>
 
-<br clear=all>
-
-<p>&nbsp;</p>
-
-<img src="http://ai4se.net/img/KewenPeng.jpg" align=right width=200>
-Kewen Peng
-
-+ Github id: kpeng2019
-+ Discord  name:  Kewen#1729
-+ Office Hours: Thursday, 10:00-11:30 
-+ Location: Zoom - https://ncsu.zoom.us/j/4801316040
-+ E-mail: kpeng@ncsu.edu
-
-<br clear=all>
-
-<p>&nbsp;</p>
-
-<img src="https://user-images.githubusercontent.com/41660376/89558051-b99e6380-d7e1-11ea-81f3-d8b4fac8aa32.jpg" align=right width=200>
-Xiao Ling
-
-+ Github id:  XiaoLing941212
-+ Discord  name: Xiao
-+ Office Hours: Tuesday, 13:00-14:30 
-+ Location: Zoom - https://ncsu.zoom.us/j/93603223799
-+ E-mail: xling4@ncsu.edu
+    [![](https://academics.umw.edu/writing-fredericksburg/files/2013/08/schedule-appointment-button-orange-300x154.png)](https://calendly.com/alustos)
 
 <br clear=all>
 
@@ -193,9 +169,53 @@ Weichen Shi
 
 + Github id:  shwch210d
 + Discord  name: Weichen#8407
-+ Office Hours: Friday, 10:30-12:00  
-+ Location: Zoom - https://ncsu.zoom.us/j/8113021611
++ Office Hours: Friday, 12:00-2:00  
 + E-mail: wshi6@ncsu.edu
+
+    [![](https://academics.umw.edu/writing-fredericksburg/files/2013/08/schedule-appointment-button-orange-300x154.png)](https://calendly.com/wshi6)
+
+<br clear=all>
+
+<p>&nbsp;</p>
+
+<img src="http://ai4se.net/img/KewenPeng.jpg" align=right width=200>
+Leonardo Villalobos-Arias 
+
++ Github id: XXX
++ Discord  name:  Leonardo Villalobos#5591
++ Office Hours: Thursday, 12:00-2:00
++ E-mail: Leonardo Villalobos-Arias <lvillal@ncsu.edu>
+
+    [![](https://academics.umw.edu/writing-fredericksburg/files/2013/08/schedule-appointment-button-orange-300x154.png)](https://calendly.com/lvillal) 
+
+<br clear=all>
+
+<p>&nbsp;</p>
+
+<img src="https://user-images.githubusercontent.com/41660376/89558051-b99e6380-d7e1-11ea-81f3-d8b4fac8aa32.jpg" align=right width=200>
+Xiao Ling
+
++ Github id:  XiaoLing941212
++ Discord  name: Xiao#8138
++ Office Hours: Tuesday, 12:00-2:00 
++ E-mail: xling4@ncsu.edu
+
+    [![](https://academics.umw.edu/writing-fredericksburg/files/2013/08/schedule-appointment-button-orange-300x154.png)](https://calendly.com/xling4)
+
+<br clear=all>
+
+<p>&nbsp;</p>
+
+<img width=200 align=right src="https://user-images.githubusercontent.com/29195/129790935-2f0f8ec8-c17a-453d-91db-7dcde42d616c.png"> 
+  
+Rahul Yedida
+
++ Github id:  XXX
++ Discord  name: Rahul Yedida#1323
++ Office Hours: Friday, 12:00-2:00  
++ E-mail: yrahul3910@gmail.com
+
+    [![](https://academics.umw.edu/writing-fredericksburg/files/2013/08/schedule-appointment-button-orange-300x154.png)](https://calendly.com/ryedida)
 
 <br clear=all>
 
