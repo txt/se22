@@ -116,6 +116,13 @@ What are the features of  the  following repos that make them "good"?
 - https://github.com/chalk/chalk
 - https://github.com/marcotcr/lime
 
+## On the merits of a "boast video"
+
+Yes, when "selling" your project it is tempting to prepare a short glossy video. 
+- But consider, many of the above GH repos have no videom but very informative text/graphics
+- So reflect on the value of "fluffy video" that might bother someone,
+  - Versus actual succinct semantic comments.
+
 ## Good practices for Effecive Teaming
 
 
