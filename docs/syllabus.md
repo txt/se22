@@ -151,7 +151,7 @@ Tim Menzies  (Prof. Monday)
 + Discord name: timm
 + E-Mail: timm@ieee.org: Only use this email for private matters. All other class communication should be via the class news group,    listed below.
 + Phone: 304-376-2859: **Do not use** this number, except in the most dire of circumstances (best way to contact me is via email).
-+ Office Hours: Monday, 12:00-2:00 and by request.
++ Office Hours: Monday, 2:00-4:00 and by request.
 
 [![](https://academics.umw.edu/writing-fredericksburg/files/2013/08/schedule-appointment-button-orange-300x154.png)](https://calendly.com/timmenzies/15min)
 
@@ -179,7 +179,7 @@ Weichen Shi (Mr. Friday)
 
 + Github id:  shwch210d
 + Discord  name: Weichen#8407
-+ Office Hours: Friday, 12:00-2:00  
++ Office Hours: Friday, 2:00-4:00  
 + E-mail: wshi6@ncsu.edu
 
 [![](https://academics.umw.edu/writing-fredericksburg/files/2013/08/schedule-appointment-button-orange-300x154.png)](https://calendly.com/wshi6)
@@ -193,7 +193,7 @@ Leonardo Villalobos-Arias (Mr. Wedesday)
 
 + Github id: XXX
 + Discord  name:  Leonardo Villalobos#5591
-+ Office Hours: Wednesday, 12:00-2:00
++ Office Hours: Wednesday, 2:00-4:00
 + E-mail: Leonardo Villalobos-Arias <lvillal@ncsu.edu>
 
 [![](https://academics.umw.edu/writing-fredericksburg/files/2013/08/schedule-appointment-button-orange-300x154.png)](https://calendly.com/lvillal) 
@@ -207,7 +207,7 @@ Xiao Ling (Mr. Thursday)
 
 + Github id:  XiaoLing941212
 + Discord  name: Xiao#8138
-+ Office Hours: Thursday, 12:00-2:00 
++ Office Hours: Thursday, 2:00-4:00 
 + E-mail: xling4@ncsu.edu
 
 [![](https://academics.umw.edu/writing-fredericksburg/files/2013/08/schedule-appointment-button-orange-300x154.png)](https://calendly.com/xling4)
@@ -222,7 +222,7 @@ Rahul Yedida (Mr. Monday)
 
 + Github id:  XXX
 + Discord  name: Rahul Yedida#1323
-+ Office Hours: Monday, 12:00-2:00  
++ Office Hours: Monday, 2:00-4:00  
 + E-mail: yrahul3910@gmail.com
 
 [![](https://academics.umw.edu/writing-fredericksburg/files/2013/08/schedule-appointment-button-orange-300x154.png)](https://calendly.com/ryedida)
