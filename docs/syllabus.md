@@ -173,7 +173,7 @@ Andre Lustosa (Mr. Tuesday)
 
 <p>&nbsp;</p>
 
-<img width=200 align=right src="https://user-images.githubusercontent.com/29195/129790935-2f0f8ec8-c17a-453d-91db-7dcde42d616c.png"> 
+<img width=200 align=right src="[https://user-images.githubusercontent.com/29195/129790935-2f0f8ec8-c17a-453d-91db-7dcde42d616c.png](https://user-images.githubusercontent.com/16307121/185726428-a9219b66-5907-4a1a-96e3-39f06dc18290.JPG)"> 
   
 Weichen Shi (Mr. Friday)
 
