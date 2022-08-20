@@ -97,18 +97,18 @@ You will lose marks if that data collection violates the following three rights:
 
 ### Grades
 
-|group |mark   | notes                                   |
+|group |mark   | notes                                   | 
 |------|-------|-----------------------------------------|
-|homework      | 5 \* 2  | setting up your repo/software/team |
-|essay         | 20 |     |
+|homework (group)     | 5 \* 2  | setting up your repo/software/team | 
+|essay (solo)         | 20 |     | 
 |              | 1 bonus      | for ethical brilliance |
-|exam          |  10 | mid-term       |
+|exam (solo)         |  10 | mid-term       | sol
 |              |  16 | final          |
-|project       | 15 \* 2 | project1,2     |
+|project (group)      | 15 \* 2 | project1,2     |
 |              | 4 | pitch meeting  |
 |              | 3 bonus      | if others pick your work for their project2 |
 |              | 3*2 bonus     | for demonstraining scalability to \*100 (+3), \*1000 (+3)|
-|participation | 10 | "lab rats" for other projects. |
+|participation (solo) | 10 | "lab rats" for other projects. |
 |total         | 100           | +10 (maybe) in bonus|
 
  
@@ -119,6 +119,14 @@ With the final grades, the following grade scale will be used:
      C+ (77-79),   C (73-76),   C-(70-72)
      D+ (67-69),   D (63-66),   D-(60-62)
      F (below 60).
+
+### Late Marks
+
+During the homework periods, groups must post each week, even if it is incomplete, OR THEY WILL LOSE ONE MARK.  That said, until the end of September,
+homeworks can be submitted multiple times for regrading.
+
+
+For project deliverables, students will lose 1 mark per day for late submissions (weekend = 1 day).
 
 ## Staff
 
@@ -232,7 +240,7 @@ Rahul Yedida (Mr. Monday)
   to help you along.
 - Please make sure you experience the lectures (either live or watching
   the recoding).
-- Aside from that, you have  to service all your homework, and prokect
+- Aside from that, you have  to service all your homework, and project
   commitments. It is very bad to be absent from your project except
   for anticipated abseonces condonned by the univerisity:
      - Representing an official university function (e.g. athletics)
@@ -326,12 +334,6 @@ http://policies.ncsu.edu/regulation/reg-02-50-03. Additional
 information relative to incomplete grades for graduate students can
 be found in the Graduate Administrative Handbook in Section 3.18.F
 at http://www.ncsu.edu/grad/handbook/index.php
-
-### Late Assignments Policy
-
-Homeworks become late 2 weeks after after the dates listed above.  Late homeworks earn zero marks.
-
-For project deliverables, students will lose 1 mark per day for late submissions (weekend = 1 day).
 
 ### Digital Course Components
 
