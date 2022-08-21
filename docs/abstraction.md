@@ -16,6 +16,3 @@
 
 
 
-## Abstraction
-
-
