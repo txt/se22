@@ -18,7 +18,7 @@ Goal:
 "yes, for Project2, we want to finish that".
 
 Something to think about: 
-- In Proj2 you can win bonus points it can show that yu ahve done something to proj1 code such that Proj2 cde now scales
+- In Proj2 you can win bonus points if you can show that you have done something to proj1 code such that Proj2 code now scales
 to problems 100 to 1000 times bigger than proj1 (where "bigger" is measured in some problem specific way like user/data set size/repsonse speed).
 
 That said, for Proj1, You must deliever:
@@ -27,7 +27,7 @@ That said, for Proj1, You must deliever:
   **where to go from here**
 - all the "bling" (described below) needed to convince another group that they should use your system.
 
-## Start by Picking  a Project
+## Start by Picking a Project
 
 (Hint: do it now!)
 
