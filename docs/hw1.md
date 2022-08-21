@@ -17,14 +17,14 @@
 
 # Howework 1: Write a "good" Github Repo
 
-Your repo is your resume. But what is a  good looking repo?
+Your repo is your resume. But what is a good looking repo?
 
 ## Write a repo 
 
 With the structure shown below. Ensure that  everyone in the group do at least one commit to the repo
 
 Note:
-- There is a lot to do here in a  week . 
+- There is a lot to do here in a week. 
 - You'll probably only get bits of this going in 1 week. But keep at it. Remember that homeworks can be submitted many
 times with no penalties
 - Suggestion: Divide up the structure between your group and everyone do different parts.
@@ -53,15 +53,16 @@ code/
   __init__.py  // may change per language; 
 ```
 
-If you don't know what any of the above do, then google them (they are quite standard). ALso, read the following: 
+If you don't know what any of the above do, then google them (they are quite standard). Also, read the following: 
 
 - README.md
-   - add the  badge "build:passing"  to your README.md. 
+   - add the badge "build:passing" to your README.md. 
      -  Consider using a  free service like   github-actions
        - [instructions](https://lab.github.com/githubtraining/github-actions:-hello-world)
        - [example](https://github.com/timm/keys/blob/main/.github/workflows/unit-test.yml)
        - [badging](https://docs.github.com/en/actions/managing-workflow-runs/adding-a-workflow-status-badge) <a 
 href="https://github.com/timm/keys/actions"><img src="https://github.com/timm/keys/actions/workflows/unit-test.yml/badge.svg"></a>
+       - [badge graphics](https://shields.io/)
      - Consider using travis-ci see [Instructions](https://docs.travis-ci.com/user/customizing-the-build)
    - add the Zenodo DOI badge to your README.md. See [Instructions](https://genr.eu/wp/cite/)
 - [.gitignore](https://github.com/github/gitignore)
@@ -89,4 +90,4 @@ def test_answer():
     assert inc(3) == 5
 ```
 
-Hook that code into your repo so that the "build:passing" badge work ( so that everytime you commit your repo, your tests re-run).
+Hook that code into your repo so that the "build:passing" badge work (so that everytime you commit your repo, your tests re-run).
