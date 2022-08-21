@@ -13,17 +13,21 @@
 # Project 1
 
 
-Goal: start something that another groups will say
+Goal: 
+- Start something that another groups will say
 "yes, for Project2, we want to finish that".
 
-You must deliever:
+Something to think about: 
+- In Proj2 you can win bonus points if you can show that you have done something to Proj1 code such that Proj2 code now scales
+to problems 100 to 1000 times bigger than Proj1 (where "bigger" is measured in some problem specific way like user/data set size/repsonse speed).
 
+That said, for Proj1, You must deliever:
 - something that executes **some** of your goals, 
 - a [roadmap](https://github.com/se20z09/units_converter_extension/projects/1) telling others
   **where to go from here**
 - all the "bling" (described below) needed to convince another group that they should use your system.
 
-## Start by Picking  a Project
+## Start by Picking a Project
 
 (Hint: do it now!)
 
@@ -38,7 +42,7 @@ Pick something that  was  popular in
 or  [2021](https://docs.google.com/spreadsheets/d/164qCnYK2K_1X9EBd72wGfD1FsGpwAqrAhC5s2X5uy8A/edit#gid=0)
 (look for the things that got most votes).
 
-- Heck, even get a kick start by starting  with a project from last year.
+- Heck, even get a kick start by starting with a project from last year.
 
 What to do? Well pick something:
 
@@ -47,13 +51,13 @@ What to do? Well pick something:
 - Not ambitious:
   - So you can make significant progress in 4 weeks;
 - Not too small: 
-  - So you can  impress people with the work;
+  - So you can impress people with the work;
 - Small enough:
   - So you can finish;
 - Where there is something already running:
   - So you get going fast;
 - Something the whole team can contribute to
-  - Work in  a language that everyone in the team can handle:
+  - Work in a language that everyone in the team can handle:
   - Work on a problem everyone can understand
 
 If you want to be in the running for "projects
@@ -69,7 +73,7 @@ or  [2021](https://docs.google.com/spreadsheets/d/164qCnYK2K_1X9EBd72wGfD1FsGpwA
 then 
 you must show your tutor:
 -  in week3 a **two minute video** showing the old functionality;
--  when project1 is dues, a **two minute video** showing the new functionality.
+-  when project1 is due, a **two minute video** showing the new functionality.
 
 
 <br clear=all>
@@ -119,9 +123,10 @@ What are the features of  the  following repos that make them "good"?
 ## On the merits of a "boast video"
 
 Yes, when "selling" your project it is tempting to prepare a short glossy video. 
-- But consider, many of the above GH repos have no videom but very informative text/graphics
+- But consider, many of the above GH repos have no video, but very informative text/graphics
 - So reflect on the value of "fluffy video" that might bother someone,
   - Versus actual succinct semantic comments.
+- So a glossy video might actually be an anti-pattern that drives people away.
 
 ## Good practices for Effecive Teaming
 
@@ -161,46 +166,46 @@ you can emulate.
 
 # Rubric
 
-Prepare a  markdown  with **three** columns:
+Prepare a markdown with **three** columns:
 
-- Column1 has all the following points PLUS all the  points from the
+- Column1 has all the following points PLUS all the points from the
   [Software Sustainability Evaluation](https://docs.google.com/forms/d/e/1FAIpQLSf0ccsVdN-nXJCHLluJ-hANZlp8rDKgprJa0oTYiLZSDxh3DA/viewform).
-- Column2  is your self-assessment. For each items, score yourself zero (none), one  (a litte),  two (somewhat), three (a lot).
+- Column2 is your self-assessment. For each items, score yourself zero (none), one (a litte), two (somewhat), three (a lot).
 - Column3 is for any links you  are adding to support your claim in column two.
-- At the top,  show the sum of column2,
+- At the top, show the sum of column2,
 
 
-| Notes|evidence|
+|Notes|evidence|
 |-----|---------|
-|video1 | For people starting with 2020 or 2021 projects, 2min video of old functionality| 
-|video2 | For people starting with 2020 or 2021 projects, 2min video of new functionality, showing a significant delta from old| 
-|workload is spread over the whole team (one team member is often Xtimes more productive than the others... 
-but nevertheless, here is a track record that everyone is contributing a lot)|evidence  in GH|
-| Number of commits|in GH|
-| Number of commits: by different people|in GH|
-| Issues reports: there are **many**|
-|  issues are being  closed|evidence in GH|
-| DOI badge: exists |in GH|
-|Docs: doco generated , format not ugly |in GH|
+|Video1| For people starting with 2020 or 2021 projects, 2min video of old functionality| 
+|Video2| For people starting with 2020 or 2021 projects, 2min video of new functionality, showing a significant delta from old| 
+|Workload is spread over the whole team (one team member is often Xtimes more productive than the others... 
+but nevertheless, here is a track record that everyone is contributing a lot)|evidence in GH|
+|Number of commits|in GH|
+|Number of commits: by different people|in GH|
+|Issues reports: there are **many**|
+|Issues are being closed|evidence in GH|
+|DOI badge: exists|in GH|
+|Docs: doco generated, format not ugly |in GH|
 |Docs: what: point descriptions of each class/function (in isolation) |
 |Docs: how: for common use cases X,Y,Z mini-tutorials showing worked examples on how to do X,Y,Z|doc page entries|
 |Docs: why: docs tell a story, motivate the whole thing, deliver a punchline that makes you want to rush out and use the thing|
 |Docs: short video, animated, hosted on your repo. That convinces people why they want to work on your code.|
-| Use of version control tools|
-|Use of  style checkers |config files in GH showing your config|
-| Use of code  formatters. |config files in GH showing your this formatter's  config|
-| Use of syntax checkers. |config files iin  GH showing this checker's config  |
-| Use of code coverage |config files in GH|
-| other automated analysis tools|config files in GH|
-| test cases exist|dozens of tests and those test cases are more than 30% of the  code base|
-| test cases are routinely executed|e.g. travis-com.com or github actions or something|
- | the files CONTRIBUTING.md lists coding standards and lots of tips on how to extend the system without screwing things up|
-| issues are discussed before they are closed|even if you discuss in slack, need a sumamry statement here|
-| Chat channel: exists|
-| test cases:.a large proportion of the issues related to handling failing cases.|if a test case fails, open an issue and fix it|
-| evidence that the whole team is using the same tools: everyone can get to all tools and files|
-| evidence that the whole team is using the same tools (e.g. config files in the repo, updated by lots of different people)|
-| evidence that the whole team is using the same tools (e.g. tutor can ask anyone to share screen, they demonstrate the system running on their computer)|
-| evidence that the members of the team are working across multiple places in the code base|
-|short release cycles | (hard to see in short projects) project members are committing often enough so that everyone can get your work|
+|Use of version control tools|
+|Use of style checkers |config files in GH showing your config|
+|Use of code formatters. |config files in GH showing your this formatter's  config|
+|Use of syntax checkers. |config files iin  GH showing this checker's config  |
+|Use of code coverage |config files in GH|
+|Other automated analysis tools|config files in GH|
+|Test cases exist|dozens of tests and those test cases are more than 30% of the code base|
+|Test cases are routinely executed|E.g. travis-com.com or github actions or something|
+|The files CONTRIBUTING.md lists coding standards and lots of tips on how to extend the system without screwing things up|
+|Issues are discussed before they are closed|even if you discuss in slack, need a sumamry statement here|
+|Chat channel: exists|Link or screenshots|
+|Test cases: a large proportion of the issues related to handling failing cases.|If a test case fails, open an issue and fix it|
+|Evidence that the whole team is using the same tools: everyone can get to all tools and files|
+|Evidence that the whole team is using the same tools (e.g. config files in the repo, updated by lots of different people)|
+|Evidence that the whole team is using the same tools (e.g. tutor can ask anyone to share screen, they demonstrate the system running on their computer)|
+|Evidence that the members of the team are working across multiple places in the code base|
+|Short release cycles | (hard to see in short projects) project members are committing often enough so that everyone can get your work|
 

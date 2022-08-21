@@ -13,9 +13,6 @@
 
 
 
-
-
-
 # Syllabus
 
 CSC 510-001 (1947)  
@@ -26,11 +23,10 @@ MonWed 10:15PM - 11:30PM
 
 ### Topics
 
-This is an _advanced graduate_ class. 
 In this subject, students will be taught about etical SE the start of the art in how to:
 
 - Write "good" software;
-  - Working in teams, deliver a systems of acceptable quality within eh available resources;  
+  - Working in teams, deliver a systems of acceptable quality within the available resources;  
   - That  someone else would want to use;
   - That is demonstrable _good_ (compared to something else).
 - Learn the  state of the art in SE
@@ -160,11 +156,11 @@ Tim Menzies  (Prof. Monday)
 ### Tutors
 
 <img src="http://ai4se.net/img/AndreMotta.jpg" align=right width=200>
-Andre Lustosa (Mr. Tuesday)
+Andre Lustosa (Mr. Wednesday)
 
 + Github id:  andre-motta
 + Discord name: SargeHawk#1591
-+ Office Hours: Tuesday, 2:00-4:00
++ Office Hours: Wednesday, 2:00-4:00
 + E-mail:  <alustos@ncsu.edu>
 
 [![](https://academics.umw.edu/writing-fredericksburg/files/2013/08/schedule-appointment-button-orange-300x154.png)](https://calendly.com/alustos)
@@ -188,12 +184,12 @@ Weichen Shi (Mr. Friday)
 
 <p>&nbsp;</p>
 
-<img src="http://ai4se.net/img/KewenPeng.jpg" align=right width=200>
-Leonardo Villalobos-Arias (Mr. Wedesday) 
+<img src="https://avatars.githubusercontent.com/u/77703306?s=400&u=35850a7a0591b9d539fa686599d0652d041ffc02&v=4" align=right width=200>
+Leonardo Villalobos-Arias (Mr. Tuesday) 
 
-+ Github id: XXX
++ Github id: lyonva
 + Discord  name:  Leonardo Villalobos#5591
-+ Office Hours: Wednesday, 2:00-4:00
++ Office Hours: Tuesday, 2:00-4:00
 + E-mail: Leonardo Villalobos-Arias <lvillal@ncsu.edu>
 
 [![](https://academics.umw.edu/writing-fredericksburg/files/2013/08/schedule-appointment-button-orange-300x154.png)](https://calendly.com/lvillal) 
@@ -242,7 +238,7 @@ Rahul Yedida (Mr. Monday)
   the recoding).
 - Aside from that, you have  to service all your homework, and project
   commitments. It is very bad to be absent from your project except
-  for anticipated abseonces condonned by the univerisity:
+  for anticipated absences condonned by the univerisity:
      - Representing an official university function (e.g. athletics)
      - Required court attendance as certified by the Clerk of Court.
      - Students will be allowed a minimum of two excused absences per academic year for religious observances 
@@ -256,6 +252,8 @@ On top of that, Covid-related issues will, of course, also be excused.
 (And no where on that list is "I have to go to a wedding in India".)
 
 ### Expected Workload
+This is an _advanced graduate_ class at  R1 institution 
+(an R1 institution is classified as a doctoral university with very high research activity). 
 
  Students must be
 prepared to dedicate AT LEAST 5-8 working hours a
