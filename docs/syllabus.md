@@ -156,11 +156,11 @@ Tim Menzies  (Prof. Monday)
 ### Tutors
 
 <img src="http://ai4se.net/img/AndreMotta.jpg" align=right width=200>
-Andre Lustosa (Mr. Tuesday)
+Andre Lustosa (Mr. Wednesday)
 
 + Github id:  andre-motta
 + Discord name: SargeHawk#1591
-+ Office Hours: Tuesday, 2:00-4:00
++ Office Hours: Wednesday, 2:00-4:00
 + E-mail:  <alustos@ncsu.edu>
 
 [![](https://academics.umw.edu/writing-fredericksburg/files/2013/08/schedule-appointment-button-orange-300x154.png)](https://calendly.com/alustos)
@@ -185,11 +185,11 @@ Weichen Shi (Mr. Friday)
 <p>&nbsp;</p>
 
 <img src="http://ai4se.net/img/KewenPeng.jpg" align=right width=200>
-Leonardo Villalobos-Arias (Mr. Wedesday) 
+Leonardo Villalobos-Arias (Mr. Tuesday) 
 
-+ Github id: XXX
++ Github id: lyonva
 + Discord  name:  Leonardo Villalobos#5591
-+ Office Hours: Wednesday, 2:00-4:00
++ Office Hours: Tuesday, 2:00-4:00
 + E-mail: Leonardo Villalobos-Arias <lvillal@ncsu.edu>
 
 [![](https://academics.umw.edu/writing-fredericksburg/files/2013/08/schedule-appointment-button-orange-300x154.png)](https://calendly.com/lvillal) 
