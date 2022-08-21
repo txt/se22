@@ -15,13 +15,18 @@
 
 
 
+
 # Howework 1: Write a "good" Github Repo
+
 
 Your repo is your resume. But what is a good looking repo?
 
+
 ## Write a repo 
 
+
 With the structure shown below. Ensure that  everyone in the group do at least one commit to the repo
+
 
 Note:
 - There is a lot to do here in a week. 
@@ -30,9 +35,12 @@ times with no penalties
 - Suggestion: Divide up the structure between your group and everyone do different parts.
 But make sure everyone knows what each part is.
 
+
 Submit your a URL to your repo to Moodle.
 
+
 ## Structure
+
 
 ```txt
 .gitignore
@@ -53,7 +61,9 @@ code/
   __init__.py  // may change per language; 
 ```
 
+
 If you don't know what any of the above do, then google them (they are quite standard). Also, read the following: 
+
 
 - README.md
    - add the badge "build:passing" to your README.md. 
@@ -81,13 +91,18 @@ Regarding the last point, keep it real simple.
 .e.g In Python, write the smallest example of [pytest](https://docs.pytest.org/en/stable/)
  running a file containing some `test_` functions.
 
+
 ```python
 # content of __init__.py
 def inc(x):
     return x + 1
 
+
 def test_answer():
     assert inc(3) == 5
 ```
 
+
 Hook that code into your repo so that the "build:passing" badge work (so that everytime you commit your repo, your tests re-run). This can be done with GitHub actions, and there are templates for runing test suites for many languages.
+
+

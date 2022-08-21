@@ -10,16 +10,21 @@
   <hr>
   <p align=center><a href="/README.md#top"><img  width=700 src="/etc/img/banner.png"></a></p>
   
-# Project 1
+
+
+
+
 
 
 Goal: 
 - Start something that another groups will say
 "yes, for Project2, we want to finish that".
 
+
 Something to think about: 
 - In Proj2 you can win bonus points if you can show that you have done something to Proj1 code such that Proj2 code now scales
 to problems 100 to 1000 times bigger than Proj1 (where "bigger" is measured in some problem specific way like user/data set size/repsonse speed).
+
 
 That said, for Proj1, You must deliever:
 - something that executes **some** of your goals, 
@@ -27,24 +32,32 @@ That said, for Proj1, You must deliever:
   **where to go from here**
 - all the "bling" (described below) needed to convince another group that they should use your system.
 
+
 ## Start by Picking a Project
+
 
 (Hint: do it now!)
 
+
 Pick something. Code it in any language using any tools you like. But
+
 
 - everyone on the team has to use the same tools
 - all the work has to be shared via Github (public repos, 
   general GH-- not NCSU):
+
 
 Pick something that  was  popular in
     [2020](https://docs.google.com/spreadsheets/d/1mnNlF0Gx6E5oppd7LpeYy_mNuUkhgh30PiC2Z3RrGXI/edit#gid=0)
 or  [2021](https://docs.google.com/spreadsheets/d/164qCnYK2K_1X9EBd72wGfD1FsGpwAqrAhC5s2X5uy8A/edit#gid=0)
 (look for the things that got most votes).
 
+
 - Heck, even get a kick start by starting with a project from last year.
 
+
 What to do? Well pick something:
+
 
 - Cool: 
   - Cause you have to impress;
@@ -60,12 +73,15 @@ What to do? Well pick something:
   - Work in a language that everyone in the team can handle:
   - Work on a problem everyone can understand
 
+
 If you want to be in the running for "projects
 that survivie into the next round"
 your system has to do something better then something else.
 
+
 - Which means your code has to address some problem in some current system
 - And do so in a manner that is quantifiable.
+
 
 **IMPORTANT**: if you start your work using older projects from
     [2020](https://docs.google.com/spreadsheets/d/1mnNlF0Gx6E5oppd7LpeYy_mNuUkhgh30PiC2Z3RrGXI/edit#gid=0)
@@ -78,13 +94,17 @@ you must show your tutor:
 
 <br clear=all>
 
+
 ## Examples of "good" repos
 
+
 What do these badges mean?
+
 
 <p><a href="https://github.com/remkop/picocli"><img
  src="https://raw.githubusercontent.com/remkop/picocli/master/docs/images/logo/horizontal-400x150.png" 
 alt="picocli" height="150px"></a></p>
+
 
 [![GitHub Release](https://img.shields.io/github/release/remkop/picocli.svg)](https://github.com/remkop/picocli/releases) 
 [![Build Status](https://travis-ci.org/remkop/picocli.svg?branch=master)](https://travis-ci.org/remkop/picocli) 
@@ -111,7 +131,9 @@ What do these badges mean?
 
 (If you want more badges, see [shields.io](https://www.shields.io)).
 
+
 What are the features of  the  following repos that make them "good"?
+
 
 - http://docopt.org
 - https://github.com/harshitpatel96/GITS
@@ -120,7 +142,9 @@ What are the features of  the  following repos that make them "good"?
 - https://github.com/chalk/chalk
 - https://github.com/marcotcr/lime
 
+
 ## On the merits of a "boast video"
+
 
 Yes, when "selling" your project it is tempting to prepare a short glossy video. 
 - But consider, many of the above GH repos have no video, but very informative text/graphics
@@ -128,8 +152,8 @@ Yes, when "selling" your project it is tempting to prepare a short glossy video.
   - Versus actual succinct semantic comments.
 - So a glossy video might actually be an anti-pattern that drives people away.
 
-## Good practices for Effecive Teaming
 
+## Good practices for Effecive Teaming
 
 
 |What | Notes|
@@ -145,14 +169,18 @@ Yes, when "selling" your project it is tempting to prepare a short glossy video.
 || group meetings had a moderator that managed the round robin| 
 || group meeting moderator rotated among  the group|
 
+
 ## Grading
+
 
 Your work will be assessed via how many of the 
 <a href="https://go.pardot.com/l/6342/2017-10-24/3xr3f2/6342/188781/Publication_LinuxKernelReport_2017.pdf">Linux Kernel Best Practices</a>
  (see pages 25,26)
 you can emulate.
 
+
 ![image](https://user-images.githubusercontent.com/29195/129657782-3b32c13e-6283-4812-9d49-3cf1c062820d.png)
+
 
 - Reflect on our the rubric, shown below.
 - Write a 2 page pdf on the commnection between the items in that rubric and the Linux Kernel best practices.
@@ -163,10 +191,11 @@ you can emulate.
   And that document to your repo as docs/proj1rubric.md.
 
 
-
 # Rubric
 
+
 Prepare a markdown with **three** columns:
+
 
 - Column1 has all the following points PLUS all the points from the
   [Software Sustainability Evaluation](https://docs.google.com/forms/d/e/1FAIpQLSf0ccsVdN-nXJCHLluJ-hANZlp8rDKgprJa0oTYiLZSDxh3DA/viewform).
@@ -208,4 +237,5 @@ but nevertheless, here is a track record that everyone is contributing a lot)|ev
 |Evidence that the whole team is using the same tools (e.g. tutor can ask anyone to share screen, they demonstrate the system running on their computer)|
 |Evidence that the members of the team are working across multiple places in the code base|
 |Short release cycles | (hard to see in short projects) project members are committing often enough so that everyone can get your work|
+
 
