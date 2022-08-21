@@ -125,7 +125,7 @@ Merge hell or trunk-based? You decide. Compare this  to  above:
 
 ### Case Study (Black)
   
-![image](https://user-images.githubusercontent.com/29195/130550744-02b6b5b3-2ced-45a2-8d57-ea75b3708988.png)
+[![image](https://user-images.githubusercontent.com/29195/130550744-02b6b5b3-2ced-45a2-8d57-ea75b3708988.png)](https://github.com/psf/black)
 
 ### Case Study (Zephyr)   
   
