@@ -123,9 +123,10 @@ What are the features of  the  following repos that make them "good"?
 ## On the merits of a "boast video"
 
 Yes, when "selling" your project it is tempting to prepare a short glossy video. 
-- But consider, many of the above GH repos have no videom but very informative text/graphics
+- But consider, many of the above GH repos have no video, but very informative text/graphics
 - So reflect on the value of "fluffy video" that might bother someone,
   - Versus actual succinct semantic comments.
+- So a glossy video might actually be an anti-pattern that drives people away.
 
 ## Good practices for Effecive Teaming
 
