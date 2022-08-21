@@ -34,6 +34,7 @@ YOur answer must cover, at the very least:
 - and how will your fix _empower traditionally disempowered social groups_?
   - ie. don't just fix this particular problem; rather, address   deeper issues that might cause problems in the future).
 
+
 ## Word limit
 - No less that three pages (in the format shown below, excluding references);
   - no more than four
@@ -41,7 +42,6 @@ YOur answer must cover, at the very least:
   - we will not grade after four pages.
   - we will not read if less than three.
   - we will not read if it is the wrong format (see below)
-
 
 
 ## How to write
@@ -67,7 +67,9 @@ Create an overleaf.com account
 - Look to the right of "recompile: for the download icon
 - Submit to Moodle
 
+
 ## Grading Rubric
+
 
 |Grade | What | Notes|
 |------|------|------|
@@ -80,3 +82,5 @@ Create an overleaf.com account
 |2 | CHOICE | +1 if tentative choice and +1  if final Choice |
 |-2,+1 | OTHER | -2  if the essay is mostly “I think X, I think Y”  without any citations or comment on the amazing things other people have thunk in this matter.  +1 more if it  beyond the specifics of your answer, the real test will be ""does the student understand general principles that can be applied in other contexts”; i.e.  if the essay defined clear steps to making ethical decisions (beyond the 12 steps of https://github.com/txt/se20/blob/master/etc/img/12steps.png) for future applications.| 
 |20| TOTAL      | plus, maybe, +1 bonus| 
+
+
