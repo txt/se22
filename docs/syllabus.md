@@ -238,7 +238,7 @@ Rahul Yedida (Mr. Monday)
   the recoding).
 - Aside from that, you have  to service all your homework, and project
   commitments. It is very bad to be absent from your project except
-  for anticipated abseonces condonned by the univerisity:
+  for anticipated absences condonned by the univerisity:
      - Representing an official university function (e.g. athletics)
      - Required court attendance as certified by the Clerk of Court.
      - Students will be allowed a minimum of two excused absences per academic year for religious observances 
