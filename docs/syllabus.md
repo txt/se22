@@ -184,7 +184,7 @@ Weichen Shi (Mr. Friday)
 
 <p>&nbsp;</p>
 
-<img src="http://ai4se.net/img/KewenPeng.jpg" align=right width=200>
+<img src="https://avatars.githubusercontent.com/u/77703306?s=400&u=35850a7a0591b9d539fa686599d0652d041ffc02&v=4" align=right width=200>
 Leonardo Villalobos-Arias (Mr. Tuesday) 
 
 + Github id: lyonva
