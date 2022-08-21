@@ -13,11 +13,15 @@
 # Project 1
 
 
-Goal: start something that another groups will say
+Goal: 
+- start something that another groups will say
 "yes, for Project2, we want to finish that".
 
-You must deliever:
+Something to think about: 
+- In proj2 you can win bonus points it can show that yu ahve done something to proj1 code such that proj2 cde now scales
+to problems 100 to 1000 times bigger than proj1 (where "bigger" is measured in some problem specific way like user/data set size/repsonse speed).
 
+You must deliever:
 - something that executes **some** of your goals, 
 - a [roadmap](https://github.com/se20z09/units_converter_extension/projects/1) telling others
   **where to go from here**
