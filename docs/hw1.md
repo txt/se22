@@ -90,4 +90,4 @@ def test_answer():
     assert inc(3) == 5
 ```
 
-Hook that code into your repo so that the "build:passing" badge work (so that everytime you commit your repo, your tests re-run).
+Hook that code into your repo so that the "build:passing" badge work (so that everytime you commit your repo, your tests re-run). This can be done with GitHub actions, and there are templates for runing test suites for many languages.
