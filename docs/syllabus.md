@@ -13,9 +13,6 @@
 
 
 
-
-
-
 # Syllabus
 
 CSC 510-001 (1947)  
@@ -26,11 +23,10 @@ MonWed 10:15PM - 11:30PM
 
 ### Topics
 
-This is an _advanced graduate_ class. 
 In this subject, students will be taught about etical SE the start of the art in how to:
 
 - Write "good" software;
-  - Working in teams, deliver a systems of acceptable quality within eh available resources;  
+  - Working in teams, deliver a systems of acceptable quality within the available resources;  
   - That  someone else would want to use;
   - That is demonstrable _good_ (compared to something else).
 - Learn the  state of the art in SE
@@ -256,6 +252,8 @@ On top of that, Covid-related issues will, of course, also be excused.
 (And no where on that list is "I have to go to a wedding in India".)
 
 ### Expected Workload
+This is an _advanced graduate_ class at  R1 institution 
+(an R1 institution is classified as a doctoral university with very high research activity). 
 
  Students must be
 prepared to dedicate AT LEAST 5-8 working hours a
