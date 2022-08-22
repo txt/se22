@@ -9,9 +9,15 @@
   <a href="/LICENSE.md#top">&copy; 2022</a></p>
   <hr>
   <p align=center><a href="/README.md#top"><img  width=700 src="/etc/img/banner.png"></a></p>
- 
+  
+
+
+
+
+
 
 # Project1
+
 
 Something to think about: 
 - In Proj2 you can win bonus points if you can show that you have done something to Proj1 code such that Proj2 code now scales
