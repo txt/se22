@@ -16,7 +16,7 @@
 
 
 
-## Essay (ethics)
+## Essay (ethics)   
 
 
 Work solo. **IMPORTANT**: read [the lecture on ethics](/docs/ethics.md) before you start.
