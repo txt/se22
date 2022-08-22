@@ -277,7 +277,7 @@ Xiao Ling (Mr. Thursday)
 Rahul Yedida (Mr. Monday)
 
 
-+ Github id:  XXX
++ Github id:  yrahul3910
 + Discord  name: Rahul Yedida#1323
 + Office Hours: Monday, 2:00-4:00  
 + E-mail: yrahul3910@gmail.com
