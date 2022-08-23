@@ -48,7 +48,7 @@
   </dt>
   <dd>
      <a href="/docs/goodrepo.md">Versioning</a><br>
-        <a href="/docs/doc.md">Doco</a> Doco<br> 
+        <a href="/docs/doc.md">Doco</a><br> 
       <!-- a href="/docs/people1.md">People</a --->People<br>
        <!-- a href="/docs/patterns.md">Patterns</a ---> Patterns <br>
     <!-- a href="/docs/testing.md">Testing</a ---> Testing <br>   
