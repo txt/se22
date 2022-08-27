@@ -25,13 +25,16 @@ The task is very simple (lots of very small moving parts).
 - That output shows the results of running six tests cases (see below).
 
 ## First step
-Read a [quick tutorial on LUA](https://learnxinyminutes.com/docs/lua/) (but you only have to read it, not write it)
-
-Find some way to divide the functionality across may small files
+1. Read a [quick tutorial on LUA](https://learnxinyminutes.com/docs/lua/) (but you only have to read it, not write it)
+2. Read the  [source code](https://github.com/txt/se22/blob/main/etc/pdf/csv.pdf). Written in LUA.
+  **Your must not write in LUA.**
+3. Find some way to divide the functionality across may small files
 - e.g. one file per class
 - e.g. anything to do command-line options into its own file
 - e.g. misc utilities into its own file.
 - e.g. test cases in a separate file
+
+Note, write as much as you can from scratch. So, in Python, no Pandas or scikitlearn.
 
 
 ## A Small Task
@@ -75,10 +78,6 @@ These are stored in a `Data` object which stores `Row` objects, which are summar
 - The ask each `Num` and `Sym` for their central tendency and diversity aroun that center.
 
 ## Resources
-
-- [Source code](https://github.com/txt/se22/blob/main/etc/pdf/csv.pdf). Written in LUA.
-  **Your must not write in LUA.**
-
 ## What to hand-in
 
 Paste your github repo into Moodle.
