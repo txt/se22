@@ -28,14 +28,20 @@ The task is very simple (lots of very small moving parts).
 
 ## First step
 1. Read a [quick tutorial on LUA](https://learnxinyminutes.com/docs/lua/) (but you only have to read it, not write it)
+   - LUA is a language with only one associative array structure
+   - If the keys are all consecutive integers, then these are simple lists (with indexes 1..n)
+     - Contents are accessed via `list[1]`.
+   - If the keys are symbols, then we use javascript/python style access:
+     - Contents are accessed via `list.slotNiame`
+   -
 2. Read the  [source code](https://github.com/txt/se22/blob/main/etc/pdf/csv.pdf). Written in LUA.
   **Your must not write in LUA.**. Note that:
   - Column1 of that pdf = some misc utils
-  - Column2,3 of that pdf =  classes/methods.
-  - Column4 of that pdf = test cases for this system
+  - Column2 of that pdf =  classes/methods.
+  - Column3 of that pdf = test cases for this system
   - HINT: when reading strange source code:
     - FIRST look for the data structures (see column2)
-    - SECOND look at the tests (column4)
+    - SECOND look at the tests (column3)
     - THIRD look at the details.
 3. Find some way to divide the functionality across may small files
 - e.g. one file per class
