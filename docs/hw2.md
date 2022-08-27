@@ -30,14 +30,14 @@ The task is very simple (lots of very small moving parts).
 1. Read a [quick tutorial on LUA](https://learnxinyminutes.com/docs/lua/) (but you only have to read it, not write it)
    - Three ideas cover much of LUA
      - In LUA, names are global are default (unless marked with `local`).
+       - Or, in the function header, you add extra variables.
      - LUA learns  names in one pass. So low-level functions are defined FIRST which are called by
        other functions later.
-     - LUA is a language with only one associative array structure
+     - LUA is a language with only one associative array data structure
        - If the keys are all consecutive integers, then these are simple lists (with indexes 1..n)
          - Contents are accessed via `list[1]`.
        - If the keys are symbols, then we use javascript/python style access:
          - Contents are accessed via `list.slotNiame`
-
 2. Read the  [source code](https://github.com/txt/se22/blob/main/etc/pdf/csv.pdf). Written in LUA.
   **Your must not write in LUA.**. Note that:
   - Column1 of that pdf has a header string showing help, from which I build my `the` settings object.
@@ -55,7 +55,6 @@ The task is very simple (lots of very small moving parts).
 - e.g. anything to do command-line options goes into its own file
 - e.g. misc utilities into its own file.
 - e.g. test cases in a separate file
-
 
 ## A Small Task
 The task is write some code to read a CSV file and generate summaries of columns (medians and standard
@@ -84,8 +83,19 @@ For symbols:
 
 ## Functionality
 
-Your code must support
-- Five classes (or more): `Data`, `Cols `Sym`, `Num`, `Row`
+Your code must support the following (and outside of these bounds, feel free to **NOT** do things like csvl):
+- Five classes (or more): `Data`, `Cols`, `Sym`, `Num`, `Row`. For notes on these, see column2 of
+  the  [source code](https://github.com/txt/se22/blob/main/etc/pdf/csv.pdf).
+- A help string that can be displayed with `-h`.
+- A `cli` function that can update  `the`, its slots from the command-line 
+  - e.g. if `the` is `{name="Tim", age=20}` then `-n X` and `-a X` can update `name` and `age`.
+- A set of demo tasks that can be called with `-e task` (and `-e ALL`) runs
+  all tests.
+- A `csv` function that reads each line of a text file, divides on some operator (e.g. comma),
+  removes leading and trailing white space, then coerces the cells to ints, floats, booleans or
+  (failing the rest) to strings.
+- A `runs` 
+
 ### Classes
 
 You will code the above as follows
