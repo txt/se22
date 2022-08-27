@@ -30,8 +30,16 @@ deviation for numerics; mode and entropy for symbolic columns).
 
 For symbols:
 - mid = mode = most common symbol
-- div = entropy = for symbols occurring at probability p1,p1,... then   
-  <em>&sum; -p<sub>i</sub> \* log2(p<sub>i</sub>)</em>.
+- div = entropy = for symbols occurring at probability p1,p2,... then   
+     entropy= <em>&sum; -p<sub>i</sub> \* log2(p<sub>i</sub>)</em>.
+  - Why? well, entropy can be viewed as  the effort required to recreate a signal. 
+  - If a signal has parts
+    that occur a probability p1,p2,... 
+  - then the probability that we want to search for a signal is, wait for it,
+    p1 + p2,.... 
+  - To find the signal, lets assume  a binary chop (so the search effort is _log2(p)_). 
+  - So the probability of needed that search effort is  <em>-p<sub>i</sub> \* log2(p<sub>i</sub>)</em>
+    (and the minus sign is added as convention).
 
 For numbers:
 - mid = median = sort numbers seen so far, return the middle value
