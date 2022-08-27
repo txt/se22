@@ -197,6 +197,7 @@ Examples lua csv -e ...
 
 The task is done when we can see in your repo:
 
+- Your repo shows a record of 5 people doing (approx) equal work.
 - Something that can display a help string and where internal settings be updated from command-line.
 - Something that can read csv files whose first line has ":+-" and upper and lower case in column names.
 - Output like the above (and YMMV)
