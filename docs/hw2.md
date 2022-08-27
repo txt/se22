@@ -27,10 +27,13 @@ The task is very simple (lots of very small moving parts).
 ## First step
 1. Read a [quick tutorial on LUA](https://learnxinyminutes.com/docs/lua/) (but you only have to read it, not write it)
 2. Read the  [source code](https://github.com/txt/se22/blob/main/etc/pdf/csv.pdf). Written in LUA.
-  **Your must not write in LUA.**
+  **Your must not write in LUA.**. Note that:
+  - Column1 of that pdf shows some general utils
+  - Column2,3 of that pdf shows classes/methods.
+  - Column4 lists the test cases for this system
 3. Find some way to divide the functionality across may small files
 - e.g. one file per class
-- e.g. anything to do command-line options into its own file
+- e.g. anything to do command-line options goes into its own file
 - e.g. misc utilities into its own file.
 - e.g. test cases in a separate file
 
