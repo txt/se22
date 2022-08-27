@@ -40,9 +40,12 @@ The task is very simple (lots of very small moving parts).
 
 2. Read the  [source code](https://github.com/txt/se22/blob/main/etc/pdf/csv.pdf). Written in LUA.
   **Your must not write in LUA.**. Note that:
+  - Column1 of that pdf has a header string showing help, from which I build my `the` settings object.
   - Column1 of that pdf = some misc utils
   - Column2 of that pdf =  classes/methods.
   - Column3 of that pdf = test cases for this system
+  - Column3 of that pdf = shows code that exits to operating system with the number of test failures
+    - No failures = return zero.
   - HINT: when reading strange source code:
     - FIRST look for the data structures (see column2)
     - SECOND look at the tests (column3)
@@ -79,11 +82,14 @@ For symbols:
   - So the probability of needed that search effort is  <em>-p<sub>i</sub> \* log2(p<sub>i</sub>)</em>
     (and the minus sign is added as convention).
 
+## Functionality
+
+Your code must support
+- Five classes (or more): `Data`, `Cols `Sym`, `Num`, `Row`
 ### Classes
 
 You will code the above as follows
 
-## Functionality
 
 High level: write a command-line tool that 
 
