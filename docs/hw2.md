@@ -38,8 +38,6 @@ in other languages.
    - Three ideas cover much of LUA
      - In LUA, names are global are default (unless marked with `local`).
        - Or, in the function header, you add extra variables.
-     - LUA learns  names in one pass. So low-level functions are defined FIRST which are called by
-       other functions later.
      - LUA is a language with only one associative array data structure
        - If the keys are all consecutive integers, then these are simple lists (with indexes 1..n)
          - Contents are accessed via `list[1]`.
