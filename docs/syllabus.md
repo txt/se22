@@ -59,7 +59,7 @@ by Roger Pressman
 ### Class Discord Group
 
 
-It is each student's responsibility to join the class Discord  group "cs510, fall 2022". Till Friday week1, the link to join there is [here](https://discord.gg/SpsaeeUw).
+It is each student's responsibility to join the class Discord  group "cs510, fall 2022". Till Friday week1, the link to join there is [here](https://discord.gg/zPnWkxauZJ).
 
 
 All class communication from staff to students will be via this Discord group.
