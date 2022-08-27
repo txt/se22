@@ -28,12 +28,16 @@ The task is very simple (lots of very small moving parts).
 
 ## First step
 1. Read a [quick tutorial on LUA](https://learnxinyminutes.com/docs/lua/) (but you only have to read it, not write it)
-   - LUA is a language with only one associative array structure
-   - If the keys are all consecutive integers, then these are simple lists (with indexes 1..n)
-     - Contents are accessed via `list[1]`.
-   - If the keys are symbols, then we use javascript/python style access:
-     - Contents are accessed via `list.slotNiame`
-   -
+   - Three ideas cover much of LUA
+     - In LUA, names are global are default (unless marked with `local`).
+     - LUA learns  names in one pass. So low-level functions are defined FIRST which are called by
+       other functions later.
+     - LUA is a language with only one associative array structure
+       - If the keys are all consecutive integers, then these are simple lists (with indexes 1..n)
+         - Contents are accessed via `list[1]`.
+       - If the keys are symbols, then we use javascript/python style access:
+         - Contents are accessed via `list.slotNiame`
+
 2. Read the  [source code](https://github.com/txt/se22/blob/main/etc/pdf/csv.pdf). Written in LUA.
   **Your must not write in LUA.**. Note that:
   - Column1 of that pdf = some misc utils
