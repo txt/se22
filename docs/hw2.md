@@ -20,6 +20,8 @@ The task is very simple (lots of very small moving parts).
 - The real goal here is to get your group to practice working together.
 - You have five people in your group. Time to divide and conqueor.
 
+    Note, write as much as you can from scratch. So, in Python, no Pandas or scikitlearn.
+
 ## What to hand in:
 - A repo, to Moodle, with all the code and the output of your code (in `out1.txt` in `/docs/out`).
 - That output shows the results of running six tests cases (see below).
@@ -28,23 +30,25 @@ The task is very simple (lots of very small moving parts).
 1. Read a [quick tutorial on LUA](https://learnxinyminutes.com/docs/lua/) (but you only have to read it, not write it)
 2. Read the  [source code](https://github.com/txt/se22/blob/main/etc/pdf/csv.pdf). Written in LUA.
   **Your must not write in LUA.**. Note that:
-  - Column1 of that pdf shows some general utils
-  - Column2,3 of that pdf shows classes/methods.
-  - Column4 lists the test cases for this system
+  - Column1 of that pdf = some misc utils
+  - Column2,3 of that pdf =  classes/methods.
+  - Column4 of that pdf = test cases for this system
+  - HINT: when reading strange source code:
+    - FIRST look for the data structures (see column2)
+    - SECOND look at the tests (column4)
+    - THIRD look at the details.
 3. Find some way to divide the functionality across may small files
 - e.g. one file per class
 - e.g. anything to do command-line options goes into its own file
 - e.g. misc utilities into its own file.
 - e.g. test cases in a separate file
 
-Note, write as much as you can from scratch. So, in Python, no Pandas or scikitlearn.
-
 
 ## A Small Task
 The task is write some code to read a CSV file and generate summaries of columns (medians and standard
 deviation for numerics; mode and entropy for symbolic columns).
 
-## Theory
+### Theory
 For numbers:
 - mid = median = sort numbers seen so far, return the middle value
 - div = standard deviation = sort numbers, find 90th, 10th percentile, return (90th-10th)/2.56
@@ -64,6 +68,10 @@ For symbols:
   - And the effort to find the signal is _log2(p)_ (assuming a binary chop)
   - So the probability of needed that search effort is  <em>-p<sub>i</sub> \* log2(p<sub>i</sub>)</em>
     (and the minus sign is added as convention).
+
+### Classes
+
+You will code the above as follows
 
 ## Functionality
 
