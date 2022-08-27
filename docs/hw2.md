@@ -23,10 +23,27 @@ The task is very simple (lots of very small moving parts).
 ## What to hand in:
 - A repo, to Moodle, with all the code and the output of your code (in `out1.txt` in `/docs/out`).
 
+## First step
+Read a [quick tutorial on LUA](https://learnxinyminutes.com/docs/lua/) (but you only have to read it, not write it)
+
+Find some way to divide the functionality across may small files
+- e.g. one file per class
+- e.g. anything to do command-line options into its own file
+- e.g. misc utilities into its own file.
+- e.g. test cases in a separate file
+
 
 ## A Small Task
 The task is write some code to read a CSV file and generate summaries of columns (medians and standard
 deviation for numerics; mode and entropy for symbolic columns).
+
+## Theory
+For numbers:
+- mid = median = sort numbers seen so far, return the middle value
+- div = standard deviation = sort numbers, find 90th, 10th percentile, return (90th-10th)/2.56
+  - why? well you know that 1 or 2 standard deviations captures 66 to 95\% of the mass. So somewhere in-between
+    1 and 2 is some point where you catch 90\% (that point is 1.28 standard deviations, so we used
+    plus or minus 1.28=2.56)
 
 For symbols:
 - mid = mode = most common symbol
@@ -37,25 +54,9 @@ For symbols:
     that occur a probability p1,p2,... 
   - then the probability that we want to search for a signal is, wait for it,
     p1 + p2,.... 
-  - To find the signal, lets assume  a binary chop (so the search effort is _log2(p)_). 
+  - And the effort to find the signal is _log2(p)_ (assuming a binary chop)
   - So the probability of needed that search effort is  <em>-p<sub>i</sub> \* log2(p<sub>i</sub>)</em>
     (and the minus sign is added as convention).
-
-For numbers:
-- mid = median = sort numbers seen so far, return the middle value
-- div = standard deviation = sort numbers, find 90th, 10th percentile, return (90th-10th)/2.56
-  - why? well you know that 1 or 2 standard deviations captures 66 to 95\% of the mass. So somewhere in-between
-    1 and 2 is some point where you catch 90\% (that point is 1.28 standard deviations, so we used
-    plus or minus 1.28=2.56)
-
-## First step
-Read a [quick tutorial on LUA](https://learnxinyminutes.com/docs/lua/) (but you only have to read it, not write it)
-
-Find some way to divide the functionality across may small files
-- e.g. one file per class
-- e.g. anything to do command-line options into its own file
-- e.g. misc utilities into its own file.
-- e.g. test cases in a separate file
 
 ## Functionality
 
