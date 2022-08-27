@@ -13,25 +13,56 @@
 
 # Homework 2
 
-Write some code to read a CSV file and generate summaries of columns (medians and standard
+Take a working system (written in LUA) and 
+write it in any other language.
+
+The task is very simple (lots of very small moving parts).
+- The real goal here is to get your group to practice working together.
+- You have five people in your group. Time to divide and conqueor.
+
+## What to hand in:
+- A repo, to Moodle, with all the code and the output of your code (in `out1.txt` in `/docs/out`).
+
+
+## A Small Task
+The task is write some code to read a CSV file and generate summaries of columns (medians and standard
 deviation for numerics; mode and entropy for symbolic columns).
 
-The task is very simple. The real goal here is to get your group to practice working together.
-- This a small task with lots of even smaller moving parts.
-- So your first step must be to
-  - Find some way to divide this work across may small files
-  - Write a test suite that checks if code from personA works wouth code form PersonB.:wq
-  - :
-  (so that different people can each work sperately on their own work);
+For symbols:
+- mid = mode = most common symbol
+- div = entropy = for symbols occurring at probability p1,p1,... then   
+  <em>&sum; -p<sub>i</sub> \* log2(p<sub>i</sub>)</em>.
+
+For numbers:
+- mid = median = sort numbers seen so far, return the middle value
+- div = standard deviation = sort numbers, find 90th, 10th percentile, return (90th-10th)/2.56
+  - why? well you know that 1 or 2 standard deviations captures 66 to 95\% of the mass. So somewhere in-between
+    1 and 2 is some point where you catch 90\% (that point is 1.28 standard deviations, so we used
+    plus or minus 1.28=2.56)
+
+## First step
+Read a [quick tutorial on LUA](https://learnxinyminutes.com/docs/lua/) (but you only have to read it, not write it)
+
+Find some way to divide the functionality across may small files
+- e.g. one file per class
+- e.g. anything to do command-line options into its own file
+- e.g. misc utilities into its own file.
+- e.g. test cases in a separate file
+
+## Functionality
+
+High level: write a command-line tool that 
+
+(so that different people can each work separately on their own work);
 - As a side goal, one lesson here is you'll have to work in languages you've never seen
   before. Get used to it.
 
-Internal to your code you must have different obejcts for `Num`eric and `Sym`olic columns.
-THese are stored in a `Data` object which stores `Row` objects, which are summarizes in
-`Num`s or `Sym`s. So to make the sumamries:
+Internal to your code you must have different objects for `Num`eric and `Sym`olic columns.
+These are stored in a `Data` object which stores `Row` objects, which are summarizes in
+`Num`s or `Sym`s. So to make the summaries:
 
 - Load in the csv into a `Data`
-- The ask each `Num` and `Sym` for their central tendancy and diversity aroun that center.
+- The ask each `Num` and `Sym` for their central tendency and diversity aroun that center.
 
 ## Resources
 
