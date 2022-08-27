@@ -22,6 +22,7 @@ The task is very simple (lots of very small moving parts).
 
 ## What to hand in:
 - A repo, to Moodle, with all the code and the output of your code (in `out1.txt` in `/docs/out`).
+- That output shows the results of running six tests cases (see below).
 
 ## First step
 Read a [quick tutorial on LUA](https://learnxinyminutes.com/docs/lua/) (but you only have to read it, not write it)
