@@ -20,14 +20,21 @@ The task is very simple (lots of very small moving parts).
 - The real goal here is to get your group to practice working together.
 - You have five people in your group. Time to divide and conqueor.
 
-    Note, write as much as you can from scratch. So, in Python, no Pandas or scikitlearn.
+Note, write as much as you can from scratch. So, in Python, no Pandas or scikitlearn or argparse or optparse or their equivalent
+in other languages.
 
-## What to hand in:
+### What to hand in:
 - A repo, to Moodle, with all the code and the output of your code (in `out1.txt` in `/docs/out`).
 - That output shows the results of running six tests cases (see below).
 
-## First step
-1. Read a [quick tutorial on LUA](https://learnxinyminutes.com/docs/lua/) (but you only have to read it, not write it)
+### Resources
+
+1. Example implementation: [source code](https://github.com/txt/se22/blob/main/etc/pdf/csv.pdf) 
+2. [quick tutorial on LUA](https://learnxinyminutes.com/docs/lua/).
+3. [Sample input csv file](https://raw.githubusercontent.com/timm/lua/main/data/auto93.csv)
+
+### First steps
+1. Read the [quick tutorial on LUA](https://learnxinyminutes.com/docs/lua/) (but you only have to read it, not write it)
    - Three ideas cover much of LUA
      - In LUA, names are global are default (unless marked with `local`).
        - Or, in the function header, you add extra variables.
@@ -57,10 +64,33 @@ The task is very simple (lots of very small moving parts).
 - e.g. test cases in a separate file
 
 ## A Small Task
+
 The task is write some code to read a CSV file and generate summaries of columns (medians and standard
 deviation for numerics; mode and entropy for symbolic columns).
 
 ### Theory
+The  function _Y=F(X))_ computes dependent variables _Y_ from independent variables _X_. 
+Some variables are `Num`eric (which we denote with a leading upper case letter) and some
+are `Sym`bolic. Some `dependent` variables need to maximized (denoted with a trailing `-` sign)
+and other need to be maximized (denoted with a trailing `+`).
+
+We say a CSV file contains lots of `X,Y` examples. Line one of the file has a name showing the column
+name and types. E.g. in our [test file](https://raw.githubusercontent.com/timm/lua/main/data/auto93.csv),
+the dependent variables are columns 4,5 and 8. 
+
+```
+Clndrs,Volume,Hp:,Lbs-,Acc+,Model,origin,Mpg+
+8,304.0,193,4732,18.5,70,1,10
+8,360,215,4615,14,70,1,10
+8,307,200,4376,15,70,1,10
+8,318,210,4382,13.5,70,1,10
+8,429,208,4633,11,72,1,10
+```
+
+Note also the ":" header on `Hp:` (above). This denotes a column to skip.
+
+You have to report middle and diversity of each non-skipped column.
+
 For numbers:
 - mid = median = sort numbers seen so far, return the middle value
 - div = standard deviation = sort numbers, find 90th, 10th percentile, return (90th-10th)/2.56
@@ -86,104 +116,93 @@ For symbols:
 Your code must support the following (and outside of these bounds, feel free to **NOT** do things like csvl):
 - Five classes (or more): `Data`, `Cols`, `Sym`, `Num`, `Row`. For notes on these, see column2 of
   the  [source code](https://github.com/txt/se22/blob/main/etc/pdf/csv.pdf).
+  - Note that `Num`s is a reservoir sampler;  
+             i.e. it keeps N numbers and if you see more than N, 
+             some old number is replaced at randaom. 
 - A help string that can be displayed with `-h`.
 - A `cli` function that can update  `the`, its slots from the command-line 
   - e.g. if `the` is `{name="Tim", age=20}` then `-n X` and `-a X` can update `name` and `age`.
-- A set of demo tasks that can be called with `-e task` (and `-e ALL`) runs
-  all tests.
 - A `csv` function that reads each line of a text file, divides on some operator (e.g. comma),
   removes leading and trailing white space, then coerces the cells to ints, floats, booleans or
   (failing the rest) to strings.
-- A `runs` 
-
-### Classes
-
-You will code the above as follows
-
-
-High level: write a command-line tool that 
-
-(so that different people can each work separately on their own work);
-- As a side goal, one lesson here is you'll have to work in languages you've never seen
-  before. Get used to it.
-
-Internal to your code you must have different objects for `Num`eric and `Sym`olic columns.
-These are stored in a `Data` object which stores `Row` objects, which are summarizes in
-`Num`s or `Sym`s. So to make the summaries:
-
-- Load in the csv into a `Data`
-- The ask each `Num` and `Sym` for their central tendency and diversity aroun that center.
-
-## Resources
-## What to hand-in
-
-Paste your github repo into Moodle.
-
-Include in the repo all the code and the output of six test cases:
-
-1. `the`: show you can print the settings (magic variables) inside the code.
-
-```txt
------------------------------------
-{:eg ALL :file ../data/auto93.csv :help false :nums 512 :seed 10019}
-```
-
-2. `ent`: code that prints summaries of a stream of symbols. e.g. the
-   entropy of  {"a","a","a","a","b","b","c"} is
-
-```txt
-1.3787834934862	a
-```
-
-3. `num`: code that prints summaries of a stream of numbers. eg.  the
-median and standard devation of the first 100 integet is something line
-
-```txt
-0<= med and med<= 52 and 30.5 <ent and ent <32 e
-```
-
-4. `bignum`: code that demonstrates your `Num`s object is a reservour sampler;
-             i.e. it keeps N numbers and if you see more than N, 
-             some old number is replaced at randaom. E.g. if you read 1000
-             numbers for 1,1000, and you are only keeping 32, then this test
-             case would print something lineL
-
-```
-{1 28 49 50 56 85 86 156 208 237 294 327 444 459 461 485 490 
-503 546 618 653 712 723 727 770 801 849 915 928 941 967 987}
-```
-
-5. `record`: code that shows you can simply read each row of the csv, then print it
-             (no sumamrization required). This is a stepping stone test before
-             the next test. 
-6. `stats`: Code that reports the median/mode of each column.
+- A set of demo tasks that can be called with `-e task` (and `-e ALL`) runs
+  all tests.
+  - At least the tests of column3 of
+    [source code](https://github.com/txt/se22/blob/main/etc/pdf/csv.pdf).
+  - On our system, `-e ALL` returns the following (but [YMMV[(https://dictionary.cambridge.org/us/dictionary/english/ymmv)).
+    - The following output is in alphabetically ordering of the tests. A better ordering would be simpler to more complex.
+      To see that ordering, look at column3 of
+      the  [source code](https://github.com/txt/se22/blob/main/etc/pdf/csv.pdf).
+    - Note that our tests can handle a crash (see "BAD"). To actually debug that one, you need the stack dump info
+      that is hidden by the usual test output. So we have a 
 
 ```
 -----------------------------------
-{1 28 49 50 56 85 86 156 208 237 294 327 444 459 461 
-485 490 503 546 618 653 712 723 727 770 801 849 915 928 941 967 987}
-
-!!!!!!	bignum	PASS
+!!!!!!	CRASH	BAD	false
 
 -----------------------------------
-!!!!!!	ent	PASS
+!!!!!!	FAIL	LIST	true
+
+-----------------------------------
+
+Examples lua csv -e ...
+	ALL
+	BAD
+	LIST
+	LS
+	bignum
+	csv
+	num
+	stats
+	sym
+	the
+!!!!!!	PASS	LS	true
+
+-----------------------------------
+{1 28 49 50 56 85 86 156 208 237 294 327 444 459 461 485 490 503 546 618 653 712 723 727 770 801 849 915 928 941 967 987}
+!!!!!!	PASS	bignum	true
+
+-----------------------------------
+{Clndrs Volume Hp: Lbs- Acc+ Model origin Mpg+}
+{8 304 193 4732 18.5 70 1 10}
+{8 360 215 4615 14 70 1 10}
+{8 307 200 4376 15 70 1 10}
+{8 318 210 4382 13.5 70 1 10}
+{8 429 208 4633 11 72 1 10}
+{8 400 150 4997 14 73 1 10}
+{8 350 180 3664 11 73 1 10}
+{8 383 180 4955 11.5 71 1 10}
+{8 350 160 4456 13.5 72 1 10}
+!!!!!!	PASS	csv	true
 
 -----------------------------------
 50	31.007751937984
-!!!!!!	num	PASS
-
------------------------------------
-{
-Nums{:at 4 :hi 5140 :isNum true :isSorted false :lo 1613 :n 398 :name Lbs- :w -1} 
-Nums{:at 5 :hi 24.8 :isNum true :isSorted false :lo 8    :n 398 :name Acc+ :w 1} 
-Nums{:at 8 :hi 50   :isNum true :isSorted false :lo 10   :n 398 :name Mpg+ :w 1}}
-!!!!!!	records	PASS
+!!!!!!	PASS	num	true
 
 -----------------------------------
 {:Acc+ 15.5 :Lbs- 2800 :Mpg+ 20}
-!!!!!!	stats	PASS
+!!!!!!	PASS	stats	true
 
-!!!!!!	ALL	PASS
-```    
+-----------------------------------
+{:div 1.378 :mid a}
+!!!!!!	PASS	sym	true
 
+-----------------------------------
+{:dump false :eg ALL :file ../data/auto93.csv :help false :nums 512 :seed 10019 :seperator ,}
+!!!!!!	PASS	the	true
+!!!!!!	PASS	ALL	true
+```
 
+## Checklist
+
+The task is done when we can see in your repo:
+
+- Something that can display a help string and where internal settings be updated from command-line.
+- Something that can read csv files whose first line has ":+-" and upper and lower case in column names.
+- Output like the above (and YMMV)
+- Classes and methods for `Data, Cols, Sym, Num, Row`
+- Something that can print stats (mid and div) on each column.
+- A test engine that can call one, or all, tests and which returns the number of failed tests to the operating system
+  (so returning zerop means "no errors)
+  - the test engine should be able to handle crashing tests (and keep running tests after the crash). For Python people,
+    see `try:catch:`.
