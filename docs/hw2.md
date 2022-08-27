@@ -17,6 +17,12 @@ Write some code to read a CSV file and generate summaries of columns (medians an
 deviation for numerics; mode and entropy for symbolic columns).
 
 The task is very simple. The real goal here is to get your group to practice working together.
+- This a small task with lots of even smaller moving parts.
+- So your first step must be to
+  - Find some way to divide this work across may small files
+  - Write a test suite that checks if code from personA works wouth code form PersonB.:wq
+  - :
+  (so that different people can each work sperately on their own work);
 - As a side goal, one lesson here is you'll have to work in languages you've never seen
   before. Get used to it.
 
