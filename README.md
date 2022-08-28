@@ -69,9 +69,9 @@ Aug 30, <a href="/docs/hw1.md">hw 1</a><br>
 <hr>
 Sept 5, holiday<br>
 Sept 6,, <a href="/docs/hw2345.md">hw 2</a><br>
-Sept 13, hw3<br>
-Sept 20, hw4<br>
-Sept 27, hw5<br>
+Sept 13,h<a href="/docs/hw2345.md">hw 3</a><br>
+Sept 20, <a href="/docs/hw2345.md">hw 4</a><br>
+Sept 27, <a href="/docs/hw2345.md">hw 5</a><br>
 <hr>
 Oct 6, <a href="/docs/proj1.md">Project 1</a><br>
 Oct 10, holiday<br>
