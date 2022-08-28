@@ -54,6 +54,7 @@
     <!-- a href="/docs/testing.md">Testing</a ---> Testing <br>   
       <a href="/docs/ethics.md">Ethics</a></br>
       <!-- a href="/docs/abstract.md">Abstraction</a --->Abstraction<br>
+      <!-- a href="/docs/abstract.md">Languages</a --->Languages<br>
       AI<br>
     <!-- a href="/docs/analytics.md">Analytics</a --->Analytics</br>
   </dd><hr>
@@ -67,10 +68,10 @@
 Aug 30, <a href="/docs/hw1.md">hw 1</a><br>
 <hr>
 Sept 5, holiday<br>
-Sept 6,, <!-- a href="/docs/hw2.md">hw 2</a-->hw2<br>
-Sept 13, <!-- a href="/docs/hw3.md">hw 3</a-->hw3<br>
-Sept 20, <!-- a href="/docs/hw4.md">hw 4</a-->hw4<br>
-Sept 27, <!-- a href="/docs/hw5.md">hw 5</a-->hw5<br>
+Sept 6,, <a href="/docs/hw2345.md">hw 2</a><br>
+Sept 13, hw3<br>
+Sept 20, hw4<br>
+Sept 27, hw5<br>
 <hr>
 Oct 6, <a href="/docs/proj1.md">Project 1</a><br>
 Oct 10, holiday<br>
