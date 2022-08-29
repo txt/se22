@@ -15,6 +15,7 @@
 
 
 
+
 ## SE: the times they are a changin'
 
 
@@ -203,14 +204,14 @@ and Github's copilot tool reponds woth
 
 ```python
 data = []
-withopen(‘observations.csv’) as csvfile:
+with open(‘observations.csv’) as csvfile:
  reader = csv.reader(csvfile)
  for row in reader:
- data.append(float(row[0]))
-print(“Number of rows: ,” len(data))
-print(“Number of columns: ,” len(data[0]))
-plt.plot(data)
-plt.show()
+   data.append(float(row[0]))
+ print(“Number of rows: ,” len(data))
+ print(“Number of columns: ,” len(data[0]))
+ plt.plot(data)
+ plt.show()
 ```
 
 

@@ -15,6 +15,7 @@
 
 
 
+
 # About ETHICS
 
 
@@ -321,6 +322,5 @@ Karthikeyan Natesan Ramamurthy, John Richards, Diptikalyan Saha, Prasanna Sattig
   - See also the clairifaction from [Peter Sykacek[(https://ieeexplore.ieee.org/document/9173639)
 - [Preventing undesirable behavior of intelligent machines](https://thetalkingmachines.com/sites/default/files/2019-11/999.full_.pdf)
 Philip S. Thomas, Bruno Castro da Silva, Andrew G. Barto, Stephen Giguere, Yuriy Brun, Emma Brunskills, Science, 366, 999–1004 (2019)3
-
 
 
