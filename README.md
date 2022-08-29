@@ -49,7 +49,7 @@
   <dd>
      <a href="/docs/goodrepo.md">Versioning</a><br>
         <a href="/docs/doc.md">Doco</a><br> 
-      <!-- a href="/docs/people1.md">People</a --->People<br>
+      <!-- a href="/docs/people1.md">People</a --->People+Processes<br>
        <!-- a href="/docs/patterns.md">Patterns</a ---> Patterns <br>
     <!-- a href="/docs/testing.md">Testing</a ---> Testing <br>   
       <a href="/docs/ethics.md">Ethics</a></br>
