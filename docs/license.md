@@ -18,7 +18,7 @@
 
 Welcome to 1976 and the Homebrew Computer Club
 
-<img src="https://bobyewchuk.files.wordpress.com/2015/01/homebrew-computer-club.jpg?w=1198&h=788">
+<img src="https://www.tech-insider.org/personal-computers/research/acrobat/760131.pdf">
 
 Everyone was there. Everybody shared
 
