@@ -133,3 +133,10 @@ It is a factor predicting for project popularity:
 But other factors matter as well:
 
 <img src="https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs42400-021-00084-8/MediaObjects/42400_2021_84_Fig2_HTML.png?as=webp">
+
+And now developers actually are getting tired of their open source
+work being used by others
+
+- [11 lines that broke the internet](https://img.sauf.ca/pictures/2016-03-23/cf9e68f25ed85d34a02680099a478b42.pdf)
+- <img width=500 src="https://i.kinja-img.com/gawker-media/image/upload/q_75,w_1240,h_664,c_fill/6087984d51fef61473b0a885aa9371a4.JPG">
+
