@@ -18,7 +18,7 @@
 
 Welcome to 1976 and the Homebrew Computer Club
 
-<img src="https://www.tech-insider.org/personal-computers/research/acrobat/760131.pdf">
+<img src="http://ed-thelen.org/FireInValley92-.jpg">
 
 Everyone was there. Everybody shared
 
@@ -45,7 +45,52 @@ Everyone was there. Everybody shared
 
 Then one day, Bill Gates told them that enough was enough. Hence, Microsoft.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Bill_Gates_Letter_to_Hobbyists_ocr.pdf">
+<em>
+
+- Open Letter to Hobbyists
+- To me, the most critical thing in the hobby market right now
+is the lack of good software courses, books and software itself.
+Without good software and an owner who understands programming, a
+hobby computer is wasted. Will quality software be written for the
+hobby market?
+- Almost a year ago, Paul Allen and myself, expecting the hobby
+market to expand, hired Monte Davidoff and developed Alkair BASIC.
+Though the initial work took only two months, the three of us have
+spent most of the last year documenting, improving and adding features to BASIC. Now we have 4K, 8K, EXTENDED, R3M and DISK BASIC.
+The value of the computer time we have used exceeds $40,000.
+- The feedback we have gotten from the hundreds of people who
+say they are using BASIC has all been positive. Two surprising
+things are apparent, however. 1) Most of these "users" never bought
+BASIC (less than 10% of all Altair 2::.r,zzs have bought SkSIC), a113
+2) The amount of royalties we have received from sales to hobbyists
+makes the time spent of Altair BASIC worth less than $2 an hour.
+- Why is this? As the majority of hobbyists must be aware, most
+of you steal your software. Hardware must be paid for, but software is something to share. Who cares if the people who worked on
+it get paid?
+- Is this fair? One thing you don't do by stealing software is
+get back at MITS for some problem you may have had. MITS doesn't
+make money selling software. The-royalty paid to us, the manual,
+the tape and the overhead make it a break-even operation. One thing
+you do do is prevent good software from being written. Who can a•’-
+ford to do professional work for nothing? What hobbyist can put
+3-man years into programming, finding all bugs, documenting his product and distribute for free? The fact is, no one besides us has
+invested a lot of money in hobby software. We have written 6800
+BASIC, and are wrLting 8080 APL and 6800 APL, but there is very little incentive to make this software available to hobbyists. Most
+directly, the thing you do is theft.
+- What about the guys who re-sell Altair BASIC, aren't they making money on hobby software? Yes, but thosewho have been reported
+to us may lose in the end. They are the ones who give hobbyists a
+bad name, and should be kicked out of any club meeting they show up
+at.
+- I would appreciate letters from any one who wants to pay up, or
+has a suggestion or comment. Just write me at 1180 Alvarado SE, g114,
+Albuquerque, New Mexico, 87108. Nothing would please me more than
+being able to hire ten programmers and deluge the hobby market with
+good software.
+
+- Bill Gates   
+General Partner, Micro-Soft 
+
+</em>
 
 But the rebels disagreed. And their rebellion grew profitable.
 
