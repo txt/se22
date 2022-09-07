@@ -22,6 +22,7 @@
 
 <img width="443" alt="image" src="https://user-images.githubusercontent.com/29195/188775916-1f46113c-4828-44ef-8f97-8f8b5dc3ff7b.png">
 
+
 Grade=1
 
 |rand|Grade|Comment|
@@ -32,7 +33,6 @@ Grade=1
 |0.284|1|please change the source directory name to "src", and add a setup.py file|
 |0.312|1|I was not able to find your automated test case running. While I see the badge it needs to link to your tests that run every commit. I see you are using travis, link to your travis test build report|
 |0.318|1|"Your README.md does not have any badges aside the minimal ones. Also, badges usually go on the top of the readme. Please fix.|
-|You do not have a test case directory. Please fix."|
 |0.372|1|Please generate a Release and add a DOI badge (with Zenodo) for your release|
 |0.376|1|Your README.md needs work. You do not have a fitting description of the project. Please fix.|
 |0.400|1|missing: CITATION.md, INSTALL.md. Also please generate a DOI badge (with Zenodo)|
@@ -42,17 +42,11 @@ Grade=1
 |0.683|1|In general it's best to have code / test in different directories on the root. Also please generate a Release and a DOI link (with Zenodo) for your release|
 |0.689|1|missing: DOI badge, CITATION.md|
 |0.730|1|"Your INSTALL.md is empty, and I have given you an incomplete. You may re-submit. I recommend you add at least pytest to requirements.txt|
-|While it is fine for this assignment, I do expect a README.md with more and meaningful content for the upcoming homeworks and projects. The same for test cases, .gitignore, "|
 |0.743|1|"Your README.md is barebones. You do not have any description at all of the project, nor any badges aside from the minimally requested ones. Please fix.|
-|Your test cases are not auto-ran. While you have a github action that auto-runs on push, it does not run your test cases. Please fix.|
-|Your INSTALL.md does not tell me how to install your code, please fix."|
 |0.781|1|"Your README.md is barebones. You do not have any description at all of the project, nor any badges aside from the minimally requested ones. Please fix.|
-|Your INSTALL.md is empty, please fix."|
 |0.781|1|please add "data/" directory and change the source directory name to "src"|
 |0.882|1|missing: build:passing and please add a directory data/ |
 |0.948|1|"Your README.md is barebones. You do not have any description at all of the project, nor any badges aside from the minimally requested ones. Please fix.|
-|You also do not have a Zenodo badge. Please fix.|
-|Your citation, contributing, install, and requirements are empty. Please fix."|
 |0.956|1|(1) please change the source directory name to "src" (2) why are DB secrets committed?|
 
 Grade=2
@@ -70,4 +64,3 @@ Grade=2
 |0.880|2|please change the source directory name to "src"|
 |0.886|2|please change the source directory name to "src"; does your test dir need an __init__.py file to run?|
 |0.935|2|please change the source directory name to "src"|
-
