@@ -17,6 +17,24 @@
 
 (presented in reverse chronological order)
 
+## Format of exams:
+  
+
+  
+__X vs y__
+
+  1. What is the same	
+2. What is different	
+3. When to pick X or Y	
+4. How to check if you pick turns out to be not working	
+
+
+- trunk-based versus gitflow
+- install.md versus setup.py
+- zero-internal boundaries versus specialized teams
+- Short release cycle versus Long release cycle 
+  
+                                                       
 ## HW1
 
 
