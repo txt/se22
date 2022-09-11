@@ -45,7 +45,7 @@ Submit your a URL to your repo to Moodle.
 ```txt
 .gitignore
 .travis.yml
-CITATION.md : fill on once you've got your ZENODO DOI going
+CITATION.cff : fill on once you've got your ZENODO DOI going
 CODE-OF-CONDUCT.md
 CONTRIBUTING.md
 INSTALL.md
@@ -82,6 +82,10 @@ href="https://github.com/timm/keys/actions"><img src="https://github.com/timm/ke
 - [CODE_OF_CONDUCT.md]( https://docs.github.com/en/github/building-a-strong-community/adding-a-code-of-conduct-to-your-project)
 - [CONTRIBUTING.md](https://github.com/atom/atom/blob/master/CONTRIBUTING.md)
   - This contrib file is too verbose. Discuss with your group which 10-20 items you'd actually endorse from your project.
+- [CITATION.cff](https://citation-file-format.github.io/) 
+  -  The name of the software (it’s probably not my_scripts/run.m or analysis.py)?
+  -  The label to use to uniquely identify the version of the software
+   - Who are the appropriate set of people that should be cited as authors,
 - [requirements.txt](https://www.idkrtm.com/what-is-the-python-requirements-txt/) (or equivalent in your language)
 - [setup.py, __init__.py](https://github.com/bmcfee/spatialtree) (or equivalent in your language)
   - Test your package (`python3 setup.py install`) (or eqivalent in your language)

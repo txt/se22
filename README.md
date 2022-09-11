@@ -48,15 +48,18 @@
   </dt>
   <dd>
      <a href="/docs/goodrepo.md">Versioning</a><br>
-        <a href="/docs/doc.md">Doco</a> Doco<br> 
-      <!-- a href="/docs/people1.md">People</a --->People<br>
+        <a href="/docs/doc.md">Doco</a><br> 
+        <a href="/docs/license.md">Licenses</a><br> 
+      <!-- a href="/docs/people.md">People</a --->People+Processes<br>
        <!-- a href="/docs/patterns.md">Patterns</a ---> Patterns <br>
     <!-- a href="/docs/testing.md">Testing</a ---> Testing <br>   
       <a href="/docs/ethics.md">Ethics</a></br>
       <!-- a href="/docs/abstract.md">Abstraction</a --->Abstraction<br>
+      <!-- a href="/docs/abstract.md">Languages</a --->Languages+DB<br>
+      <!-- a href="/docs/abstract.md">Languages</a --->Cloud<br>
       AI<br>
     <!-- a href="/docs/analytics.md">Analytics</a --->Analytics</br>
-  </dd><hr>
+  </dd>
 
 </dl>
 
@@ -67,10 +70,10 @@
 Aug 30, <a href="/docs/hw1.md">hw 1</a><br>
 <hr>
 Sept 5, holiday<br>
-Sept 6,, <!-- a href="/docs/hw2.md">hw 2</a-->hw2<br>
-Sept 13, <!-- a href="/docs/hw3.md">hw 3</a-->hw3<br>
-Sept 20, <!-- a href="/docs/hw4.md">hw 4</a-->hw4<br>
-Sept 27, <!-- a href="/docs/hw5.md">hw 5</a-->hw5<br>
+Sept 6,, <a href="/docs/hw2345.md">hw 2</a><br>
+Sept 13, <a href="/docs/hw2345.md">hw 3</a><br>
+Sept 20, <a href="/docs/hw2345.md">hw 4</a><br>
+Sept 27, <a href="/docs/hw2345.md">hw 5</a><br>
 <hr>
 Oct 6, <a href="/docs/proj1.md">Project 1</a><br>
 Oct 10, holiday<br>
