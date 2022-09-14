@@ -29,10 +29,7 @@ __X vs y__
 4. How to check if you pick turns out to be not working	
 
 
-- trunk-based versus gitflow
-- install.md versus setup.py
-- zero-internal boundaries versus specialized teams
-- Short release cycle versus Long release cycle 
+[All Review Questions](https://docs.google.com/document/d/14jLzKCBX69eYDs5Vdh849E9IarUxf-wrpSbClYwSF6Y/edit)
   
                                                        
 ## HW1
