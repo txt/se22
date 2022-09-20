@@ -146,6 +146,8 @@ With that in mind reading data becomes a very different process than the rest fr
 
 # From On-Prem to Cloud
 
+![image](https://miro.medium.com/max/1192/1*6KH0Kt-Vh_iopiiKj3oBjQ.png)
+
 With the advent of cloud technologies and current the high availability of low cost cloud services the architectural landscape went through changes.
 
 Most of the applications were originally of a **monolithic** nature, which means that a server (physical machine) would contain all layers, all API's, all database access, all authorization services contained within the same process. 
