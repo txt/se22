@@ -56,7 +56,7 @@
       <a href="/docs/ethics.md">Ethics</a></br>
       <!-- a href="/docs/abstract.md">Abstraction</a --->Abstraction<br>
       <!-- a href="/docs/abstract.md">Languages</a --->Languages+DB<br>
-      <!-- a href="/docs/abstract.md">Languages</a --->Cloud<br>
+      <a href="/docs/cloud.md">Cloud</a><br>
       AI<br>
     <!-- a href="/docs/analytics.md">Analytics</a --->Analytics</br>
   </dd>
