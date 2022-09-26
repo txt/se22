@@ -293,3 +293,28 @@ Assessing options of criteria (pic)
   - Can the requirement be changed without a large impact on other requirements?
 
 V-diagram
+  
+  ![image](https://user-images.githubusercontent.com/29195/192364416-23531ee9-2141-4db7-aac0-cb17ed9ba3da.png)
+
+## Development models
+
+  Waterfall (how to do it. 1970s)
+  
+  ![image](https://user-images.githubusercontent.com/29195/192364610-488e0657-d619-4e51-912e-8719c9c03912.png)
+  
+Spiral (how to do it. 1980s.
+  
+  ![image](https://user-images.githubusercontent.com/29195/192364739-e53e2b5a-74d7-479e-8c2b-f0ef778d9cff.png)
+
+Agile (2000's)
+
+![image](https://user-images.githubusercontent.com/29195/192362659-127da7d1-c4b2-4f20-9bd7-6ed6190d914d.png)
+
+Now? Hard to say. So much diversity. 
+ -  Average tarining for an SE person (less than 2 years) so much adapation of SE to the masses that develop it
+ - Lots more component based thing (so not much design as look-it-up in the catalog)
+ - Tiny buisness functions (serverless) which keep changing,  built on lots of cloud resources?
+  
+![image](https://user-images.githubusercontent.com/29195/192365914-5ea0e361-3309-4545-be4b-07993fd3c4af.png)
+  
+
