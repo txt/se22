@@ -12,6 +12,9 @@
   <p align=center><a href="/README.md#top"><img  width=700 src="/etc/img/banner.png"></a></p>
   
 
+# Requirements Engineering
+  
+  ![image](https://user-images.githubusercontent.com/29195/192362532-73ba977b-1a21-4991-a974-230df1df38cb.png)
 
 
 
@@ -61,10 +64,19 @@ be met by software intensive systems.”
 
 
 ## REQUIREMENTS: BAD IDEA?
+  
+![image](https://user-images.githubusercontent.com/29195/192362600-70599602-df29-4e9e-9429-db1d39d74844.png)
+
+  
 - Beware analysis paralysis
   - "The systems's through manufacture and in test. Has the customer sent the requirements spec yet"
 - Fans of agile say
   - "Experience tells you more than excessive initial analysis" XXX PIC
+  
+![image](https://user-images.githubusercontent.com/29195/192362659-127da7d1-c4b2-4f20-9bd7-6ed6190d914d.png)
+
+<img align=right width=400 src="https://user-images.githubusercontent.com/29195/192362693-6ea2ffd1-4981-4bbe-8412-aaf32e541000.png">
+
 - Assessing any of the following in a rigorous manner is an open research issue
   - Completeness
   - Comprehensibility 
@@ -93,9 +105,17 @@ be met by software intensive systems.”
 ## GETTING IT WRONG
 Examples to make you tremble 
 
+
+
 Must have mobility access ramps
+  
+![image](https://user-images.githubusercontent.com/29195/192362807-1c73a161-894e-4df3-b299-9b4040cb57c7.png)
 
 Must have external staircase
+
+![image](https://user-images.githubusercontent.com/29195/192362855-12b4888c-31a8-41b9-beca-826ec1d4af55.png)
+
+<img align=right width=300 src="https://user-images.githubusercontent.com/29195/192362905-71a0312a-be01-49fd-9c9e-7e2505ac86d2.png">
 
 The Geneis crash landing
 - NASA deep space sample return probe
@@ -146,7 +166,14 @@ Do all these folks want the same thing? (pic)w
 
 “one” thing is “many” things, depending on stakeholder perspective.
 
+![image](https://user-images.githubusercontent.com/29195/192363050-f2a2b95b-008e-492d-8950-0ee6afb66398.png)
+
+  
 Do all these folks want the same thing?
+  
+![image](https://user-images.githubusercontent.com/29195/192363104-7234e507-b622-4953-ac05-74982fb948b7.png)
+  
+![image](https://user-images.githubusercontent.com/29195/192363137-ddda7f3b-d0a9-4c4b-9e0c-ee211d3804c1.png)
 
 ## WRITING REQUIREMENTS
 
@@ -188,11 +215,16 @@ and anticipated changes
   -  Database requirements (as an ER model perhaps)
 - Index
 
-## Utilities (pic)
+## Utilities 
 
 Stakeholders have different “non-functional requirements”
+![image](https://user-images.githubusercontent.com/29195/192363236-44801242-d8de-4e38-aabe-11363fd41593.png)
+
 
 - properties, or qualities, that the product must have • may be critical to the product’s success
+
+
+<img src="https://user-images.githubusercontent.com/29195/192363287-827dd70c-cce0-4beb-a2a8-16c595ce3ddc.png" width=500 align=right>
 
 - Time
   -  Transactions / sec
@@ -227,11 +259,17 @@ How to "test" something that does not yet execute (pic)
  - actual system requirements
  - things talked about but might do best in future systems.
 
+![image](https://user-images.githubusercontent.com/29195/192363418-67264122-7cd3-478c-bbae-d752faf6c9bc.png)
+
+  
 One thing to look for: is there more than one design? Have those options been assessed? (pic)
 
 Assessing options of criteria (pic)
 - predictability (1), security (2), adaptability (3), coordinability (4), cooperativity (5), availability (6), integrity (7), modularity (8), or aggregability (9)
 
+![image](https://user-images.githubusercontent.com/29195/192363474-eb963176-6297-427c-9dab-0a60112a26b0.png)
+
+  
 - Which is best? Dunno. Ask your stakeholders!
   - But add value to their discussions
   -  Give them considered conclusions to aid their decisions
