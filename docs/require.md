@@ -71,7 +71,7 @@ be met by software intensive systems.”
 - Beware analysis paralysis
   - "The systems's through manufacture and in test. Has the customer sent the requirements spec yet"
 - Fans of agile say
-  - "Experience tells you more than excessive initial analysis" XXX PIC
+  - "Experience tells you more than excessive initial analysis"  
   
 ![image](https://user-images.githubusercontent.com/29195/192362659-127da7d1-c4b2-4f20-9bd7-6ed6190d914d.png)
 
@@ -139,8 +139,7 @@ The Geneis crash landing
 | Y2K (\*) |  Jan 1, 2000 |  $100 Billion (usa)  | large-scale effort ;widespread problems | Short-sighted temporal requirements. Premature optimization. Arithmetic overflow |
 |Virtual Case File|  2000- 2005 | $170,000,000 | entire program scrapped | •shifting requirements •scope creep •mismanagement |
 |Vancouver Stock Exchange Rounding Error | 1984| unspecified , index off by 50%(!) | •inadequate research •inadequate testing •rounding error |
-|NASA Mariner 1 | 1962|  A booster went off course during launch, resulting in the destruction | • Failure of a transcriber to notice an overbar in a written specification for the guidance program, resulting in the coding of an incorrect formula in
-its FORTRAN software|
+|NASA Mariner 1 | 1962|  A booster went off course during launch, resulting in the destruction | • Failure of a transcriber to notice an overbar in a written specification for the guidance program, resulting in the coding of an incorrect formula in its FORTRAN software|
 
 (\*) (*) A similar problem will occur in 2038 (the year 2038 problem), as many Unix-like systems calculate the time in seconds since 1 January 1970, and store this number as a 32-bit signed integer, for which the maximum possible value is 231 − 1 (2,147,483,647) seconds.[19]
 
@@ -151,7 +150,7 @@ Jim Johnson, The Standish Group International Project Leadership Conference, Chi
 | What | Pecent%|
 |----|---------:|
 |1. Incomplete Requirements| 13.1 |
-|2. Lack of user involvement 12.4|
+|2. Lack of user involvement |12.4|
 |3. Lack of resources |10.6 |
 |4. Unrealistic Expectations| 9.9|
 |5. Lack of executive support| 9.3|
@@ -162,7 +161,7 @@ Jim Johnson, The Standish Group International Project Leadership Conference, Chi
 |10. Technology illiteracy| 4.3|
 
 ## Stakeholders:
-Do all these folks want the same thing? (pic)w
+Do all these folks want the same thing? 
 
 “one” thing is “many” things, depending on stakeholder perspective.
 
@@ -224,7 +223,7 @@ Stakeholders have different “non-functional requirements”
 - properties, or qualities, that the product must have • may be critical to the product’s success
 
 
-<img src="https://user-images.githubusercontent.com/29195/192363287-827dd70c-cce0-4beb-a2a8-16c595ce3ddc.png" width=500 align=right>
+<img src="https://user-images.githubusercontent.com/29195/192363287-827dd70c-cce0-4beb-a2a8-16c595ce3ddc.png" width=7-- align=right>
 
 - Time
   -  Transactions / sec
@@ -249,7 +248,7 @@ Stakeholders have different “non-functional requirements”
   -  RunsonNoperatingsystems -  Runs on desktop, tablet, mobile
 - Etc
 
-## Reviewing REquirements
+## Reviewing Requirements
 
 How to "test" something that does not yet execute (pic)
 
@@ -267,8 +266,7 @@ One thing to look for: is there more than one design? Have those options been as
 Assessing options of criteria (pic)
 - predictability (1), security (2), adaptability (3), coordinability (4), cooperativity (5), availability (6), integrity (7), modularity (8), or aggregability (9)
 
-![image](https://user-images.githubusercontent.com/29195/192363474-eb963176-6297-427c-9dab-0a60112a26b0.png)
-
+![image](https://user-images.githubusercontent.com/29195/192364055-dae1f823-db5d-4fa9-8e29-df308c166a9e.png)
   
 - Which is best? Dunno. Ask your stakeholders!
   - But add value to their discussions
