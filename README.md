@@ -39,6 +39,7 @@
  <dt>
     Introduction:
   </dt>
+  <strike>
   <dd>
     <a href="/docs/hello.md">Hello!</a> <br>
     <a href="/docs/syllabus.md">Syllabus</a>
@@ -50,7 +51,7 @@
      <a href="/docs/goodrepo.md">Versioning</a><br>
         <a href="/docs/doc.md">Doco</a><br> 
         <a href="/docs/license.md">Licenses</a><br> 
-      <a href="/docs/people.md">People+Processes</a><br>
+      <a href="/docs/people.md">People+Processes</a><br></strike>
        <a href="/docs/patterns.md">Patterns</a><br>
       <a href="/docs/ethics.md">Ethics</a></br>
       <a href="/docs/requirements.md">Requirements</a></br>
