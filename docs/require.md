@@ -275,8 +275,7 @@ Assessing options of criteria (pic)
   - Can the requirement be changed without a large impact on other requirements?
 
 
-![image](https://user-images.githubusercontent.com/29195/192365914-5ea0e361-3309-4545-be4b-07993fd3c4af.png)
-   
+ 
 
  ## WRITING REQUIREMENTS
 
