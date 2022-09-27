@@ -75,7 +75,7 @@ Sept 5, holiday<br>
 Sept 6,, <a href="/docs/hw2345.md">hw 2</a><br>
 Sept 13, <a href="/docs/hw2345.md">hw 3</a><br>
 Sept 20, <a href="/docs/hw2345.md">hw 4</a><br>
-Sept 27, <a href="/docs/hw2345.md">hw 5</a><br></strike>>
+Sept 27, <a href="/docs/hw2345.md">hw 5</a><br></strike>
 <hr>
 Oct 6, <a href="/docs/proj1.md">Project 1</a><br>
 Oct 10, holiday<br>
