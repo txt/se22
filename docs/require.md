@@ -17,46 +17,7 @@
   ![image](https://user-images.githubusercontent.com/29195/192362532-73ba977b-1a21-4991-a974-230df1df38cb.png)
 
 
-
-
-Software Engineering is the:
-
-+ process of the
-+ design,
-+ construction and
-+ maintenance of
-+ good enough
-+ software,
-+ given the available resources.
-
-The last point means that we are always trading off
-between what we want with what we need with what
-we've got. Software engineers, therefore are the
-people we look to:
-
-+ Make and
-+ justify
-+ well-informed decisions
-+ about trade-offs
-+ in software engineering.
-
-This, in turn means that at any time, software
-engineering are aware of multiple possibilities and
-the reasons why we should be doing one, and not the
-others.
-
-Parts of SE:
-
-- requirements;
-- architecture;
-- process (life cycle);
-- risk management;
-- patterns, anti-patterns, bad smells;
-- construction;
-- verification;
-- testing;
-- maintenance, enhancement;
-- programming languages and databases.
+ 
 
 Requirements Engineering Defined
 - The development and use of cost- effective technology for the elicitation, specification and analysis of the stakeholder requirements which are to
@@ -223,6 +184,28 @@ Stakeholders have different “non-functional requirements”
 - properties, or qualities, that the product must have • may be critical to the product’s success
 
 
+
+  |Quality attribute|	Key interest|
+|-----------------|-------------|
+|Availability|	Can I use the system when and where I need to?|
+|Conformance to standards |	Does the system comply with all applicable standards for functionality, safety, communication, certification, and interfaces?|
+|Efficiency	|Does the system use computer resources economically?|
+|Installability|	Can I easily install, uninstall, and reinstall the system and upgrades?|
+|Integrity	|Does the system protect against data inaccuracy, corruption, and loss?|
+|Interoperability	|Does the system connect well with others to exchange data and services?|
+|Maintainability	|Can developers easily modify, correct, and enhance the system?|
+|Performance|Does the system respond sufficiently quickly to user actions and external events?|
+|Portability|	Can the system be migrated to different platforms easily?|
+|Reliability|	Does the system run when it’s supposed to without failing?|
+|Reusability	|Can developers reuse portions of the system in other products?|
+|Robustness|	Does the system respond sensibly to erroneous inputs and unexpected operating conditions?|
+|Safety|Does the system protect users from harm and property from damage?|
+|Scalability	|Can the system easily expand to accommodate more users, data, or transactions?|
+|Security|	Does the system protect against malware attacks, intruders, unauthorized users, and data theft?|
+|Usability	|Can users easily learn how to use the system to accomplish their tasks?|
+|Verifiability	|Can testers determine whether the software was implemented correctly?|
+
+
 <img src="https://user-images.githubusercontent.com/29195/192363287-827dd70c-cce0-4beb-a2a8-16c595ce3ddc.png" width=7-- align=right>
 
 - Time
@@ -247,7 +230,19 @@ Stakeholders have different “non-functional requirements”
   -  % of non-portable code
   -  RunsonNoperatingsystems -  Runs on desktop, tablet, mobile
 - Etc
+  
+Column effects row
+ - optimizing for effeciency (col2) hurts lots of things (row3 to row8)
+ - reliabillity (col8) helps avialbility (row1) 
+ - availability (col1) helps maintainability (row6) and reliability (row8)
+   - but maintainability (col6) says nothing about a availabilty (row1)
+ - maintainability hurts portability (in this project)
+   - but portability does nothing to maintainability (no, I don't know why either)
+  
+![image](https://user-images.githubusercontent.com/29195/192589531-be8abcb9-2a2a-4980-8ccb-c0ace4ef471d.png)
 
+ (Note that the  rules are only approximate and may not hold for specific projects.)
+  
 ## Reviewing Requirements
 
 How to "test" something that does not yet execute (pic)
@@ -316,5 +311,6 @@ Now? Hard to say. So much diversity.
  - Tiny buisness functions (serverless) which keep changing,  built on lots of cloud resources?
   
 ![image](https://user-images.githubusercontent.com/29195/192365914-5ea0e361-3309-4545-be4b-07993fd3c4af.png)
-  
+   
 
+  
