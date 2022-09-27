@@ -11,6 +11,33 @@
   <hr>
   <p align=center><a href="/README.md#top"><img  width=700 src="/etc/img/banner.png"></a></p>
   
+V-diagram: 
+  
+![image](https://user-images.githubusercontent.com/29195/192592551-e6e25d0e-b567-4276-aca7-0ec99beb3c21.png)
+
+i.e. b efore you code, generate artifacts that can test that code (e.g. expectations, constraints, test cases):
+  - "Without requirements or design, programming is the art of adding bugs to an empty text file."    
+      -- Louis Srygley
+  -  Brooks, Mythical Man Month. Effort is
+     - 1/3 th planning
+     - 1/6 th coding
+     - 1/4 th unit testing
+     - 1/4 th systems testing
+  
+e.g. test-driven development: Tests suites that run every time you save code
+
+- Build tests first
+- Repeat:
+  - Red = fund a broken test
+  - Green= fix the test
+  - Refactor= sometimes, clean things up
+    - Refactoring means functionality stays the same but the resulting code is better.
+    - Aside, regarding refactoring, apply the rule of 3. When you find repeated hunks of code:
+      - first time you do it _here_, just do it
+      - second time you do it _there_ , note that you did this before
+      - third time, before you do it _somewhere else, yet again_: 
+        - don't do it again. 
+        - Instead, refactor so _here_, _there_ and _somewhere else_ are all handled by the one piece of (refactored) code
 
 # Requirements Engineering
   
@@ -135,45 +162,7 @@ Do all these folks want the same thing?
   
 ![image](https://user-images.githubusercontent.com/29195/192363137-ddda7f3b-d0a9-4c4b-9e0c-ee211d3804c1.png)
 
-## WRITING REQUIREMENTS
 
-- The official statement of what is required of the system developers
-  - Should include both a definition and a specification of requirements
-  - It is NOT a design document
-  - As far as possible, it should set of WHAT the
-    system should do rather than HOW it should do it
-  - Also, it should have tests that can be applied incrementally
-    -  See “commit partition”, below
-
-### Requirements Document Structure
-
-- Introduction
-  - Describe need for the system and how it fits with business
-objectives
-- Glossary
-  - Define technical terms used
-- System models
-  - Define models showing system components and
-relationships
-- Functional requirements definition
-  - Describe the services to be provided
-  - User stories go here
-  - Add in notes for the commit partition here
-
-- Non-functional requirements definition
-  - Define constraints on the system and the development process • Add in notes for the commit partition here
-- Constraints
-  - What can't happen
-  - What has to happen
--  System evolution
-  -  Define fundamental assumptions on which the system is based
-and anticipated changes
-- Requirements specification
-  - Detailed specification of functional requirements
-- Appendices
-  - System hardware platform description
-  -  Database requirements (as an ER model perhaps)
-- Index
 
 ## Utilities 
 
@@ -184,8 +173,7 @@ Stakeholders have different “non-functional requirements”
 - properties, or qualities, that the product must have • may be critical to the product’s success
 
 
-
-  |Quality attribute|	Key interest|
+|Quality attribute|	Key interest|
 |-----------------|-------------|
 |Availability|	Can I use the system when and where I need to?|
 |Conformance to standards |	Does the system comply with all applicable standards for functionality, safety, communication, certification, and interfaces?|
@@ -287,30 +275,46 @@ Assessing options of criteria (pic)
 - Adaptability
   - Can the requirement be changed without a large impact on other requirements?
 
-V-diagram
-  
-  ![image](https://user-images.githubusercontent.com/29195/192364416-23531ee9-2141-4db7-aac0-cb17ed9ba3da.png)
 
-## Development models
-
-  Waterfall (how to do it. 1970s)
-  
-  ![image](https://user-images.githubusercontent.com/29195/192364610-488e0657-d619-4e51-912e-8719c9c03912.png)
-  
-Spiral (how to do it. 1980s.
-  
-  ![image](https://user-images.githubusercontent.com/29195/192364739-e53e2b5a-74d7-479e-8c2b-f0ef778d9cff.png)
-
-Agile (2000's)
-
-![image](https://user-images.githubusercontent.com/29195/192362659-127da7d1-c4b2-4f20-9bd7-6ed6190d914d.png)
-
-Now? Hard to say. So much diversity. 
- -  Average tarining for an SE person (less than 2 years) so much adapation of SE to the masses that develop it
- - Lots more component based thing (so not much design as look-it-up in the catalog)
- - Tiny buisness functions (serverless) which keep changing,  built on lots of cloud resources?
-  
 ![image](https://user-images.githubusercontent.com/29195/192365914-5ea0e361-3309-4545-be4b-07993fd3c4af.png)
    
 
-  
+ ## WRITING REQUIREMENTS
+
+- The official statement of what is required of the system developers
+  - Should include both a definition and a specification of requirements
+  - It is NOT a design document
+  - As far as possible, it should set of WHAT the
+    system should do rather than HOW it should do it
+  - Also, it should have tests that can be applied incrementally
+    -  See “commit partition”, below
+
+### Requirements Document Structure
+
+- Introduction
+  - Describe need for the system and how it fits with business
+objectives
+- Glossary
+  - Define technical terms used
+- System models
+  - Define models showing system components and
+relationships
+- Functional requirements definition
+  - Describe the services to be provided
+  - User stories go here
+  - Add in notes for the commit partition here
+
+- Non-functional requirements definition
+  - Define constraints on the system and the development process • Add in notes for the commit partition here
+- Constraints
+  - What can't happen
+  - What has to happen
+-  System evolution
+  -  Define fundamental assumptions on which the system is based
+and anticipated changes
+- Requirements specification
+  - Detailed specification of functional requirements
+- Appendices
+  - System hardware platform description
+  -  Database requirements (as an ER model perhaps)
+- Index 
