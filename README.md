@@ -54,11 +54,11 @@
         <a href="/docs/license.md">Licenses</a><br> 
       <a href="/docs/people.md">People+Processes</a><br></strike>
        <a href="/docs/patterns.md">Patterns</a><br>
+      <a href="/docs/cloud.md">Cloud</a><br>
       <a href="/docs/ethics.md">Ethics</a></br>
       <a href="/docs/requirements.md">Requirements</a></br>
       <!-- a href="/docs/abstract.md">Abstraction</a --->Abstraction<br>
       <!-- a href="/docs/abstract.md">Languages</a --->Languages+DB<br>
-      <a href="/docs/cloud.md">Cloud</a><br>
       AI<br>
     <!-- a href="/docs/testing.md">Testing</a ---> Testing <br>   
     <!-- a href="/docs/analytics.md">Analytics</a --->Analytics</br>
