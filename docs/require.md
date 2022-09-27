@@ -11,26 +11,29 @@
   <hr>
   <p align=center><a href="/README.md#top"><img  width=700 src="/etc/img/banner.png"></a></p>
   
-V-diagram: 
+# Requirements Engineering
+  
+"Without requirements or design, programming is the art of adding bugs to an empty text file."    
+      -- Louis Srygley
+
+ V-diagram: i.e. before you code, generate artifacts that can test that code (e.g. expectations, constraints, test cases)
   
 ![image](https://user-images.githubusercontent.com/29195/192592551-e6e25d0e-b567-4276-aca7-0ec99beb3c21.png)
 
-i.e. b efore you code, generate artifacts that can test that code (e.g. expectations, constraints, test cases):
-  - "Without requirements or design, programming is the art of adding bugs to an empty text file."    
-      -- Louis Srygley
-  -  Brooks, Mythical Man Month. Effort is
-     - 1/3 th planning
-     - 1/6 th coding
-     - 1/4 th unit testing
-     - 1/4 th systems testing
+
+-  Brooks, Mythical Man Month. Effort is
+   - 1/3 th planning
+   - 1/6 th coding
+   - 1/4 th unit testing
+   - 1/4 th systems testing
   
 e.g. test-driven development: Tests suites that run every time you save code
 
 - Build tests first
 - Repeat:
   - Red = fund a broken test
-  - Green= fix the test
-  - Refactor= sometimes, clean things up
+  - Green = fix the test
+  - Refactor = sometimes, clean things up
     - Refactoring means functionality stays the same but the resulting code is better.
     - Aside, regarding refactoring, apply the rule of 3. When you find repeated hunks of code:
       - first time you do it _here_, just do it
@@ -39,15 +42,11 @@ e.g. test-driven development: Tests suites that run every time you save code
         - don't do it again. 
         - Instead, refactor so _here_, _there_ and _somewhere else_ are all handled by the one piece of (refactored) code
 
-# Requirements Engineering
+# Requirements Engineering Defined
   
   ![image](https://user-images.githubusercontent.com/29195/192362532-73ba977b-1a21-4991-a974-230df1df38cb.png)
 
-
- 
-
-Requirements Engineering Defined
-- The development and use of cost- effective technology for the elicitation, specification and analysis of the stakeholder requirements which are to
+- "The development and use of cost- effective technology for the elicitation, specification and analysis of the stakeholder requirements which are to
 be met by software intensive systems.”
 
 
