@@ -42,11 +42,12 @@
   <strike>
   <dd>
     <a href="/docs/hello.md">Hello!</a> <br>
-    <a href="/docs/syllabus.md">Syllabus</a>
+    <a href="/docs/syllabus.md">Syllabus</a></strike>
   </dd>
   <dt>
     More:
   </dt>
+  <strike>
   <dd>
      <a href="/docs/goodrepo.md">Versioning</a><br>
         <a href="/docs/doc.md">Doco</a><br> 
