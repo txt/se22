@@ -53,8 +53,8 @@
         <a href="/docs/doc.md">Doco</a><br> 
         <a href="/docs/license.md">Licenses</a><br> 
       <a href="/docs/people.md">People+Processes</a><br>
-       <a href="/docs/patterns.md">Patterns</a><br></strike>
-      <a href="/docs/cloud.md">Cloud</a><br>
+       <a href="/docs/patterns.md">Patterns</a><br>
+      <a href="/docs/cloud.md">Cloud</a><br></strike>
       <a href="/docs/ethics.md">Ethics</a></br>
       <a href="/docs/requirements.md">Requirements</a></br>
       <!-- a href="/docs/abstract.md">Abstraction</a --->Abstraction<br>
