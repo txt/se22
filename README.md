@@ -79,7 +79,7 @@ Sept 13, <a href="/docs/hw2345.md">hw 3</a><br>
 Sept 20, <a href="/docs/hw2345.md">hw 4</a><br>
 Sept 30, <a href="/docs/hw2345.md">hw 5</a><br></strike>
 <hr>
-Oct 7, <a href="/docs/proj1.md">Project 1</a><br>
+Oct 9, <a href="/docs/proj1.md">Project 1</a><br>
 Oct 10, holiday<br>
 Oct 12, Mid-term exam<br>
 Oct 17, Pitch(g1-25)<br>
