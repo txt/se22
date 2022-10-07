@@ -19,7 +19,7 @@
 # About ETHICS
 
 
-It is ethical to improve the profits of your company since that money becomes wages which becomes groceries which becomes dinner so everyone and their kids can sleep better at night.
+It is ethical to improve the revenue of your company since that money becomes wages which becomes groceries which becomes dinner so everyone and their kids can sleep better at night.
 
 
 It is also ethical to change the design of  software in order to ensure that (say) the software is not unduly discriminatory towards a particular social group (e.g. some groups characterized by age, race, or gender).
