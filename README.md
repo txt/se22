@@ -9,12 +9,7 @@
 <a href="/LICENSE.md#top">&copy; 2022</a></p>
 <hr>
 <p align=center><a href="/README.md#top"><img  width=700 src="/etc/img/banner.png"></a></p>
-
-
-in line is $a>7$ and 
-
-$$ call out a> 9$$$
-
+ 
 
 <a name=timetable><table width="100%" border=0 align=center>
 <tr>
