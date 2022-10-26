@@ -9,7 +9,7 @@
 <a href="/LICENSE.md#top">&copy; 2022</a></p>
 <hr>
 <p align=center><a href="/README.md#top"><img  width=700 src="/etc/img/banner.png"></a></p>
-
+ 
 
 <a name=timetable><table width="100%" border=0 align=center>
 <tr>
@@ -54,9 +54,9 @@
         <a href="/docs/license.md">Licenses</a><br> 
       <a href="/docs/people.md">People+Processes</a><br>
        <a href="/docs/patterns.md">Patterns</a><br>
-      <a href="/docs/cloud.md">Cloud</a><br></strike>
-      <a href="/docs/ethics.md">Ethics</a></br>
-      <a href="/docs/requirements.md">Requirements</a></br>
+      <a href="/docs/cloud.md">Cloud</a><br>
+      <a href="/docs/ethics.md">Ethics</a></br></strike>
+      <a href="/docs/require.md">Requirements</a></br>
       <!-- a href="/docs/abstract.md">Abstraction</a --->Abstraction<br>
       <!-- a href="/docs/abstract.md">Languages</a --->Languages+DB<br>
       AI<br>
@@ -77,18 +77,18 @@ Sept 5, holiday<br>
 Sept 6,, <a href="/docs/hw2345.md">hw 2</a><br>
 Sept 13, <a href="/docs/hw2345.md">hw 3</a><br>
 Sept 20, <a href="/docs/hw2345.md">hw 4</a><br>
-Sept 30, <a href="/docs/hw2345.md">hw 5</a><br></strike>
+Sept 30, <a href="/docs/hw2345.md">hw 5</a><br>
 <hr>
-Oct 7, <a href="/docs/proj1.md">Project 1</a><br>
+Oct 9, <a href="/docs/proj1.md">Project 1</a><br>
 Oct 10, holiday<br>
-Oct 12, Mid-term exam<br>
+Oct 12, Mid-term exam<br></strike>
 Oct 17, Pitch(g1-25)<br>
 Oct 19, Pitch(g26+)<br>
 Oct 21,  Voting(noon)<br>
 <hr>
 Nov 23, holiday<br>
 Nov 30, grading<br>
-Nov 30, <!-- a href="/docs/proj2.md">Project 2</a-->Project2<br>
+Nov 30, <a href="/docs/proj2.md">Project 2</a><br>
 <hr>
 Dec 5, grading<br>
 Dec 5, <a href="/docs/essay.md">Essay</a><br>
