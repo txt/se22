@@ -55,7 +55,7 @@
       <a href="/docs/people.md">People+Processes</a><br>
        <a href="/docs/patterns.md">Patterns</a><br>
       <a href="/docs/cloud.md">Cloud</a><br>
-      <a href="/docs/ethics.md">Ethics</a></br>x
+      <a href="/docs/ethics.md">Ethics</a></br> 
       <a href="/docs/require.md">Requirements</a></br></strike>
       <a href="/docs/abstract.md">Abstraction</a><br>
       <!-- a href="/docs/abstract.md">Languages</a --->Languages+DB<br>
