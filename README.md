@@ -57,7 +57,7 @@
       <a href="/docs/cloud.md">Cloud</a><br>
       <a href="/docs/ethics.md">Ethics</a></br></strike>
       <a href="/docs/require.md">Requirements</a></br>
-      <!-- a href="/docs/abstract.md">Abstraction</a --->Abstraction<br>
+      <a href="/docs/abstract.md">Abstraction</a><br>
       <!-- a href="/docs/abstract.md">Languages</a --->Languages+DB<br>
       AI<br>
     <!-- a href="/docs/testing.md">Testing</a ---> Testing <br>   
@@ -81,10 +81,10 @@ Sept 30, <a href="/docs/hw2345.md">hw 5</a><br>
 <hr>
 Oct 9, <a href="/docs/proj1.md">Project 1</a><br>
 Oct 10, holiday<br>
-Oct 12, Mid-term exam<br></strike>
+Oct 12, Mid-term exam<br>
 Oct 17, Pitch(g1-25)<br>
 Oct 19, Pitch(g26+)<br>
-Oct 21,  Voting(noon)<br>
+Oct 21,  Voting(noon)<br></strike>
 <hr>
 Nov 23, holiday<br>
 Nov 30, grading<br>
