@@ -56,7 +56,7 @@ Once framed as an optimization problem, nearly *anything*. See:
 * Assisting developers in writing code [[14]](#references)
 * Defect prediction [[15]](#references)
 
-## A quick walkthrough: AI for SE
+## Case Study 1: GHOST 
 
 * Our case study: defect prediction
 * Our bias: we will use the AI lens to look at the problem.
@@ -117,6 +117,10 @@ Congrats--you are now the SOTA for defect prediction! Until the next guy comes a
 * We were very AI-centric about our approach--the actual data itself, or its source never impacted our decisions.
 * We did need to come up with a novel preprocessing operator, perhaps because we failed to include domain knowledge.
 * Although we used a feature set from 2005, we beat state-of-the-art approaches that used language models to mine features. 
+
+## Case Study 2: SNEAK
+
+<img src="/etc/img/sneak.png"/>
 
 ## Options, options, options
 
