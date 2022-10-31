@@ -185,58 +185,58 @@ There are many contenders in this field, but the most popular ones are:
 
 # References
 
-[1] Kumar, K. Vinay, et al. "Software development cost estimation using wavelet neural networks." Journal of Systems and Software 81.11 (2008): 1853-1867.
-[2] Minku, Leandro L., and Xin Yao. "Software effort estimation as a multiobjective learning problem." ACM Transactions on Software Engineering and Methodology (TOSEM) 22.4 (2013): 1-32.
-[3] Sarro, Federica, Alessio Petrozziello, and Mark Harman. "Multi-objective software effort estimation." 2016 IEEE/ACM 38th International Conference on Software Engineering (ICSE). IEEE, 2016.
-[4] Du, Xin, et al. "An evolutionary algorithm for performance optimization at software architecture level." 2015 IEEE Congress on Evolutionary Computation (CEC). IEEE, 2015.
-[5] Sadiq, Ali Safaa, et al. "An efficient ids using hybrid magnetic swarm optimization in wanets." IEEE Access 6 (2018): 29041-29053.
-[6] De Carvalho, Andre B., Aurora Pozo, and Silvia Regina Vergilio. "A symbolic fault-prediction model based on multiobjective particle swarm optimization." Journal of Systems and Software 83.5 (2010): 868-882.
-[7] Liu, Yi, Taghi M. Khoshgoftaar, and Naeem Seliya. "Evolutionary optimization of software quality modeling with multiple repositories." IEEE Transactions on Software Engineering 36.6 (2010): 852-864.
-[8] Abdessalem, Raja Ben, et al. "Testing vision-based control systems using learnable evolutionary algorithms." 2018 IEEE/ACM 40th International Conference on Software Engineering (ICSE). IEEE, 2018.
-[9] Desai, Utkarsh, Sambaran Bandyopadhyay, and Srikanth Tamilselvam. "Graph neural network to dilute outliers for refactoring monolith application." Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 35. No. 1. 2021.
-[10] Yedida, Rahul, et al. "How to Find Actionable Static Analysis Warnings." arXiv preprint arXiv:2205.10504 (2022).
-[11] Tu, Huy, and Tim Menzies. "DebtFree: minimizing labeling cost in self-admitted technical debt identification using semi-supervised learning." Empirical Software Engineering 27.4 (2022): 1-37.
-[12] Lustosa, Andre, et al. "SNEAK: Faster Interactive Search-based SE." arXiv preprint arXiv:2110.02922 (2021).
-[13] Yedida, Rahul, et al. "An Expert System for Redesigning Software for Cloud Applications." arXiv preprint arXiv:2109.14569 (2021).
-[14] Chen, Mark, et al. "Evaluating large language models trained on code." arXiv preprint arXiv:2107.03374 (2021).
-[15] Yedida, Rahul, and Tim Menzies. "On the value of oversampling for deep learning in software defect prediction." IEEE Transactions on Software Engineering (2021).
-[16] Shirabad, J. Sayyad, and Tim J. Menzies. "The PROMISE repository of software engineering databases." School of Information Technology and Engineering, University of Ottawa, Canada 24 (2005): 3.
+[1] Kumar, K. Vinay, et al. "Software development cost estimation using wavelet neural networks." Journal of Systems and Software 81.11 (2008): 1853-1867.  
+[2] Minku, Leandro L., and Xin Yao. "Software effort estimation as a multiobjective learning problem." ACM Transactions on Software Engineering and Methodology (TOSEM) 22.4 (2013): 1-32.  
+[3] Sarro, Federica, Alessio Petrozziello, and Mark Harman. "Multi-objective software effort estimation." 2016 IEEE/ACM 38th International Conference on Software Engineering (ICSE). IEEE, 2016.  
+[4] Du, Xin, et al. "An evolutionary algorithm for performance optimization at software architecture level." 2015 IEEE Congress on Evolutionary Computation (CEC). IEEE, 2015.  
+[5] Sadiq, Ali Safaa, et al. "An efficient ids using hybrid magnetic swarm optimization in wanets." IEEE Access 6 (2018): 29041-29053.  
+[6] De Carvalho, Andre B., Aurora Pozo, and Silvia Regina Vergilio. "A symbolic fault-prediction model based on multiobjective particle swarm optimization." Journal of Systems and Software 83.5 (2010): 868-882.  
+[7] Liu, Yi, Taghi M. Khoshgoftaar, and Naeem Seliya. "Evolutionary optimization of software quality modeling with multiple repositories." IEEE Transactions on Software Engineering 36.6 (2010): 852-864.  
+[8] Abdessalem, Raja Ben, et al. "Testing vision-based control systems using learnable evolutionary algorithms." 2018 IEEE/ACM 40th International Conference on Software Engineering (ICSE). IEEE, 2018.  
+[9] Desai, Utkarsh, Sambaran Bandyopadhyay, and Srikanth Tamilselvam. "Graph neural network to dilute outliers for refactoring monolith application." Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 35. No. 1. 2021.  
+[10] Yedida, Rahul, et al. "How to Find Actionable Static Analysis Warnings." arXiv preprint arXiv:2205.10504 (2022).  
+[11] Tu, Huy, and Tim Menzies. "DebtFree: minimizing labeling cost in self-admitted technical debt identification using semi-supervised learning." Empirical Software Engineering 27.4 (2022): 1-37.  
+[12] Lustosa, Andre, et al. "SNEAK: Faster Interactive Search-based SE." arXiv preprint arXiv:2110.02922 (2021).  
+[13] Yedida, Rahul, et al. "An Expert System for Redesigning Software for Cloud Applications." arXiv preprint arXiv:2109.14569 (2021).  
+[14] Chen, Mark, et al. "Evaluating large language models trained on code." arXiv preprint arXiv:2107.03374 (2021).  
+[15] Yedida, Rahul, and Tim Menzies. "On the value of oversampling for deep learning in software defect prediction." IEEE Transactions on Software Engineering (2021).  
+[16] Shirabad, J. Sayyad, and Tim J. Menzies. "The PROMISE repository of software engineering databases." School of Information Technology and Engineering, University of Ottawa, Canada 24 (2005): 3.  
 [17] Agrawal, Amritanshu, et al. "How to “dodge” complex software analytics." IEEE Transactions on Software Engineering 47.10 (2019): 2182-2194.
-[18] Rudin, Cynthia. "Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead." Nature Machine Intelligence 1.5 (2019): 206-215.
-[19] Frosst, Nicholas, and Geoffrey Hinton. "Distilling a neural network into a soft decision tree." arXiv preprint arXiv:1711.09784 (2017).
-[20] Montufar, Guido F., et al. "On the number of linear regions of deep neural networks." Advances in neural information processing systems 27 (2014).
-[21] Buda, Mateusz, Atsuto Maki, and Maciej A. Mazurowski. "A systematic study of the class imbalance problem in convolutional neural networks." Neural networks 106 (2018): 249-259.
-[22] <a href="https://commons.wikimedia.org/wiki/File:SVM_margin.png">Larhmam</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons
-[23] Xu, Tianyin, et al. "Hey, you have given me too many knobs!: Understanding and dealing with over-designed configuration in system software." Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering. 2015.
-[24] Yedida, Rahul, Snehanshu Saha, and Tejas Prashanth. "Lipschitzlr: Using theoretically computed adaptive learning rates for fast convergence." Applied Intelligence 51.3 (2021): 1460-1478.
-[25] Saha, Snehanshu, et al. "Evolution of novel activation functions in neural network training for astronomy data: habitability classification of exoplanets." The European Physical Journal Special Topics 229.16 (2020): 2629-2738.
-[26] Klambauer, Günter, et al. "Self-normalizing neural networks." Advances in neural information processing systems 30 (2017).
-[27] Ioffe, Sergey, and Christian Szegedy. "Batch normalization: Accelerating deep network training by reducing internal covariate shift." International conference on machine learning. PMLR, 2015.
-[28] Srivastava, Nitish, et al. "Dropout: a simple way to prevent neural networks from overfitting." The journal of machine learning research 15.1 (2014): 1929-1958.
-[29] Li, Xiang, et al. "Understanding the disharmony between dropout and batch normalization by variance shift." Proceedings of the IEEE/CVF conference on computer vision and pattern recognition. 2019.
-[30] He, Kaiming, et al. "Delving deep into rectifiers: Surpassing human-level performance on imagenet classification." Proceedings of the IEEE international conference on computer vision. 2015.
-[31] Bergstra, James, et al. "Algorithms for hyper-parameter optimization." Advances in neural information processing systems 24 (2011).
-[32] Bergstra, James, and Yoshua Bengio. "Random search for hyper-parameter optimization." Journal of machine learning research 13.2 (2012).
-[33] Bergstra, James, Daniel Yamins, and David Cox. "Making a science of model search: Hyperparameter optimization in hundreds of dimensions for vision architectures." International conference on machine learning. PMLR, 2013.
-[34] Bergstra, James, et al. "Hyperopt: a python library for model selection and hyperparameter optimization." Computational Science & Discovery 8.1 (2015): 014008.
-[35] Loshchilov, Ilya, and Frank Hutter. "CMA-ES for hyperparameter optimization of deep neural networks." arXiv preprint arXiv:1604.07269 (2016).
-[36] Falkner, Stefan, Aaron Klein, and Frank Hutter. "BOHB: Robust and efficient hyperparameter optimization at scale." International Conference on Machine Learning. PMLR, 2018.
-[37] Pedregosa, Fabian. "Hyperparameter optimization with approximate gradient." International conference on machine learning. PMLR, 2016.
-[38] Bardenet, Rémi, et al. "Collaborative hyperparameter tuning." International conference on machine learning. PMLR, 2013.
+[18] Rudin, Cynthia. "Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead." Nature Machine Intelligence 1.5 (2019): 206-215.  
+[19] Frosst, Nicholas, and Geoffrey Hinton. "Distilling a neural network into a soft decision tree." arXiv preprint arXiv:1711.09784 (2017).  
+[20] Montufar, Guido F., et al. "On the number of linear regions of deep neural networks." Advances in neural information processing systems 27 (2014).  
+[21] Buda, Mateusz, Atsuto Maki, and Maciej A. Mazurowski. "A systematic study of the class imbalance problem in convolutional neural networks." Neural networks 106 (2018): 249-259.  
+[22] <a href="https://commons.wikimedia.org/wiki/File:SVM_margin.png">Larhmam</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons. 
+[23] Xu, Tianyin, et al. "Hey, you have given me too many knobs!: Understanding and dealing with over-designed configuration in system software." Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering. 2015.  
+[24] Yedida, Rahul, Snehanshu Saha, and Tejas Prashanth. "Lipschitzlr: Using theoretically computed adaptive learning rates for fast convergence." Applied Intelligence 51.3 (2021): 1460-1478.  
+[25] Saha, Snehanshu, et al. "Evolution of novel activation functions in neural network training for astronomy data: habitability classification of exoplanets." The European Physical Journal Special Topics 229.16 (2020): 2629-2738.  
+[26] Klambauer, Günter, et al. "Self-normalizing neural networks." Advances in neural information processing systems 30 (2017).  
+[27] Ioffe, Sergey, and Christian Szegedy. "Batch normalization: Accelerating deep network training by reducing internal covariate shift." International conference on machine learning. PMLR, 2015.  
+[28] Srivastava, Nitish, et al. "Dropout: a simple way to prevent neural networks from overfitting." The journal of machine learning research 15.1 (2014): 1929-1958.  
+[29] Li, Xiang, et al. "Understanding the disharmony between dropout and batch normalization by variance shift." Proceedings of the IEEE/CVF conference on computer vision and pattern recognition. 2019.  
+[30] He, Kaiming, et al. "Delving deep into rectifiers: Surpassing human-level performance on imagenet classification." Proceedings of the IEEE international conference on computer vision. 2015.  
+[31] Bergstra, James, et al. "Algorithms for hyper-parameter optimization." Advances in neural information processing systems 24 (2011).  
+[32] Bergstra, James, and Yoshua Bengio. "Random search for hyper-parameter optimization." Journal of machine learning research 13.2 (2012).  
+[33] Bergstra, James, Daniel Yamins, and David Cox. "Making a science of model search: Hyperparameter optimization in hundreds of dimensions for vision architectures." International conference on machine learning. PMLR, 2013.  
+[34] Bergstra, James, et al. "Hyperopt: a python library for model selection and hyperparameter optimization." Computational Science & Discovery 8.1 (2015): 014008.  
+[35] Loshchilov, Ilya, and Frank Hutter. "CMA-ES for hyperparameter optimization of deep neural networks." arXiv preprint arXiv:1604.07269 (2016).  
+[36] Falkner, Stefan, Aaron Klein, and Frank Hutter. "BOHB: Robust and efficient hyperparameter optimization at scale." International Conference on Machine Learning. PMLR, 2018.  
+[37] Pedregosa, Fabian. "Hyperparameter optimization with approximate gradient." International conference on machine learning. PMLR, 2016.  
+[38] Bardenet, Rémi, et al. "Collaborative hyperparameter tuning." International conference on machine learning. PMLR, 2013.  
 [39] Lindauer, Marius, et al. "SMAC3: A Versatile Bayesian Optimization Package for Hyperparameter Optimization." J. Mach. Learn. Res. 23 (2022): 54-1.
-[40] Liu, Chenxi, et al. "Auto-deeplab: Hierarchical neural architecture search for semantic image segmentation." Proceedings of the IEEE/CVF conference on computer vision and pattern recognition. 2019.
-[41] Zhang, Hongyi, Yann N. Dauphin, and Tengyu Ma. "Fixup initialization: Residual learning without normalization." arXiv preprint arXiv:1901.09321 (2019).
-[42] Elsken, Thomas, Jan Hendrik Metzen, and Frank Hutter. "Neural architecture search: A survey." The Journal of Machine Learning Research 20.1 (2019): 1997-2017.
-[43] Liu, Chenxi, et al. "Progressive neural architecture search." Proceedings of the European conference on computer vision (ECCV). 2018.
-[44] Zoph, Barret, and Quoc V. Le. "Neural architecture search with reinforcement learning." arXiv preprint arXiv:1611.01578 (2016).
-[45] Tan, Mingxing, et al. "Mnasnet: Platform-aware neural architecture search for mobile." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2019.
-[46] Pham, Hieu, et al. "Efficient neural architecture search via parameters sharing." International conference on machine learning. PMLR, 2018.
-[47] Jin, Haifeng, Qingquan Song, and Xia Hu. "Auto-keras: An efficient neural architecture search system." Proceedings of the 25th ACM SIGKDD international conference on knowledge discovery & data mining. 2019.
-[48] Mellor, Joe, et al. "Neural architecture search without training." International Conference on Machine Learning. PMLR, 2021.
-[49] Li, Liam, and Ameet Talwalkar. "Random search and reproducibility for neural architecture search." Uncertainty in artificial intelligence. PMLR, 2020.
-[50] Zhou, Hongpeng, et al. "Bayesnas: A bayesian approach for neural architecture search." International conference on machine learning. PMLR, 2019.
-[51] Wen, Wei, et al. "Neural predictor for neural architecture search." European Conference on Computer Vision. Springer, Cham, 2020.
-[52] Gong, Xinyu, et al. "Autogan: Neural architecture search for generative adversarial networks." Proceedings of the IEEE/CVF International Conference on Computer Vision. 2019.
-[53] Xie, Sirui, et al. "SNAS: stochastic neural architecture search." arXiv preprint arXiv:1812.09926 (2018).
-[54] Nayman, Niv, et al. "Xnas: Neural architecture search with expert advice." Advances in neural information processing systems 32 (2019).
-[55] Yang, Zhaohui, et al. "Cars: Continuous evolution for efficient neural architecture search." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020.
+[40] Liu, Chenxi, et al. "Auto-deeplab: Hierarchical neural architecture search for semantic image segmentation." Proceedings of the IEEE/CVF conference on computer vision and pattern recognition. 2019.  
+[41] Zhang, Hongyi, Yann N. Dauphin, and Tengyu Ma. "Fixup initialization: Residual learning without normalization." arXiv preprint arXiv:1901.09321 (2019).  
+[42] Elsken, Thomas, Jan Hendrik Metzen, and Frank Hutter. "Neural architecture search: A survey." The Journal of Machine Learning Research 20.1 (2019): 1997-2017.  
+[43] Liu, Chenxi, et al. "Progressive neural architecture search." Proceedings of the European conference on computer vision (ECCV). 2018.  
+[44] Zoph, Barret, and Quoc V. Le. "Neural architecture search with reinforcement learning." arXiv preprint arXiv:1611.01578 (2016).  
+[45] Tan, Mingxing, et al. "Mnasnet: Platfor m-aware neural architecture search for mobile." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2019.  
+[46] Pham, Hieu, et al. "Efficient neural architecture search via parameters sharing." International conference on machine learning. PMLR, 2018.  
+[47] Jin, Haifeng, Qingquan Song, and Xia Hu. "Auto-keras: An efficient neural architecture search system." Proceedings of the 25th ACM SIGKDD international conference on knowledge discovery & data mining. 2019.  
+[48] Mellor, Joe, et al. "Neural architecture search without training." International Conference on Machine Learning. PMLR, 2021.  
+[49] Li, Liam, and Ameet Talwalkar. "Random search and reproducibility for neural architecture search." Uncertainty in artificial intelligence. PMLR, 2020.  
+[50] Zhou, Hongpeng, et al. "Bayesnas: A bayesian approach for neural architecture search." International conference on machine learning. PMLR, 2019.  
+[51] Wen, Wei, et al. "Neural predictor for neural architecture search." European Conference on Computer Vision. Springer, Cham, 2020.  
+[52] Gong, Xinyu, et al. "Autogan: Neural architecture search for generative adversarial networks." Proceedings of the IEEE/CVF International Conference on Computer Vision. 2019.  
+[53] Xie, Sirui, et al. "SNAS: stochastic neural architecture search." arXiv preprint arXiv:1812.09926 (2018).  
+[54] Nayman, Niv, et al. "Xnas: Neural architecture search with expert advice." Advances in neural information processing systems 32 (2019).  
+[55] Yang, Zhaohui, et al. "Cars: Continuous evolution for efficient neural architecture search." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020.  
