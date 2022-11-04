@@ -171,16 +171,50 @@ There are many contenders in this field, but the most popular ones are:
 * Comet
 * ClearML
 
-## Todo
-
-* [ ] Add a demo of MLOps
-
 # X vs Y
 
 * Decision trees vs. SVMs
+
+|                        | Decision tree                                               | SVM                        |
+|------------------------|-------------------------------------------------------------|----------------------------|
+| What is the same       | Classification algorithms                                   |                            |
+| What is different      | Based on maximizing information gain/split information/etc. | Can use kernel trick       |
+|                        |                                                             | Convex optimization based  |
+| When to use            | Need interpretability                                       | Need power of kernel trick |
+| When decision is wrong | Need more complex boundaries                                | Need interpretability      |
+
 * Deep learning vs. classical machine learning
+
+|                        | **Deep learning**                               | **Classical ML**                |
+|------------------------|-------------------------------------------------|---------------------------------|
+| What is the same       | Both learning algorithms                        |                                 |
+| What is different      | Layered structure                               | Hierarchical structure          |
+|                        | Minimize a loss function                        | May not be loss-based           |
+|                        | Can automatically extract hierarchical features | Need manually provided features |
+| When to use            | Larger dataset                                  | Smaller datasets                |
+|                        |                                                 | Need interpretability           |
+| When decision is wrong | Cannot figure out why it doesn't work           | Need more complex boundary      |
+|                        | Takes too long                                  | Dataset features are complex    |
+
+
 * AI4SE vs SE4AI
+
+|                        | **AI4SE**               | **SE4AI**                       |
+|------------------------|-------------------------|---------------------------------|
+| What is the same       | Both involve AI and SE  |                                 |
+| What is different      | AI is a supporting tool | SE is a supporting tool         |
+| When to use            | Smaller scale AI        | Larger scale AI                 |
+| When decision is wrong | No or poor ROI          | Wasting time on the engineering |
+
+
 * Manual tracking vs MLOps
+
+|                        | **Manual tracking**                 | **MLOps**                                                      |
+|------------------------|-------------------------------------|----------------------------------------------------------------|
+| What is the same       | Both are used for the SE4AI problem |                                                                |
+| What is different      | Manual organization of artifacts    | Uses SE concepts like version control, automatic logging, etc. |
+| When to use            | Smaller scale AI                    | Larger scale AI                                                |
+| When decision is wrong | Artifacts are difficult to manage   | Too much overhead                                              |
 
 
 # References
