@@ -57,8 +57,8 @@
       <a href="/docs/cloud.md">Cloud</a><br>
       <a href="/docs/ethics.md">Ethics</a></br> 
       <a href="/docs/require.md">Requirements</a></br></strike>
-      <a href="/docs/abstract.md">Abstraction</a> [<a href="https://ncsu.zoom.us/rec/share/6BVaerqnSJBGuT1ELYnr7tsZXuq_VHhTioVLzb2k_u_3dDKsqT3ukyhZ34sFE8a_.vXCLEXFr26kGvXl8">video1</a>; pass=softeng22!];<br>
-[<a href="https://ncsu.zoom.us/rec/share/6BVaerqnSJBGuT1ELYnr7tsZXuq_VHhTioVLzb2k_u_3dDKsqT3ukyhZ34sFE8a_.vXCLEXFr26kGvXl8">video2</a>; passcode: softeng22!>video2</a>; pass=softeng22!];
+      <a href="/docs/abstract.md">Abstraction</a> [passcode: softeng22! <a href="https://ncsu.zoom.us/rec/share/6BVaerqnSJBGuT1ELYnr7tsZXuq_VHhTioVLzb2k_u_3dDKsqT3ukyhZ34sFE8a_.vXCLEXFr26kGvXl8">video1</a>;
+<a href="https://ncsu.zoom.us/rec/share/6BVaerqnSJBGuT1ELYnr7tsZXuq_VHhTioVLzb2k_u_3dDKsqT3ukyhZ34sFE8a_.vXCLEXFr26kGvXl8">video2</a>]
 
 <br>
       <!-- a href="/docs/abstract.md">Languages</a --->Languages+DB<br>
