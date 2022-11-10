@@ -57,9 +57,12 @@
       <a href="/docs/cloud.md">Cloud</a><br>
       <a href="/docs/ethics.md">Ethics</a></br> 
       <a href="/docs/require.md">Requirements</a></br></strike>
-      <a href="/docs/abstract.md">Abstraction</a> [<a href="https://ncsu.zoom.us/rec/share/6BVaerqnSJBGuT1ELYnr7tsZXuq_VHhTioVLzb2k_u_3dDKsqT3ukyhZ34sFE8a_.vXCLEXFr26kGvXl8">video</a>; pass=softeng22!]<br>
+      <a href="/docs/abstract.md">Abstraction</a> [<a href="https://ncsu.zoom.us/rec/share/6BVaerqnSJBGuT1ELYnr7tsZXuq_VHhTioVLzb2k_u_3dDKsqT3ukyhZ34sFE8a_.vXCLEXFr26kGvXl8">video1</a>; pass=softeng22!];
+[<a href="https://ncsu.zoom.us/rec/share/6BVaerqnSJBGuT1ELYnr7tsZXuq_VHhTioVLzb2k_u_3dDKsqT3ukyhZ34sFE8a_.vXCLEXFr26kGvXl8">video2</a>; passcode: softeng22!)">video2</a>; pass=softeng22!];
+
+<br>
       <!-- a href="/docs/abstract.md">Languages</a --->Languages+DB<br>
-     <a href="/docs/ai4se.md">AI for SE</a> | <a href="https://ncsu.zoom.us/rec/play/hguXOgoIl3ZMta5gztAWj1oPaLsTKorKmvjVW6IRScRLMCBppXBBxoY0DZNTylx638YRKI-ZM-ACvQsN.4A3XQeOlHRFMNUcM">Video</a>, password: NQIc1p2+<br>
+     <a href="/docs/ai4se.md">AI for SE</a> | <a href="https://ncsu.zoom.us/rec/play/hguXOgoIl3ZMta5gztAWj1oPaLsTKorKmvjVW6IRScRLMCBppXBBxoY0DZNTylx638YRKI-ZM-ACvQsN.4A3XQeOlHRFMNUcM">Video1</a>, password: NQIc1p2+ <br>
      <a href="https://ncsu.zoom.us/rec/share/Z6DPpByqK00lDaMC6H7OYKVjNWD3VnJLrxi_WDXK6ReJ46fuRw_8K6AN8AWyMdDM.Gpk5CaDYeLfOp85K">MLOps</a>, password: 79Nf!yCt<br>
     <!-- a href="/docs/testing.md">Testing</a ---> Testing <br>   
   </dd>
