@@ -9,7 +9,7 @@
 <a href="/LICENSE.md#top">&copy; 2022</a></p>
 <hr>
 <p align=center><a href="/README.md#top"><img  width=700 src="/etc/img/banner.png"></a></p>
-
+ 
 
 <a name=timetable><table width="100%" border=0 align=center>
 <tr>
@@ -55,13 +55,16 @@
       <a href="/docs/people.md">People+Processes</a><br>
        <a href="/docs/patterns.md">Patterns</a><br>
       <a href="/docs/cloud.md">Cloud</a><br>
-      <a href="/docs/ethics.md">Ethics</a></br></strike>
-      <a href="/docs/require.md">Requirements</a></br>
-      <!-- a href="/docs/abstract.md">Abstraction</a --->Abstraction<br>
+      <a href="/docs/ethics.md">Ethics</a></br> 
+      <a href="/docs/require.md">Requirements</a></br></strike>
+      <a href="/docs/abstract.md">Abstraction</a> [passcode: softeng22! <a href="https://ncsu.zoom.us/rec/share/6BVaerqnSJBGuT1ELYnr7tsZXuq_VHhTioVLzb2k_u_3dDKsqT3ukyhZ34sFE8a_.vXCLEXFr26kGvXl8">video1</a>;
+<a href="https://ncsu.zoom.us/rec/share/6BVaerqnSJBGuT1ELYnr7tsZXuq_VHhTioVLzb2k_u_3dDKsqT3ukyhZ34sFE8a_.vXCLEXFr26kGvXl8">video2</a>]
+
+<br>
       <!-- a href="/docs/abstract.md">Languages</a --->Languages+DB<br>
-      AI<br>
+     <a href="/docs/ai4se.md">AI for SE</a> | <a href="https://ncsu.zoom.us/rec/play/hguXOgoIl3ZMta5gztAWj1oPaLsTKorKmvjVW6IRScRLMCBppXBBxoY0DZNTylx638YRKI-ZM-ACvQsN.4A3XQeOlHRFMNUcM">Video1</a>, password: NQIc1p2+ <br>
+     <a href="https://ncsu.zoom.us/rec/share/Z6DPpByqK00lDaMC6H7OYKVjNWD3VnJLrxi_WDXK6ReJ46fuRw_8K6AN8AWyMdDM.Gpk5CaDYeLfOp85K">MLOps</a>, password: 79Nf!yCt<br>
     <!-- a href="/docs/testing.md">Testing</a ---> Testing <br>   
-    <!-- a href="/docs/analytics.md">Analytics</a --->Analytics</br>
   </dd>
 
 </dl>
@@ -81,10 +84,10 @@ Sept 30, <a href="/docs/hw2345.md">hw 5</a><br>
 <hr>
 Oct 9, <a href="/docs/proj1.md">Project 1</a><br>
 Oct 10, holiday<br>
-Oct 12, Mid-term exam<br></strike>
+Oct 12, Mid-term exam<br>
 Oct 17, Pitch(g1-25)<br>
 Oct 19, Pitch(g26+)<br>
-Oct 21,  Voting(noon)<br>
+Oct 21,  Voting(noon)<br></strike>
 <hr>
 Nov 23, holiday<br>
 Nov 30, grading<br>
