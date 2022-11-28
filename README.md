@@ -91,7 +91,7 @@ Oct 21,  Voting(noon)<br></strike>
 <hr>
 Nov 23, holiday<br>
 Nov 30, grading<br>
-Nov 30, <a href="/docs/proj2.md">Project 2</a><br>
+Dec 5, <a href="/docs/proj2.md">Project 2</a><br>
 <hr>
 Dec 5, grading<br>
 Dec 5, <a href="/docs/essay.md">Essay</a><br>
